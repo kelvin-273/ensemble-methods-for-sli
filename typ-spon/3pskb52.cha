@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/c-00004968-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;09.02||||Target_Child|||
+@Date:	07-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons? Child has mild speech impediment but all word final sounds are clear.
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	right [//] he's got a cold .
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP art|a n|cold .
+*CHI:	and he never blows his nose .
+%mor:	coord|and pro:sub|he adv|never v|blow-3S pro:poss:det|his n|nose .
+*CHI:	so he's always sniffing really hard through his nose .
+%mor:	adv|so pro:sub|he~cop|be&3S adv|always part|sniff-PRESP
+	adv|real&dadj-LY adv|hard prep|through pro:poss:det|his n|nose .
+*CHI:	he takes up three quarters of the table .
+%mor:	pro:sub|he v|take-3S prep|up det:num|three n|quarter-PL prep|of
+	art|the n|table .
+*CHI:	he's always elbowing me .
+%mor:	pro:sub|he~aux|be&3S adv|always part|elbow-PRESP pro:obj|me .
+*CHI:	he [/-] he never does any of the work , when we have_to work in
+	partner work .
+%mor:	pro:sub|he adv|never v|do&3S qn|any prep|of art|the n|work cm|cm
+	adv:wh|when pro:sub|we mod:aux|have_to v|work prep|in n|partner
+	n|work .
+*CHI:	he thinks he's really hard .
+%mor:	pro:sub|he v|think-3S pro:sub|he~aux|be&3S adv|real&dadj-LY
+	adv|hard .
+*CHI:	and he's really little .
+%mor:	coord|and pro:sub|he~aux|be&3S adv|real&dadj-LY adj|little .
+*CHI:	and he just says the stupidest of things .
+%mor:	coord|and pro:sub|he adv|just v|say-3S art|the adj|stupid-SP
+	prep|of n|thing-PL .
+*INV:	0 [=! laughing] .
+*CHI:	and he just breathes really loudly .
+%mor:	coord|and pro:sub|he adv|just v|breathe-3S adv|real&dadj-LY
+	adv|loud&dadj-LY .
+*CHI:	and he's the most annoying person on the planet ever !
+%mor:	coord|and pro:sub|he~aux|be&3S art|the qn|most part|annoy-PRESP
+	n|person prep|on art|the n|planet adv|ever !
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

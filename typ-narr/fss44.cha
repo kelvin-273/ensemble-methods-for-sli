@@ -1,0 +1,92 @@
+@UTF8
+@PID:	11312/c-00004913-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;08.17||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	okay [/-] there once was a boy called Andrew .
+%mor:	adv|there adv|once cop|be&PAST&13S art|a n|boy part|call-PASTP
+	n:prop|Andrew .
+*CHI:	and he went out and bought a frog .
+%mor:	coord|and pro:sub|he v|go&PAST adv|out coord|and v|buy&PAST art|a
+	n|frog .
+*CHI:	he also had a dog .
+%mor:	pro:sub|he adv|also v|have&PAST art|a n|dog .
+*CHI:	the dog really didn't like the frog very much [=! laughs] .
+%mor:	art|the n|dog adv|real&dadj-LY mod|do&PAST~neg|not co|like art|the
+	n|frog adv|very qn|much .
+*CHI:	so the dog was sniffing around the frog to find out new things
+	about him .
+%mor:	co|so art|the n|dog aux|be&PAST&13S part|sniff-PRESP prep|around
+	art|the n|frog inf|to v|find adv|out adj|new n|thing-PL prep|about
+	pro:obj|him .
+*CHI:	but that night the frog tried to escape , when Andrew was asleep .
+%mor:	conj|but det|that n|night art|the n|frog v|try-PAST inf|to n|escape
+	cm|cm conj|when n:prop|Andrew cop|be&PAST&13S adv|asleep .
+*CHI:	<so the next morning> [/] so the next morning , Andrew looked over
+	the side of his bed to the jar where the frog with [*] sleeping and
+	the frog had disappeared .
+%mor:	co|so art|the adj|next n|morning cm|cm n:prop|Andrew v|look-PAST
+	prep|over art|the n|side prep|of pro:poss:det|his n|bed prep|to
+	art|the n|jar rel|where art|the n|frog prep|with
+	n:gerund|sleep-PRESP coord|and art|the n|frog aux|have&PAST
+	dis#part|appear-PASTP .
+%err:	with = was
+*INV:	+< that's fine .
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+*CHI:	he looked everywhere for the frog and so did the dog .
+%mor:	pro:sub|he v|look-PAST n|everywhere prep|for art|the n|frog
+	coord|and adv|so v|do&PAST art|the n|dog .
+*CHI:	they looked out the window .
+%mor:	pro:sub|they v|look-PAST prep|out art|the n|window .
+*CHI:	and the dog fell out .
+%mor:	coord|and art|the n|dog v|fall&PAST adv|out .
+*CHI:	Andrew was very unhappy .
+%mor:	n:prop|Andrew cop|be&PAST&13S adv|very un#adj|happy .
+*CHI:	they went for a walk to the woods to look for the frog but couldn't
+	find him .
+%mor:	pro:sub|they v|go&PAST prep|for art|a n|walk prep|to art|the
+	n|wood-PL inf|to v|look prep|for art|the n|frog conj|but
+	mod|could~neg|not v|find pro:obj|him .
+*CHI:	they looked in holes and beehives but could not find him there .
+%mor:	pro:sub|they v|look-PAST prep|in n|hole-PL coord|and n|beehive-PL
+	conj|but mod|could neg|not v|find pro:obj|him adv|there .
+*CHI:	they looked in trees and could not find him there .
+%mor:	pro:sub|they v|look-PAST prep|in n|tree-PL coord|and mod|could
+	neg|not v|find pro:obj|him adv|there .
+*CHI:	Andrew looked in a bush and instead of finding , a frog he found a
+	deer .
+%mor:	n:prop|Andrew v|look-PAST prep|in art|a n|bush coord|and
+	adv|instead prep|of n:gerund|find-PRESP cm|cm art|a n|frog
+	pro:sub|he v|find&PAST art|a n|deer .
+*CHI:	the deer chased him away .
+%mor:	art|the n|deer v|chase-PAST pro:obj|him adv|away .
+*CHI:	and then he fell over a hill and into a pond .
+%mor:	coord|and adv:tem|then pro:sub|he v|fall&PAST prep|over art|a
+	n|hill coord|and prep|into art|a n|pond .
+*CHI:	the dog climbed on top of his head to get out_of the water .
+%mor:	art|the n|dog v|climb-PAST prep|on n|top prep|of pro:poss:det|his
+	n|head inf|to v|get prep|out_of art|the n|water .
+*CHI:	Andrew told the dog to be very quiet .
+%mor:	n:prop|Andrew v|tell&PAST art|the n|dog inf|to cop|be adv|very
+	adj|quiet .
+*CHI:	and he looked over a trunk to find out if the frog was behind it .
+%mor:	coord|and pro:sub|he v|look-PAST prep|over art|a n|trunk inf|to
+	v|find adv|out conj|if art|the n|frog aux|be&PAST&13S adv|behind
+	pro|it .
+*CHI:	and yes he was !
+%mor:	coord|and co|yes pro:sub|he cop|be&PAST&13S !
+*CHI:	he had found a girlfriend and had lots_of babies .
+%mor:	pro:sub|he aux|have&PAST part|find&PASTP art|a n|+n|girl+n|friend
+	coord|and v|have&PAST qn|lots_of n|baby-PL .
+*CHI:	so Andrew let him go away .
+%mor:	co|so n:prop|Andrew v|let&ZERO pro:obj|him v|go adv|away .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

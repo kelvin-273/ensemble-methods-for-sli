@@ -1,0 +1,121 @@
+@UTF8
+@PID:	11312/c-00004792-1
+@Begin
+@Languages:	eng
+@Participants:	INV Zoe Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;4.01||||Target_Child|||
+@Date:	30-JAN-2003
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*INV:	so what happened last week ?
+%mor:	adv|so pro:wh|what v|happen-PAST adv|last n|week ?
+*CHI:	<we saw> [/-] we looked at a frog .
+%mor:	pro:sub|we v|look-PAST prep|at art|a n|frog .
+*INV:	yep .
+%mor:	co|yep .
+*CHI:	we go to sleep <the dog> [//] the frog escapes .
+%mor:	pro:sub|we v|go inf|to v|sleep art|the n|frog n|escape-PL .
+*CHI:	and we discover that the frog has actually escaped .
+%mor:	coord|and pro:sub|we v|discover rel|that art|the n|frog aux|have&3S
+	adv|actual&dadj-LY part|escape-PASTP .
+*INV:	right .
+%mor:	co|right .
+*INV:	then what happened ?
+%mor:	adv:tem|then pro:wh|what v|happen-PAST ?
+*CHI:	&um I get dressed .
+%mor:	pro:sub|I aux|get part|dress-PASTP .
+*CHI:	&um we call for the frog to see if he's anywhere .
+%mor:	pro:sub|we v|call prep|for art|the n|frog inf|to v|see conj|if
+	pro:sub|he~aux|be&3S adv|anywhere .
+*INV:	+< yeah .
+%mor:	co|yeah .
+*CHI:	0 [*] dog escapes but I catch him .
+%mor:	n|dog n|escape-PL conj|but pro:sub|I v|catch pro:obj|him .
+%err:	0 = the
+%exp:	sniffs .
+*INV:	okay .
+%mor:	co|okay .
+*INV:	then what happened ?
+%mor:	adv:tem|then pro:wh|what v|happen-PAST ?
+*CHI:	we call to see where the dog [//] frog is .
+%mor:	pro:sub|we v|call inf|to v|see adv:wh|where art|the n|frog
+	cop|be&3S .
+*INV:	yep .
+%mor:	co|yep .
+*CHI:	I still call for him .
+%mor:	pro:sub|I adj|still n|call prep|for pro:obj|him .
+*CHI:	the dog &um barks at a beehive .
+%mor:	art|the n|dog n|bark-PL prep|at art|a n|beehive .
+*INV:	and what happened then ?
+%mor:	coord|and pro:wh|what v|happen-PAST adv:tem|then ?
+*CHI:	&um a gopher came out .
+%mor:	art|a n|gopher v|come&PAST adv|out .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	&um 0 [*] beehive fell down .
+%mor:	n|beehive v|fall&PAST adv|down .
+%err:	0 = the
+*CHI:	&um (.) I look in the tree to find the frog .
+%mor:	pro:sub|I v|look prep|in art|the n|tree inf|to v|find art|the
+	n|frog .
+*INV:	+< yeah .
+%mor:	co|yeah .
+*CHI:	an owl comes out and scares me and the dog +/.
+%mor:	art|a n|owl v|come-3S adv|out coord|and v|scare-3S pro:obj|me
+	coord|and art|the n|dog +/.
+*INV:	it scared him right ?
+%mor:	pro|it v|scare-PAST pro:obj|him n|right ?
+*CHI:	yeah .
+%mor:	co|yeah .
+*CHI:	and the dog is chasing [//] chased by the bees .
+%mor:	coord|and art|the n|dog aux|be&3S part|chase-PASTP prep|by art|the
+	n|bee-PL .
+*INV:	okay what happened then ?
+%mor:	co|okay pro:wh|what v|happen-PAST adv:tem|then ?
+*CHI:	&um the owl comes down <and tried> [//] and attacked me .
+%mor:	art|the n|owl v|come-3S adv|down coord|and v|attack-PAST pro:obj|me
+	.
+*CHI:	but I escape and then still call for the frog .
+%mor:	conj|but pro:sub|I v|escape coord|and adv:tem|then adj|still n|call
+	prep|for art|the n|frog .
+*CHI:	then a deer comes along on top of me .
+%mor:	adv:tem|then art|a n|deer v|come-3S adv|along prep|on n|top prep|of
+	pro:obj|me .
+*INV:	okay so the deer came along and then what happened then ?
+%mor:	co|okay conj|so art|the n|deer v|come&PAST adv|along coord|and
+	adv:tem|then pro:wh|what v|happen-PAST adv:tem|then ?
+*CHI:	I was on top of the deer .
+%mor:	pro:sub|I cop|be&PAST&13S prep|on n|top prep|of art|the n|deer .
+*CHI:	and the deer ran .
+%mor:	coord|and art|the n|deer v|run&PAST .
+*INV:	yep .
+%mor:	co|yep .
+*CHI:	0 [*] deer dropped me and the dog down .
+%mor:	n|deer v|drop-PAST pro:obj|me coord|and art|the n|dog adv|down .
+%err:	0 = the
+*CHI:	0 [*] fall into a pond .
+%mor:	n|fall prep|into art|a n|pond .
+*CHI:	(.) and the dog is safe as well .
+%mor:	coord|and art|the n|dog cop|be&3S adj|safe adv|as adv|well .
+*CHI:	&um 0 [*] see a bark [*] .
+%mor:	v|see art|a n|bark .
+%err:	0 = I; bark = log
+*CHI:	0 [*] asked the dog to be quiet and see if I can find it .
+%mor:	v|ask-PAST art|the n|dog inf|to cop|be n|quiet coord|and v|see
+	conj|if pro:sub|I mod|can v|find pro|it .
+%err:	0 = I
+*CHI:	then I see two frogs with &um little &um toads [*] as well .
+%mor:	adv:tem|then pro:sub|I v|see det:num|two n|frog-PL prep|with
+	adj|little n|toad-PL adv|as adv|well .
+%err:	toads = frogs
+*CHI:	&um I take the &um little baby as well from the family .
+%mor:	pro:sub|I v|take art|the adj|little n|baby prep|as co|well
+	prep|from art|the n|family .
+*INV:	+< yeah .
+%mor:	co|yeah .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

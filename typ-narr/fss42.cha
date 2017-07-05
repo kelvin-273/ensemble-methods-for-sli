@@ -1,0 +1,96 @@
+@UTF8
+@PID:	11312/c-00004911-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;05.18||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	last night I and my dog found a frog and renamed this frog Tim .
+%mor:	adj|last n|night pro:sub|I coord|and pro:poss:det|my n|dog
+	v|find&PAST art|a n|frog coord|and re#v|name-PAST det|this n|frog
+	n:prop|Tim .
+*CHI:	and during the night Tim escaped from his jar .
+%mor:	coord|and prep|during art|the n|night n:prop|Tim v|escape-PAST
+	prep|from pro:poss:det|his n|jar .
+*CHI:	and in the morning when I woke up I could not find him anywhere .
+%mor:	coord|and prep|in art|the n|morning conj|when pro:sub|I v|wake&PAST
+	adv|up pro:sub|I mod|could neg|not v|find pro:obj|him adv|anywhere .
+*CHI:	I looked everywhere under the bed , in the boots and even in the
+	jar .
+%mor:	pro:sub|I v|look-PAST n|everywhere prep|under art|the n|bed cm|cm
+	prep|in art|the n|boot-PL coord|and adv|even prep|in art|the n|jar .
+*CHI:	we looked out the window .
+%mor:	pro:sub|we v|look-PAST prep|out art|the n|window .
+*CHI:	and my dog fell and (.) he broke the jar .
+%mor:	coord|and pro:poss:det|my n|dog v|fall&PAST coord|and pro:sub|he
+	v|break&PAST art|the n|jar .
+*CHI:	which [*] was very angry .
+%mor:	rel|which cop|be&PAST&13S adv|very adj|angry .
+%err:	which = I [?]
+*CHI:	but because I love my dog so much I wasn't too angry at him .
+%mor:	conj|but conj|because pro:sub|I v|love pro:poss:det|my n|dog adv|so
+	qn|much pro:sub|I aux|be&PAST&13S~neg|not adv|too adj|angry prep|at
+	pro:obj|him .
+*CHI:	we walked towards the evil woods .
+%mor:	pro:sub|we v|walk-PAST prep|towards art|the n|evil n|wood-PL .
+*CHI:	and we shouted and shouted but heard no croaking .
+%mor:	coord|and pro:sub|we v|shout-PAST coord|and v|shout-PAST conj|but
+	v|hear&PAST qn|no part|croak-PRESP .
+*CHI:	we checked everywhere from the holes to the beehives .
+%mor:	pro:sub|we v|check-PAST n|everywhere prep|from art|the n|hole-PL
+	prep|to art|the n|beehive-PL .
+*CHI:	and in the hole an evil little mole came up and bit my nose .
+%mor:	coord|and prep|in art|the n|hole art|a adj|evil adj|little n|mole
+	v|come&PAST adv|up coord|and v|bite&PAST pro:poss:det|my n|nose .
+*CHI:	&um my dog knocked over the beehive .
+%mor:	pro:poss:det|my n|dog v|knock-PAST prep|over art|the n|beehive .
+*CHI:	and we were chased away by the bees .
+%mor:	coord|and pro:sub|we aux|be&PAST part|chase-PASTP adv|away prep|by
+	art|the n|bee-PL .
+*CHI:	whilst I was looking in a tree , an owl popped out and scared me .
+%mor:	conj|whilst pro:sub|I aux|be&PAST&13S part|look-PRESP prep|in art|a
+	n|tree cm|cm art|a n|owl v|pop-PAST adv|out coord|and v|scare-PAST
+	pro:obj|me .
+*CHI:	I climbed to the biggest rock I could find and shouted as loud as
+	possible .
+%mor:	pro:sub|I v|climb-PAST prep|to art|the adj|big-SP n|rock pro:sub|I
+	mod|could v|find coord|and v|shout-PAST prep|as adj|loud prep|as
+	adj|possible .
+*CHI:	and a giant antelope came up and I was hooked in its horns .
+%mor:	coord|and art|a adj|giant n|antelope v|come&PAST adv|up coord|and
+	pro:sub|I aux|be&PAST&13S part|hook-PASTP prep|in pro:poss:det|its
+	n|horn-PL .
+*CHI:	he ran and ran <until we came to (.)> [//] until he came to a cliff
+	which [*] he stopped .
+%mor:	pro:sub|he v|run&PAST coord|and v|run&PAST prep|until pro:sub|he
+	v|come&PAST prep|to art|a n|cliff rel|which pro:sub|he v|stop-PAST .
+%err:	which = when
+*CHI:	and we were thrown across the cliff into a pool .
+%mor:	coord|and pro:sub|we aux|be&PAST part|throw&PASTP prep|across
+	art|the n|cliff prep|into art|a n|pool .
+*CHI:	when [*] we heard a small croaking noise .
+%mor:	conj|when pro:sub|we v|hear&PAST art|a adj|small part|croak-PRESP
+	n|noise .
+%err:	when = then
+*CHI:	so we had to keep quiet .
+%mor:	co|so pro:sub|we v|have&PAST inf|to v|keep n|quiet .
+*CHI:	and we hid behind a log to jump over and to see a family of frogs .
+%mor:	coord|and pro:sub|we v|hide&PAST prep|behind art|a n|log inf|to
+	v|jump adv|over coord|and prep|to v|see art|a n|family prep|of
+	n|frog-PL .
+*CHI:	and there was our frog with them .
+%mor:	coord|and adv|there cop|be&PAST&13S pro:poss:det|our n|frog
+	prep|with pro:obj|them .
+*CHI:	so we took our frog and waved goodbye .
+%mor:	co|so pro:sub|we v|take&PAST pro:poss:det|our n|frog coord|and
+	part|wave-PASTP co|goodbye .
+*CHI:	and we walked to [//] all the way home .
+%mor:	coord|and pro:sub|we v|walk-PAST qn|all art|the n|way n|home .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

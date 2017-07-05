@@ -1,0 +1,138 @@
+@UTF8
+@PID:	11312/c-00004893-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;03.28||||Target_Child|||
+@Date:	27-MAY-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	there once was a boy called Simon and a little dog called Tilly .
+%mor:	adv|there adv|once cop|be&PAST&13S art|a n|boy part|call-PASTP
+	n:prop|Simon coord|and art|a adj|little n|dog v|call-PAST
+	n:prop|Tilly .
+*CHI:	and he found a frog .
+%mor:	coord|and pro:sub|he v|find&PAST art|a n|frog .
+*CHI:	the frog he kept in a little clear jar .
+%mor:	art|the n|frog pro:sub|he v|keep&PAST prep|in art|a adj|little
+	adj|clear n|jar .
+*CHI:	that night he went to bed and the frog decided he wanted to go for
+	a walk .
+%mor:	det|that n|night pro:sub|he v|go&PAST prep|to n|bed coord|and
+	art|the n|frog v|decide-PAST pro:sub|he v|want-PAST inf|to v|go
+	prep|for art|a n|walk .
+*CHI:	in the morning when Simon and Tilly got up the frog had disappeared
+	.
+%mor:	prep|in art|the n|morning conj|when n:prop|Simon coord|and
+	n:prop|Tilly v|get&PAST prep|up art|the n|frog aux|have&PAST
+	dis#part|appear-PASTP .
+*CHI:	Simon and Tilly looked everywhere .
+%mor:	n:prop|Simon coord|and n:prop|Tilly v|look-PAST n|everywhere .
+*CHI:	Simon looked in his boots , on the floor .
+%mor:	n:prop|Simon v|look-PAST prep|in pro:poss:det|his n|boot-PL cm|cm
+	prep|on art|the n|floor .
+*CHI:	Tilly got his head stuck in a little jar .
+%mor:	n:prop|Tilly v|get&PAST pro:poss:det|his n|head v|stick&PAST
+	prep|in art|a adj|little n|jar .
+*CHI:	he looked out the window and called the frog .
+%mor:	pro:sub|he v|look-PAST prep|out art|the n|window coord|and
+	v|call-PAST art|the n|frog .
+*CHI:	but it didn't come back .
+%mor:	conj|but pro|it mod|do&PAST~neg|not v|come adv|back .
+*CHI:	Tilly still had his head stuck in the jar .
+%mor:	n:prop|Tilly adv|still v|have&PAST pro:poss:det|his n|head
+	v|stick&PAST prep|in art|the n|jar .
+*CHI:	then Tilly fell out_of the window and smashed the jar all over the
+	floor .
+%mor:	adv:tem|then n:prop|Tilly v|fall&PAST prep|out_of art|the n|window
+	coord|and v|smash-PAST art|the n|jar adv|all prep|over art|the
+	n|floor .
+*CHI:	Simon looked very concerned .
+%mor:	n:prop|Simon v|look-PAST adv|very part|concern-PASTP .
+*CHI:	Simon put on his boots and went downstairs and picked Tilly up
+	looking very angry .
+%mor:	n:prop|Simon v|put&ZERO prep|on pro:poss:det|his n|boot-PL
+	coord|and v|go&PAST adv|downstairs coord|and v|pick-PAST
+	n:prop|Tilly adv|up part|look-PRESP adv|very adj|angry .
+*CHI:	Tilly licked his face .
+%mor:	n:prop|Tilly v|lick-PAST pro:poss:det|his n|face .
+*CHI:	they went outside and called in the wood .
+%mor:	pro:sub|they v|go&PAST adv|outside coord|and v|call-PAST prep|in
+	art|the n|wood .
+*CHI:	but the frog didn't come back .
+%mor:	conj|but art|the n|frog mod|do&PAST~neg|not v|come adv|back .
+*CHI:	Simon looked down a molehill .
+%mor:	n:prop|Simon v|look-PAST prep|down art|a n|+n|mole+n|hill .
+*CHI:	but there was [*] anything there .
+%mor:	conj|but pro:exist|there cop|be&PAST&13S pro:indef|anything
+	adv|there .
+%err:	was = wasn't
+*CHI:	Tilly barked at a beehive .
+%mor:	n:prop|Tilly v|bark-PAST prep|at art|a n|beehive .
+*CHI:	the bees started to chase them .
+%mor:	art|the n|bee-PL v|start-PAST inf|to v|chase pro:obj|them .
+*CHI:	they chased them more as Simon looked in a tree .
+%mor:	pro:sub|they v|chase-PAST pro:obj|them pro:indef|more prep|as
+	n:prop|Simon v|look-PAST prep|in art|a n|tree .
+*CHI:	Tilly barked up a tree .
+%mor:	n:prop|Tilly v|bark-PAST prep|up art|a n|tree .
+*CHI:	and owl came out .
+%mor:	coord|and n|owl v|come&PAST adv|out .
+*CHI:	and Simon fell off the tree .
+%mor:	coord|and n:prop|Simon v|fall&PAST prep|off art|the n|tree .
+*CHI:	and the bees started to chase Tilly away .
+%mor:	coord|and art|the n|bee-PL v|start-PAST inf|to v|chase n:prop|Tilly
+	adv|away .
+*CHI:	Simon tried to <hide from> [/] hide from the owl on a rock .
+%mor:	n:prop|Simon v|try-PAST inf|to v|hide prep|from art|the n|owl
+	prep|on art|a n|rock .
+*CHI:	he climbed up a rock and started to call for the frog , not
+	realizing there was a deer behind it .
+%mor:	pro:sub|he v|climb-PAST prep|up art|a n|rock coord|and v|start-PAST
+	prep|to n|call prep|for art|the n|frog cm|cm neg|not
+	part|realize-PRESP adv|there cop|be&PAST&13S art|a n|deer adv|behind
+	pro|it .
+*CHI:	the deer picked him up and started running away , chasing Tilly off
+	the cliff .
+%mor:	art|the n|deer v|pick-PAST pro:obj|him adv|up coord|and
+	v|start-PAST n:gerund|run-PRESP adv|away cm|cm part|chase-PRESP
+	n:prop|Tilly prep|off art|the n|cliff .
+*CHI:	they both fell into a big pond with a big splash as the deer
+	stopped .
+%mor:	pro:sub|they post|both v|fall&PAST prep|into art|a adj|big n|pond
+	prep|with art|a adj|big n|splash prep|as art|the n|deer v|stop-PAST
+	.
+*CHI:	as they splashed into the water they got up .
+%mor:	conj|as pro:sub|they v|splash-PAST prep|into art|the n|water
+	pro:sub|they v|get&PAST adv|up .
+*CHI:	and they both looked very wet and happy .
+%mor:	coord|and pro:sub|they post|both v|look-PAST adv|very adj|wet
+	coord|and adj|happy .
+*CHI:	Simon told Tilly to be quiet , as he tried to look over a log to
+	look for the frog .
+%mor:	n:prop|Simon v|tell&PAST n:prop|Tilly inf|to cop|be n|quiet cm|cm
+	conj|as pro:sub|he v|try-PAST inf|to v|look prep|over art|a n|log
+	inf|to v|look prep|for art|the n|frog .
+*CHI:	and over the log was [*] two frogs sitting there .
+%mor:	coord|and prep|over art|the n|log cop|be&PAST&13S det:num|two
+	n|frog-PL part|sit-PRESP adv|there .
+%err:	was = were
+*CHI:	and there was his little frog who came hopping back to him with all
+	his brothers and sisters .
+%mor:	coord|and adv|there cop|be&PAST&13S pro:poss:det|his adj|little
+	n|frog rel|who v|come&PAST n:gerund|hop-PRESP adv|back prep|to
+	pro:obj|him prep|with qn|all pro:poss:det|his n|brother-PL coord|and
+	n|sister-PL .
+*CHI:	Simon picked up his frog and decided he was going to go home .
+%mor:	n:prop|Simon v|pick-PAST prep|up pro:poss:det|his n|frog coord|and
+	v|decide-PAST pro:sub|he aux|be&PAST&13S part|go-PRESP inf|to v|go
+	n|home .
+*CHI:	they all lived happily ever after .
+%mor:	pro:sub|they post|all v|live-PAST adv|happy&dadj-LY adv|ever
+	adv:tem|after .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

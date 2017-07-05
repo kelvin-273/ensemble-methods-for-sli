@@ -1,0 +1,93 @@
+@UTF8
+@PID:	11312/c-00004861-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;06.07||||Target_Child|||
+@Date:	03-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	there was a young boy called Peter who once had a frog and kept in
+	a jar .
+%mor:	pro:exist|there cop|be&PAST&13S art|a adj|young n|boy
+	part|call-PASTP n:prop|Peter rel|who adv|once v|have&PAST art|a
+	n|frog coord|and v|keep&PAST prep|in art|a n|jar .
+*CHI:	when Peter went to sleep the frog escaped .
+%mor:	conj|when n:prop|Peter v|go&PAST inf|to v|sleep art|the n|frog
+	v|escape-PAST .
+*CHI:	in [/-] when he woke up in the morning it was gone .
+%mor:	conj|when pro:sub|he v|wake&PAST adv|up prep|in art|the n|morning
+	pro|it aux|be&PAST&13S part|go&PASTP .
+*INV:	good stuff .
+%mor:	adj|good n|stuff .
+*CHI:	&um he searched everywhere , inside boots .
+%mor:	pro:sub|he v|search-PAST n|everywhere cm|cm prep|inside n|boot-PL .
+*CHI:	he looked out_of the window to see if it had jumped out .
+%mor:	pro:sub|he v|look-PAST prep|out_of art|the n|window inf|to v|see
+	conj|if pro|it aux|have&PAST part|jump-PASTP adv|out .
+*CHI:	but he couldn't see it anywhere .
+%mor:	conj|but pro:sub|he mod|could~neg|not v|see pro|it adv|anywhere .
+*CHI:	the dog jumped out the window .
+%mor:	art|the n|dog v|jump-PAST prep|out art|the n|window .
+*CHI:	and Peter jumped out after it .
+%mor:	coord|and n:prop|Peter v|jump-PAST adv|out prep|after pro|it .
+*CHI:	they left home and went to <look for the dog in> [//] look for the
+	frog in the woods .
+%mor:	pro:sub|they v|leave&PAST n|home coord|and v|go&PAST inf|to v|look
+	prep|for art|the n|frog prep|in art|the n|wood-PL .
+*CHI:	they searched in mole holes .
+%mor:	pro:sub|they v|search-PAST prep|in n|mole n|hole-PL .
+*CHI:	they searched up in the trees .
+%mor:	pro:sub|they v|search-PAST adv|up prep|in art|the n|tree-PL .
+*CHI:	they started to head for the woods .
+%mor:	pro:sub|they v|start-PAST prep|to n|head prep|for art|the n|wood-PL
+	.
+*CHI:	they looked inside every tree .
+%mor:	pro:sub|they v|look-PAST prep|inside qn|every n|tree .
+*CHI:	&um they came across a bees' nest .
+%mor:	pro:sub|they v|come&PAST prep|across art|a n|bee-PL~poss|s n|nest .
+*CHI:	and the bees chased the dog right into the depths of the wood .
+%mor:	coord|and art|the n|bee-PL v|chase-PAST art|the n|dog adv|right
+	prep|into art|the n|depth-PL prep|of art|the n|wood .
+*CHI:	they searched behind the rocks , above the rocks .
+%mor:	pro:sub|they v|search-PAST prep|behind art|the n|rock-PL cm|cm
+	prep|above art|the n|rock-PL .
+*CHI:	and behind the rock was &um (.) a deer hiding .
+%mor:	coord|and prep|behind art|the n|rock cop|be&PAST&13S art|a n|deer
+	part|hide-PRESP .
+*CHI:	&um (.) accidentally Peter &er climbed onto the rock .
+%mor:	adv|accidental&dadj-LY n:prop|Peter v|climb-PAST prep|onto art|the
+	n|rock .
+*CHI:	and the deer picked him up <by the head and> [//] on his head .
+%mor:	coord|and art|the n|deer v|pick-PAST pro:obj|him adv|up prep|on
+	pro:poss:det|his n|head .
+*CHI:	and they were running through the woods when they came to the top
+	of a cliff .
+%mor:	coord|and pro:sub|they aux|be&PAST part|run-PRESP prep|through
+	art|the n|wood-PL conj|when pro:sub|they v|come&PAST prep|to art|the
+	n|top prep|of art|a n|cliff .
+*CHI:	suddenly the deer stopped .
+%mor:	adv|sudden&dadj-LY art|the n|deer v|stop-PAST .
+*CHI:	and Peter and the dog fell off the edge into the river .
+%mor:	coord|and n:prop|Peter coord|and art|the n|dog v|fall&PAST prep|off
+	art|the n|edge prep|into art|the n|river .
+*CHI:	Peter was soaked .
+%mor:	n:prop|Peter aux|be&PAST&13S part|soak-PASTP .
+*CHI:	luckily the water was not very deep .
+%mor:	adv|luck&dadj-Y-LY art|the n|water aux|be&PAST&13S neg|not adv|very
+	adj|deep .
+*CHI:	and they managed to grab onto a log and pull themselves to safety .
+%mor:	coord|and pro:sub|they v|manage-PAST prep|to n|grab prep|onto art|a
+	n|log coord|and v|pull pro:refl|themselves prep|to n|safety .
+*CHI:	they looked behind the log only to find the frog and his family .
+%mor:	pro:sub|they v|look-PAST prep|behind art|the v|log qn|only inf|to
+	v|find art|the n|frog coord|and pro:poss:det|his n|family .
+*CHI:	he [/] he picked up the frog and took it back home .
+%mor:	pro:sub|he v|pick-PAST prep|up art|the n|frog coord|and v|take&PAST
+	pro|it adv|back n|home .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

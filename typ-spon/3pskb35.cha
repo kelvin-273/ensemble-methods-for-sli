@@ -1,0 +1,34 @@
+@UTF8
+@PID:	11312/c-00004951-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;02.22||||Target_Child|||
+@Date:	03-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	<when she> [//] if I take something of hers , she kind_of bullies
+	me and stuff .
+%mor:	conj|if pro:sub|I v|take pro:indef|something prep|of pro:poss|hers
+	cm|cm pro:sub|she adv|kind_of v|bully-3S pro:obj|me coord|and
+	n|stuff .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	and if I turn the tv over she always snatches it out_of my hand and
+	turns it back over again to her favorite program .
+%mor:	coord|and conj|if pro:sub|I v|turn art|the n|tv adv|over
+	pro:sub|she adv|always v|snatch-3S pro|it prep|out_of
+	pro:poss:det|my n|hand coord|and v|turn-3S pro|it adv|back prep|over
+	adv|again prep|to pro:poss:det|her adj|favorite n|program .
+*INV:	+< uhhuh .
+%mor:	co|uhhuh .
+*INV:	yeah , anything else does she do ?
+%mor:	co|yeah cm|cm pro:indef|anything post|else v|do&3S pro:sub|she v|do
+	?
+*CHI:	&um .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

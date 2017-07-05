@@ -1,0 +1,76 @@
+@UTF8
+@PID:	11312/c-00004905-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;07.04||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	there's a little boy .
+%mor:	pro:exist|there~cop|be&3S art|a adj|little n|boy .
+*CHI:	and his dog had found a [/] &er a frog and kept 0 [*] in a jar and
+	left it overnight .
+%mor:	coord|and pro:poss:det|his n|dog aux|have&PAST part|find&PASTP
+	art|a n|frog coord|and v|keep&PAST prep|in art|a n|jar coord|and
+	v|leave&PAST pro|it adv|overnight .
+%err:	0 = it
+*CHI:	and during the sleep the frog escaped out_of the window &um and got
+	[//] went missing .
+%mor:	coord|and prep|during art|the n|sleep art|the n|frog v|escape-PAST
+	prep|out_of art|the n|window coord|and v|go&PAST part|miss-PRESP .
+*CHI:	the little boy and the dog woke up in the morning to find that the
+	frog had gone and looked everywhere in their room and shouted out
+	the window .
+%mor:	art|the adj|little n|boy coord|and art|the n|dog v|wake&PAST adv|up
+	prep|in art|the n|morning inf|to v|find rel|that art|the n|frog
+	aux|have&PAST part|go&PASTP coord|and v|look-PAST n|everywhere
+	prep|in pro:poss:det|their n|room coord|and v|shout-PAST prep|out
+	art|the n|window .
+*CHI:	and they still couldn't find it .
+%mor:	coord|and pro:sub|they adv|still mod|could~neg|not v|find pro|it .
+*CHI:	so they went looking for it outside .
+%mor:	co|so pro:sub|they v|go&PAST n:gerund|look-PRESP prep|for pro|it
+	adv|outside .
+*CHI:	and they went into the forest , looked in little holes and up trees
+	.
+%mor:	coord|and pro:sub|they v|go&PAST prep|into art|the n|forest cm|cm
+	v|look-PAST prep|in adj|little n|hole-PL coord|and prep|up n|tree-PL
+	.
+*CHI:	and they still couldn't find it .
+%mor:	coord|and pro:sub|they adv|still mod|could~neg|not v|find pro|it .
+*CHI:	&um <and they looked> [/-] and they disturbed a &er bees' hive and
+	an owl and got chased by them .
+%mor:	coord|and pro:sub|they v|disturb-PAST art|a n|bee-PL~poss|s n|hive
+	coord|and art|a n|owl coord|and part|get&PASTP v|chase-PAST prep|by
+	pro:obj|them .
+*CHI:	and then the boy &er shouted out on top of a rock .
+%mor:	coord|and adv:tem|then art|the n|boy part|shout-PASTP adv|out
+	prep|on n|top prep|of art|a n|rock .
+*CHI:	and then a deer <got it by its> [//] got him by its horns and
+	chucked him into a pond .
+%mor:	coord|and adv:tem|then art|a n|deer v|get&PAST pro:obj|him prep|by
+	pro:poss:det|its n|horn-PL coord|and v|chuck-PAST pro:obj|him
+	prep|into art|a n|pond .
+*CHI:	&er they weren't very daunted by this .
+%mor:	pro:sub|they aux|be&PAST~neg|not adv|very v|daunt-PAST prep|by
+	pro:dem|this .
+*CHI:	so they carried on and looked over a log , where they found two
+	bigger frogs and a little family of frogs .
+%mor:	co|so pro:sub|they v|carry-PAST adv|on coord|and v|look-PAST
+	prep|over art|a n|log cm|cm rel|where pro:sub|they v|find&PAST
+	det:num|two adj|big-CP n|frog-PL coord|and art|a adj|little n|family
+	prep|of n|frog-PL .
+*CHI:	and they realized that he'd gone back to his family .
+%mor:	coord|and pro:sub|they v|realize-PAST rel|that
+	pro:sub|he~mod|genmod part|go&PASTP n|back prep|to pro:poss:det|his
+	n|family .
+*CHI:	they picked him up and went home again .
+%mor:	pro:sub|they v|pick-PAST pro:obj|him adv|up coord|and v|go&PAST
+	adv|home adv|again .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

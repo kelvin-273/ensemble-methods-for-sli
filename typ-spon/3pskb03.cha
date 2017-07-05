@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/c-00004919-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;9.04||||Target_Child|||
+@Date:	12-JUL-2001
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	this is my brother , who really annoys me , hits me and slaps me .
+%mor:	pro:dem|this cop|be&3S pro:poss:det|my n|brother cm|cm rel|who
+	adv|real&dadj-LY v|annoy-3S pro:obj|me cm|cm v|hit-3S pro:obj|me
+	coord|and v|slap-3S pro:obj|me .
+*CHI:	my mum don't [*] do anything about it .
+%mor:	pro:poss:det|my n|mum mod|do~neg|not v|do pro:indef|anything
+	prep|about pro|it .
+%err:	don't = doesn't
+*CHI:	if I hit him though I get punished for it .
+%mor:	conj|if pro:sub|I v|hit&ZERO pro:obj|him adv|though pro:sub|I
+	aux|get part|punish-PASTP prep|for pro|it .
+*CHI:	but he don't .
+%mor:	conj|but pro:sub|he mod|do~neg|not .
+*CHI:	and (..) .
+%mor:	coord|and .
+*INV:	<what else> [//] what other sorts of things does he do ?
+%mor:	pro:wh|what qn|other n|sort-PL prep|of n|thing-PL mod|do&3S
+	pro:sub|he v|do ?
+*CHI:	0 [*] comes in my room without me being in there .
+%mor:	v|come-3S prep|in pro:poss:det|my n|room prep|without pro:obj|me
+	n|being prep|in pro:dem|there .
+%err:	0 = subject
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	&um (.) .
+*INV:	is he older than you or younger ?
+%mor:	cop|be&3S pro:sub|he adj|old-CP prep|than pro|you coord|or
+	adj|young-CP ?
+*CHI:	younger .
+%mor:	adj|young-CP .
+*CHI:	he comes over in September .
+%mor:	pro:sub|he v|come-3S adv|over prep|in n:prop|September .
+*INV:	oh right (.) but at least you're the big sister .
+%mor:	co|oh n|right conj|but prep|at n|least pro|you~aux|be&PRES art|the
+	adj|big n|sister .
+*CHI:	yeah .
+%mor:	co|yeah .
+*INV:	anything else he does that's really annoying ?
+%mor:	pro:indef|anything post|else pro:sub|he v|do&3S rel|that~aux|be&3S
+	adv|real&dadj-LY part|annoy-PRESP ?
+*CHI:	no .
+%mor:	co|no .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/c-00004811-1
+@Begin
+@Languages:	eng
+@Participants:	INV Zoe Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;4.01||||Target_Child|||
+@Date:	30-JAN-2003
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at Child's home. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um (.) 0 [*] probably like disobey the teacher .
+%mor:	adv|probable&dadj-LY v|like dis#v|obey art|the n|teach&dv-AGT .
+%err:	0 = they
+*INV:	they disobey the teacher ?
+%mor:	pro:sub|they dis#v|obey art|the n|teach&dv-AGT ?
+*CHI:	yeah .
+%mor:	co|yeah .
+*INV:	what else ?
+%mor:	pro:wh|what post|else ?
+*CHI:	0 [*] won't do what they are told in a lesson .
+%mor:	mod|will~neg|not v|do pro:wh|what pro:sub|they cop|be&PRES
+	part|tell&PASTP prep|in art|a n|lesson .
+%err:	0 = they
+*INV:	right ?
+%mor:	co|right ?
+*CHI:	what else do they do ?
+%mor:	pro:wh|what post|else mod|do pro:sub|they v|do ?
+*CHI:	&um (.) that's it really .
+%mor:	pro:dem|that~cop|be&3S pro|it adv|real&dadj-LY .
+*INV:	what else do they do in the lessons or lunchtime ?
+%mor:	pro:wh|what post|else mod|do pro:sub|they v|do prep|in art|the
+	n|lesson-PL coord|or n|+n|lunch+n|time ?
+*INV:	&www .
+%exp:	tape is distoted for 5 seconds .
+*CHI:	0 [*] probably take people's money .
+%mor:	adv|probable&dadj-LY v|take n|person&PL~poss|s n|money .
+%err:	0 = they
+*INV:	take people's money ?
+%mor:	v|take n|person&PL~poss|s n|money ?
+*CHI:	yeah !
+%mor:	co|yeah !
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

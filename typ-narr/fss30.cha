@@ -1,0 +1,81 @@
+@UTF8
+@PID:	11312/c-00004899-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;09.10||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	right [//] yesterday (.) me and my dog ca(ught) [?] a frog in a jar
+	.
+%mor:	adv:tem|yesterday pro:obj|me coord|and pro:poss:det|my n|dog
+	v|catch&PAST art|a n|frog prep|in art|a n|jar .
+*CHI:	and <we we(nt)> [/-] we went to sleep .
+%mor:	coord|and pro:sub|we v|go&PAST inf|to v|sleep .
+*CHI:	and when we woke up it wasn't there .
+%mor:	coord|and conj|when pro:sub|we v|wake&PAST prep|up pro|it
+	cop|be&PAST&13S~neg|not adv|there .
+*CHI:	so we [/] we were looking for it .
+%mor:	co|so pro:sub|we aux|be&PAST part|look-PRESP prep|for pro|it .
+*CHI:	we were looking through our clothes , looking everywhere .
+%mor:	pro:sub|we aux|be&PAST part|look-PRESP prep|through
+	pro:poss:det|our n:pt|clothes cm|cm part|look-PRESP n|everywhere .
+*CHI:	and we couldn't find it .
+%mor:	coord|and pro:sub|we mod|could~neg|not v|find pro|it .
+*CHI:	0 [*] went outside started looking in the forest .
+%mor:	v|go&PAST adv|outside v|start-PAST n:gerund|look-PRESP prep|in
+	art|the n|forest .
+%err:	0 = we
+*CHI:	0 [*] went [/] went into the forest .
+%mor:	v|go&PAST prep|into art|the n|forest .
+%err:	0 = we
+*CHI:	we did the rabbit holes , just a rabbit came out .
+%mor:	pro:sub|we v|do&PAST art|the n|rabbit n|hole-PL cm|cm adv|just
+	art|a n|rabbit v|come&PAST adv|out .
+*CHI:	0 [*] looked in the wasps' nest , just wasps came out .
+%mor:	v|look-PAST prep|in art|the n|wasp-PL~poss|s n|nest cm|cm adv|just
+	n|wasp-PL v|come&PAST adv|out .
+%err:	0 = we
+*CHI:	0 [*] looked in a big tree , just an owl came out .
+%mor:	v|look-PAST prep|in art|a adj|big n|tree cm|cm adv|just art|a n|owl
+	v|come&PAST adv|out .
+%err:	0 = we
+*CHI:	and the wasps started chasing the dog .
+%mor:	coord|and art|the n|wasp-PL v|start-PAST n:gerund|chase-PRESP
+	art|the n|dog .
+*CHI:	so we kept on looking .
+%mor:	co|so pro:sub|we v|keep&PAST adv|on part|look-PRESP .
+*CHI:	all we found was an owl or crow of some sort .
+%mor:	pro:indef|all pro:sub|we v|find&PAST cop|be&PAST&13S art|a n|owl
+	coord|or n|crow prep|of qn|some n|sort .
+*CHI:	and we kept on going .
+%mor:	coord|and pro:sub|we v|keep&PAST adv|on part|go-PRESP .
+*CHI:	all we found were [*] a stag .
+%mor:	pro:indef|all pro:sub|we v|find&PAST cop|be&PAST art|a n|stag .
+%err:	were = was
+*CHI:	we kept on going .
+%mor:	pro:sub|we v|keep&PAST adv|on part|go-PRESP .
+*CHI:	we got knocked off [//] by the stag off a ledge .
+%mor:	pro:sub|we aux|get&PAST part|knock-PASTP prep|by art|the n|stag
+	prep|off art|a n|ledge .
+*CHI:	0 [*] fell into a pond .
+%mor:	v|fall&PAST prep|into art|a n|pond .
+%err:	0 = we
+*CHI:	we kept looking .
+%mor:	pro:sub|we v|keep&PAST n:gerund|look-PRESP .
+*CHI:	and we found them <and we took one we found> [//] and [//] with
+	another frog .
+%mor:	coord|and pro:sub|we v|find&PAST pro:obj|them prep|with qn|another
+	n|frog .
+*CHI:	and we took one of the frogs home and left all the other frogs
+	there .
+%mor:	coord|and pro:sub|we v|take&PAST pro:indef|one prep|of art|the
+	n|frog-PL n|home coord|and v|leave&PAST qn|all art|the qn|other
+	n|frog-PL adv|there .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

@@ -1,0 +1,65 @@
+@UTF8
+@PID:	11312/c-00004903-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;10.07||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	I was sitting in my room .
+%mor:	pro:sub|I aux|be&PAST&13S part|sit-PRESP prep|in pro:poss:det|my
+	n|room .
+*CHI:	where [//] and I'd found a frog .
+%mor:	coord|and pro:sub|I~mod|genmod part|find&PASTP art|a n|frog .
+*CHI:	which [//] so I put it in a bowl .
+%mor:	co|so pro:sub|I v|put&ZERO pro|it prep|in art|a n|bowl .
+*CHI:	and me and my dog were looking at it .
+%mor:	coord|and pro:obj|me coord|and pro:poss:det|my n|dog aux|be&PAST
+	part|look-PRESP prep|at pro|it .
+*CHI:	then I went to bed later .
+%mor:	adv:tem|then pro:sub|I v|go&PAST prep|to n|bed adv|later .
+*CHI:	<and the> [//] when I woke up the frog had gone .
+%mor:	conj|when pro:sub|I v|wake&PAST prep|up art|the n|frog
+	aux|have&PAST part|go&PASTP .
+*CHI:	so I searched my room and [//] with the dog looking everywhere for
+	it .
+%mor:	co|so pro:sub|I v|search-PAST pro:poss:det|my n|room prep|with
+	art|the n|dog part|look-PRESP adv|everywhere prep|for pro|it .
+*CHI:	I looked out the window , looked on the floor outside , shouted in
+	the woods for it .
+%mor:	pro:sub|I v|look-PAST prep|out art|the n|window cm|cm v|look-PAST
+	prep|on art|the n|floor adv|outside cm|cm v|shout-PAST prep|in
+	art|the n|wood-PL prep|for pro|it .
+*CHI:	I looked in a hole , looked in a beehive , looked in a tree .
+%mor:	pro:sub|I v|look-PAST prep|in art|a n|hole cm|cm v|look-PAST
+	prep|in art|a n|beehive cm|cm v|look-PAST prep|in art|a n|tree .
+*CHI:	0 [*] got chased by some bees from a beehive .
+%mor:	part|get&PASTP v|chase-PAST prep|by qn|some n|bee-PL prep|from
+	art|a n|beehive .
+%err:	0 = subject
+*CHI:	0 [*] looked all around a big stone , shouted over a stone and
+	found a deer which carried me off a cliff .
+%mor:	v|look-PAST adv|all prep|around art|a adj|big n|stone cm|cm
+	v|shout-PAST prep|over art|a n|stone coord|and v|find&PAST art|a
+	n|deer rel|which v|carry-PAST pro:obj|me prep|off art|a n|cliff .
+%err:	0 = subject
+*CHI:	and then I fell in a stream .
+%mor:	coord|and adv:tem|then pro:sub|I v|fall&PAST prep|in art|a n|stream
+	.
+*CHI:	and so me and my dog went and found a big log .
+%mor:	coord|and adv|so pro:obj|me coord|and pro:poss:det|my n|dog
+	v|go&PAST coord|and v|find&PAST art|a adj|big n|log .
+*CHI:	so we looked behind the log .
+%mor:	co|so pro:sub|we v|look-PAST prep|behind art|the n|log .
+*CHI:	and we found the [//] a family of frogs .
+%mor:	coord|and pro:sub|we v|find&PAST art|a n|family prep|of n|frog-PL .
+*CHI:	and so I took my frog back home .
+%mor:	coord|and co|so pro:sub|I v|take&PAST pro:poss:det|my n|frog
+	adv|back n|home .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

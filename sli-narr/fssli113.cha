@@ -1,0 +1,134 @@
+@UTF8
+@PID:	11312/c-00004785-1
+@Begin
+@Languages:	eng
+@Participants:	INV Zoe Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;10.11||||Target_Child|||
+@Date:	27-NOV-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*INV:	tell me what happened ?
+%mor:	v|tell pro:obj|me pro:wh|what v|happen-PAST ?
+*CHI:	he was in his bed+room with his dog looking at [//] in the jar .
+%mor:	pro:sub|he cop|be&PAST&13S prep|in pro:poss:det|his n|+n|bed+n|room
+	prep|with pro:poss:det|his n|dog part|look-PRESP prep|in art|the
+	n|jar .
+*INV:	+< yes a(nd) +...
+%mor:	co|yes coord|and +...
+*CHI:	and there was a frog inside .
+%mor:	coord|and adv|there cop|be&PAST&13S art|a n|frog adv|inside .
+*INV:	yes and then what happened ?
+%mor:	co|yes coord|and adv:tem|then pro:wh|what v|happen-PAST ?
+*CHI:	then (.) he got on to his bed with his dog .
+%mor:	adv:tem|then pro:sub|he v|get&PAST adv|on prep|to pro:poss:det|his
+	n|bed prep|with pro:poss:det|his n|dog .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	frog hopped out onto another jar and hopped out again .
+%mor:	n|frog v|hop-PAST adv|out prep|onto qn|another n|jar coord|and
+	v|hop-PAST adv|out adv|again .
+*INV:	0 .
+%exp:	laughs
+*CHI:	the boy put his jumper for a piece of wood or something .
+%mor:	art|the n|boy v|put&ZERO pro:poss:det|his n|jump&dv-AGT prep|for
+	art|a n|piece prep|of n|wood coord|or pro:indef|something .
+*INV:	yes .
+%mor:	co|yes .
+*CHI:	the dog got stuck in the fishbowl .
+%mor:	art|the n|dog aux|get&PAST part|stick&PASTP prep|in art|the
+	n|+n|fish+n|bowl .
+*INV:	yes 0 .
+%mor:	co|yes .
+%exp:	laughs
+*INV:	and then what happened ?
+%mor:	coord|and adv:tem|then pro:wh|what v|happen-PAST ?
+*CHI:	he looked out the window to try and find the frog .
+%mor:	pro:sub|he v|look-PAST prep|out art|the n|window inf|to v|try
+	coord|and v|find art|the n|frog .
+*INV:	yes .
+%mor:	co|yes .
+*CHI:	the boy and the dog jumped out .
+%mor:	art|the n|boy coord|and art|the n|dog v|jump-PAST adv|out .
+*INV:	yes .
+%mor:	co|yes .
+*CHI:	the boy was angry .
+%mor:	art|the n|boy cop|be&PAST&13S adj|angry .
+*CHI:	when looking for him 0 [*] saw birds and loads of trees in the
+	forest .
+%mor:	conj|when part|look-PRESP prep|for pro:obj|him n|saw n|bird-PL
+	coord|and v|load-3S prep|of n|tree-PL prep|in art|the n|forest .
+%exp:	0 = they
+*CHI:	he looked down a hole .
+%mor:	pro:sub|he v|look-PAST prep|down art|a n|hole .
+*CHI:	and the dog found a beehive .
+%mor:	coord|and art|the n|dog v|find&PAST art|a n|beehive .
+*CHI:	and he found a squirrel or something .
+%mor:	coord|and pro:sub|he v|find&PAST art|a n|squirrel coord|or
+	pro:indef|something .
+*CHI:	0 [*] dog looked at the beehives .
+%mor:	n|dog v|look-PAST prep|at art|the n|beehive-PL .
+%exp:	0 = the
+*CHI:	the boy looked in a hole in the tree .
+%mor:	art|the n|boy part|look-PASTP prep|in art|a n|hole prep|in art|the
+	n|tree .
+*CHI:	the [/-] <and he found some> [//] the dog found [/] found some bees
+	.
+%mor:	art|the n|dog v|find&PAST qn|some n|bee-PL .
+*CHI:	0 [*] bees went after the dog .
+%mor:	n|bee-PL v|go&PAST prep|after art|the n|dog .
+%exp:	0 = the
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	0 [*] boy fell off the tree .
+%mor:	co|boy v|fall&PAST prep|off art|the n|tree .
+%exp:	0 = the
+*CHI:	and this owl came out .
+%mor:	coord|and det|this n|owl v|come&PAST adv|out .
+*INV:	0 .
+%exp:	laughs
+*CHI:	0 [*] owl went after the boy .
+%mor:	n|owl v|go&PAST prep|after art|the n|boy .
+*CHI:	but the boy went into a rock looking for the dog .
+%mor:	conj|but art|the n|boy v|go&PAST prep|into art|a n|rock
+	part|look-PRESP prep|for art|the n|dog .
+%exp:	0 = the
+*CHI:	the boy got stuck on the reindeer .
+%mor:	art|the n|boy aux|get&PAST part|stick&PASTP prep|on art|the
+	n|reindeer .
+*INV:	yes .
+%mor:	co|yes .
+*CHI:	and the dog went after it .
+%mor:	coord|and art|the n|dog v|go&PAST prep|after pro|it .
+*INV:	yes .
+%mor:	co|yes .
+*CHI:	0 [*] reindeer (.) pushed him off .
+%mor:	n|reindeer v|push-PAST pro:obj|him adv|off .
+%exp:	0 = the
+*CHI:	and they both fell off a cliff .
+%mor:	coord|and pro:sub|they post|both v|fall&PAST prep|off art|a n|cliff
+	.
+*CHI:	landed in the water .
+%mor:	v|land-PAST prep|in art|the n|water .
+*CHI:	landed on top of each_other .
+%mor:	v|land-PAST prep|on n|top prep|of pro:refl|each_other .
+*CHI:	0 [*] went near a log and got over alright .
+%mor:	v|go&PAST prep|near art|a n|log coord|and v|get&PAST adv|over
+	adj|alright .
+%exp:	0 = they
+*CHI:	0 [*] <found a> [//] found the frogs .
+%mor:	v|find&PAST art|the n|frog-PL .
+%exp:	0 = they
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	0 [*] opposite side of the log .
+%mor:	prep|opposite n|side prep|of art|the n|log .
+%exp:	0 = the
+*CHI:	0 [*] found a frog and went home .
+%mor:	v|find&PAST art|a n|frog coord|and v|go&PAST adv|home .
+%exp:	0 = they
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

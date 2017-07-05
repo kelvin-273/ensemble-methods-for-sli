@@ -1,0 +1,73 @@
+@UTF8
+@PID:	11312/c-00004823-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;01.02||||Target_Child|||
+@Date:	12-JUL-2001
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um he's got this frog in a jar .
+%mor:	pro:sub|he~aux|be&3S v|get&PAST det|this n|frog prep|in art|a n|jar
+	.
+*CHI:	and he's sitting there looking at it .
+%mor:	coord|and pro:sub|he~aux|be&3S part|sit-PRESP adv|there
+	part|look-PRESP prep|at pro|it .
+*CHI:	and then he goes to sleep .
+%mor:	coord|and adv:tem|then pro:sub|he v|go-3S inf|to v|sleep .
+*CHI:	and he wakes up the next morning .
+%mor:	coord|and pro:sub|he v|wake-3S prep|up art|the adj|next n|morning .
+*CHI:	and it's gone .
+%mor:	coord|and pro|it~aux|be&3S part|go&PASTP .
+*CHI:	and then he gets up .
+%mor:	coord|and adv:tem|then pro:sub|he v|get-3S adv|up .
+*CHI:	and he looks in his clothes and looks out the window .
+%mor:	coord|and pro:sub|he v|look-3S adv|in pro:poss:det|his n:pt|clothes
+	coord|and v|look-3S prep|out art|the n|window .
+*CHI:	and then the dog falls out the window with the jar on his head .
+%mor:	coord|and adv:tem|then art|the n|dog v|fall-3S prep|out art|the
+	n|window prep|with art|the n|jar prep|on pro:poss:det|his n|head .
+*CHI:	then he goes into the park looking for it and up trees .
+%mor:	adv:tem|then pro:sub|he v|go-3S prep|into art|the n|park
+	part|look-PRESP prep|for pro|it coord|and prep|up n|tree-PL .
+*CHI:	and then he looks down a rabbit hole .
+%mor:	coord|and adv:tem|then pro:sub|he v|look-3S prep|down art|a
+	n|rabbit n|hole .
+*CHI:	and a mole comes up .
+%mor:	coord|and art|a n|mole v|come-3S adv|up .
+*CHI:	and then he climbs up a tree to look in .
+%mor:	coord|and adv:tem|then pro:sub|he v|climb-3S prep|up art|a n|tree
+	inf|to v|look adv|in .
+*CHI:	and an owl comes out .
+%mor:	coord|and art|a n|owl v|come-3S adv|out .
+*CHI:	and he falls down .
+%mor:	coord|and pro:sub|he v|fall-3S adv|down .
+*CHI:	and then he climbs up onto rocks .
+%mor:	coord|and adv:tem|then pro:sub|he v|climb-3S adv|up prep|onto
+	n|rock-PL .
+*CHI:	and then a deer comes up .
+%mor:	coord|and adv:tem|then art|a n|deer v|come-3S adv|up .
+*CHI:	and he falls over his head .
+%mor:	coord|and pro:sub|he v|fall-3S prep|over pro:poss:det|his n|head .
+*CHI:	and then he falls down the cliff with his dog .
+%mor:	coord|and adv:tem|then pro:sub|he v|fall-3S prep|down art|the
+	n|cliff prep|with pro:poss:det|his n|dog .
+*CHI:	then he falls into the river .
+%mor:	adv:tem|then pro:sub|he v|fall-3S prep|into art|the n|river .
+*CHI:	and the dog comes up on his head .
+%mor:	coord|and art|the n|dog v|come-3S adv|up prep|on pro:poss:det|his
+	n|head .
+*CHI:	then he looks in [//] over a big tree stump .
+%mor:	adv:tem|then pro:sub|he v|look-3S adv|over art|a adj|big n|tree
+	n|stump .
+*CHI:	and then he finds them .
+%mor:	coord|and adv:tem|then pro:sub|he v|find-3S pro:obj|them .
+*CHI:	and he goes back in the river with them .
+%mor:	coord|and pro:sub|he v|go-3S adv|back prep|in art|the n|river
+	prep|with pro:obj|them .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

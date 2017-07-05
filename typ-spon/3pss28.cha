@@ -1,0 +1,31 @@
+@UTF8
+@PID:	11312/c-00004996-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;09.04||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um he hits me and kicks me .
+%mor:	pro:sub|he v|hit-3S pro:obj|me coord|and v|kick-3S pro:obj|me .
+*CHI:	he is really annoying .
+%mor:	pro:sub|he aux|be&3S adv|real&dadj-LY part|annoy-PRESP .
+*CHI:	he thinks he knows best even though he's younger .
+%mor:	pro:sub|he v|think-3S pro:sub|he v|know-3S adv|good&SP adv|even
+	adv|though pro:sub|he~aux|be&3S adj|young-CP .
+*CHI:	he thinks he's really cool and clever and just annoys me in that
+	way .
+%mor:	pro:sub|he v|think-3S pro:sub|he~aux|be&3S adv|real&dadj-LY
+	adj|cool coord|and adj|clever coord|and adv|just v|annoy-3S
+	pro:obj|me prep|in det|that n|way .
+*INV:	+< &=laughs .
+*CHI:	&um I don't know he's just annoying .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:sub|he~aux|be&3S adv|just
+	part|annoy-PRESP .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

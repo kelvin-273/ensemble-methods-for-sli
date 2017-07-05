@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/c-00004874-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;08.07||||Target_Child|||
+@Date:	20-MAY-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	yesterday I found a frog .
+%mor:	adv:tem|yesterday pro:sub|I v|find&PAST art|a n|frog .
+*CHI:	I put the frog in a jar to keep it safe .
+%mor:	pro:sub|I v|put&ZERO art|the n|frog prep|in art|a n|jar inf|to
+	v|keep pro|it n|safe .
+*CHI:	my dog was very interested in this frog .
+%mor:	pro:poss:det|my n|dog cop|be&PAST&13S adv|very v|interest-PAST
+	prep|in det|this n|frog .
+*CHI:	when I went to bed last night the frog got out the jar .
+%mor:	conj|when pro:sub|I v|go&PAST prep|to n|bed adv|last n|night
+	art|the n|frog v|get&PAST adv|out art|the n|jar .
+*CHI:	I woke up to find it had gone .
+%mor:	pro:sub|I v|wake&PAST adv|up inf|to v|find pro|it aux|have&PAST
+	part|go&PASTP .
+*CHI:	the dog put his head in the jar and got it stuck .
+%mor:	art|the n|dog v|put&ZERO pro:poss:det|his n|head prep|in art|the
+	n|jar coord|and v|get&PAST pro|it v|stick&PAST .
+*CHI:	I quickly got dressed to look out the window to see if I could see
+	my frog .
+%mor:	pro:sub|I adv|quick&dadj-LY aux|get&PAST part|dress-PASTP inf|to
+	v|look prep|out art|the n|window inf|to v|see conj|if pro:sub|I
+	mod|could v|see pro:poss:det|my n|frog .
+*CHI:	the dog jumped out the window .
+%mor:	art|the n|dog v|jump-PAST prep|out art|the n|window .
+*CHI:	I soon followed and told it it was naughty .
+%mor:	pro:sub|I adv|soon v|follow-PAST coord|and v|tell&PAST pro|it
+	pro|it cop|be&PAST&13S adj|naughty .
+*CHI:	I went down the road and called the frog and looked in the woods .
+%mor:	pro:sub|I v|go&PAST prep|down art|the n|road coord|and v|call-PAST
+	art|the n|frog coord|and v|look-PAST prep|in art|the n|wood-PL .
+*CHI:	but I could not find the frog anywhere .
+%mor:	conj|but pro:sub|I mod|could neg|not v|find art|the n|frog
+	adv|anywhere .
+*CHI:	I looked down a mole hole where there was a mole , but no frog .
+%mor:	pro:sub|I v|look-PAST prep|down art|a n|mole n|hole rel|where
+	adv|there cop|be&PAST&13S art|a n|mole cm|cm conj|but qn|no n|frog .
+*CHI:	I found a beehive and a tree , but still no frog .
+%mor:	pro:sub|I v|find&PAST art|a n|beehive coord|and art|a n|tree cm|cm
+	conj|but adv|still qn|no n|frog .
+*CHI:	I found an owl .
+%mor:	pro:sub|I v|find&PAST art|a n|owl .
+*CHI:	it made me jump , but still no frog .
+%mor:	pro|it v|make&PAST pro:obj|me n|jump cm|cm conj|but adv|still qn|no
+	n|frog .
+*CHI:	then my dog saw something .
+%mor:	adv:tem|then pro:poss:det|my n|dog n|saw pro:indef|something .
+*CHI:	it went running down the road .
+%mor:	pro|it v|go&PAST n:gerund|run-PRESP prep|down art|the n|road .
+*CHI:	I found a stone and looked behind it , but no frog .
+%mor:	pro:sub|I v|find&PAST art|a n|stone coord|and v|look-PAST
+	adv|behind pro|it cm|cm conj|but qn|no n|frog .
+*CHI:	the [/-] a deer come [*] around the corner .
+%mor:	art|a n|deer v|come prep|around art|the n|corner .
+%err:	come = came
+*CHI:	and I got on its head .
+%mor:	coord|and pro:sub|I v|get&PAST prep|on pro:poss:det|its n|head .
+*CHI:	and it chucked me off the side of a sort of cliff .
+%mor:	coord|and pro|it v|chuck-PAST pro:obj|me prep|off art|the n|side
+	prep|of art|a n|sort prep|of n|cliff .
+*CHI:	I fell into a pond .
+%mor:	pro:sub|I v|fall&PAST prep|into art|a n|pond .
+*CHI:	I climbed up onto a log , followed by my dog .
+%mor:	pro:sub|I v|climb-PAST adv|up prep|onto art|a n|log cm|cm
+	v|follow-PAST prep|by pro:poss:det|my n|dog .
+*CHI:	and behind a log was [*] two frogs .
+%mor:	coord|and prep|behind art|a n|log cop|be&PAST&13S det:num|two
+	n|frog-PL .
+*CHI:	I picked the frog up and saw a few more and went home again .
+%mor:	pro:sub|I v|pick-PAST art|the n|frog adv|up coord|and v|see&PAST
+	art|a qn|few pro:indef|more coord|and v|go&PAST adv|home adv|again .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

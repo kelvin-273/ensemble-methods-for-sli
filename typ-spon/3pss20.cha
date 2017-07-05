@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/c-00004989-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;01.10||||Target_Child|||
+@Date:	27-MAY-2001
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um they're rude , unhappy for no good reason .
+%mor:	pro:sub|they~cop|be&PRES adj|rude cm|cm un#adj|happy prep|for qn|no
+	adj|good n|reason .
+*CHI:	they've just always got a chip on their shoulder .
+%mor:	pro:sub|they~aux|have adv|just adv|always v|get&PAST art|a n|chip
+	prep|on pro:poss:det|their n|shoulder .
+*CHI:	0 [*] not polite .
+%mor:	neg|not adj|polite .
+%err:	0 = subject
+*CHI:	they've got no manners .
+%mor:	pro:sub|they~aux|have part|get&PASTP qn|no n|manner-PL .
+*CHI:	they judge people too quickly .
+%mor:	pro:sub|they v|judge n|person&PL adv|too adv|quick&dadj-LY .
+*CHI:	they're just too unhappy .
+%mor:	pro:sub|they~aux|be&PRES adv|just adv|too un#adj|happy .
+*CHI:	they don't know anything about anybody .
+%mor:	pro:sub|they mod|do~neg|not v|know pro:indef|anything prep|about
+	pro:indef|anybody .
+*CHI:	but they judge everybody too quickly .
+%mor:	conj|but pro:sub|they v|judge pro:indef|everybody adv|too
+	adv|quick&dadj-LY .
+*CHI:	they just need to lighten up and calm down and see things for what
+	they are .
+%mor:	pro:sub|they adv|just v|need inf|to v|lighten adv|up coord|and
+	v|calm adv|down coord|and v|see n|thing-PL prep|for pro:wh|what
+	pro:sub|they cop|be&PRES .
+*CHI:	yeah , they're just bullies for no good reason .
+%mor:	co|yeah cm|cm pro:sub|they~aux|be&PRES adv|just v|bully-3S prep|for
+	qn|no adj|good n|reason .
+*CHI:	they just annoy people .
+%mor:	pro:sub|they adv|just v|annoy n|person&PL .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

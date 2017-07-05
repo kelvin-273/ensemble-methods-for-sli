@@ -1,0 +1,102 @@
+@UTF8
+@PID:	11312/c-00004809-1
+@Begin
+@Languages:	eng
+@Participants:	INV Zoe Investigator , CHI Target_Child , HEL Helen Investigator
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;11.22||||Target_Child|||
+@ID:	eng|Conti4|HEL|||||Investigator|||
+@Date:	20-MAR-2003
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at Child's home. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	0 [*] 0 [*] very noisy .
+%mor:	adv|very adj|noise&dn-Y .
+%err:	0 = he; 0 = is
+*CHI:	and he can be very annoying .
+%mor:	coord|and pro:sub|he mod|can cop|be adv|very part|annoy-PRESP .
+*INV:	<is he> [/-] he is annoying everyday „ is he ?
+%mor:	pro:sub|he aux|be&3S part|annoy-PRESP adj|everyday end|end
+	cop|be&3S pro:sub|he ?
+*CHI:	yeah sometimes .
+%mor:	co|yeah adv|sometimes .
+*INV:	and <what else> [//] what else does he do ?
+%mor:	coord|and pro:wh|what post|else v|do&3S pro:sub|he v|do ?
+*CHI:	and &er he doesn't do what the teacher does [//] tells him to do .
+%mor:	coord|and pro:sub|he mod|do&3S~neg|not v|do pro:wh|what art|the
+	n|teach&dv-AGT v|tell-3S pro:obj|him inf|to v|do .
+*INV:	right .
+%mor:	co|right .
+*CHI:	and he just ignores the teacher and keeps on talking all the time .
+%mor:	coord|and pro:sub|he adv|just v|ignore-3S art|the n|teach&dv-AGT
+	coord|and v|keep-3S adv|on part|talk-PRESP qn|all art|the n|time .
+*INV:	does he ?
+%mor:	mod|do&3S pro:sub|he ?
+*CHI:	yeah .
+%mor:	co|yeah .
+*INV:	what else ?
+%mor:	pro:wh|what post|else ?
+*CHI:	0 [*] keeps his hat on all the time .
+%mor:	v|keep-3S pro:poss:det|his n|hat prep|on qn|all art|the n|time .
+%err:	0 = he
+*INV:	&=laugh all the time ?
+%mor:	qn|all art|the n|time ?
+*CHI:	yeah .
+%mor:	co|yeah .
+*CHI:	and then the teacher nags at him to take it off .
+%mor:	coord|and adv:tem|then art|the n|teach&dv-AGT v|nag-3S prep|at
+	pro:obj|him inf|to v|take pro|it adv|off .
+*CHI:	and then he finally takes it off .
+%mor:	coord|and adv:tem|then pro:sub|he adv|final&dadj-LY v|take-3S
+	pro|it adv|off .
+*INV:	right .
+%mor:	co|right .
+*CHI:	and &er 0 [*] sometimes takes the mick out_of what I say .
+%mor:	coord|and adv|sometimes v|take-3S art|the n|mick prep|out_of
+	pro:wh|what pro:sub|I v|say .
+%err:	0 = he
+*CHI:	sometimes .
+%mor:	adv|sometimes .
+*INV:	does he ?
+%mor:	mod|do&3S pro:sub|he ?
+*INV:	what does he say ?
+%mor:	pro:wh|what v|do&3S pro:sub|he v|say ?
+*CHI:	I sometimes &um talk about &um some things <about my> [//] to my
+	friends .
+%mor:	pro:sub|I adv|sometimes n|talk prep|about qn|some n|thing-PL
+	prep|to pro:poss:det|my n|friend-PL .
+*CHI:	and then he s(ays) [//] takes the mick out_of it , saying it back
+	to me , taking the mick out_of me .
+%mor:	coord|and adv:tem|then pro:sub|he v|take-3S art|the n|mick
+	prep|out_of pro|it cm|cm part|say-PRESP pro|it adv|back prep|to
+	pro:obj|me cm|cm part|take-PRESP art|the n|mick prep|out_of
+	pro:obj|me .
+*INV:	that's not very nice , is it ?
+%mor:	pro:dem|that~cop|be&3S neg|not adv|very adj|nice cm|cm aux|be&3S
+	pro|it ?
+*INV:	no .
+%mor:	co|no .
+*INV:	so what other things does he do ?
+%mor:	co|so det:wh|what qn|other n|thing-PL mod|do&3S pro:sub|he v|do ?
+*CHI:	&er [=! sighs] sometimes he keeps on &um poking me and goes back to
+	his seat .
+%mor:	adv|sometimes pro:sub|he v|keep-3S adv|on part|poke-PRESP
+	pro:obj|me coord|and v|go-3S adv|back prep|to pro:poss:det|his
+	n|seat .
+*CHI:	and I tell him to stop it .
+%mor:	coord|and pro:sub|I v|tell pro:obj|him inf|to v|stop pro|it .
+*CHI:	but <he says> [//] he'll say it's not him .
+%mor:	conj|but pro:sub|he~mod|will v|say pro|it~cop|be&3S neg|not
+	pro:obj|him .
+*CHI:	and he accuses someone else of doing it .
+%mor:	coord|and pro:sub|he v|accuse-3S pro:indef|someone post|else
+	prep|of n:gerund|do-PRESP pro|it .
+*INV:	that's no good , is it ?
+%mor:	pro:dem|that~cop|be&3S qn|no adj|good cm|cm aux|be&3S pro|it ?
+*HEL:	sounds a bit annoying !
+%mor:	v|sound-3S art|a n|bit part|annoy-PRESP !
+*CHI:	&mm .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

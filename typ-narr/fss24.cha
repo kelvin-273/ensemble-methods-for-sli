@@ -1,0 +1,79 @@
+@UTF8
+@PID:	11312/c-00004894-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;02.12||||Target_Child|||
+@Date:	27-MAY-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	at the weekend me and the dog we &er was [*] looking at the frog in
+	the jar .
+%mor:	prep|at art|the n|+n|week+n|end pro:obj|me coord|and art|the n|dog
+	pro:sub|we aux|be&PAST&13S part|look-PRESP prep|at art|the n|frog
+	prep|in art|the n|jar .
+%err:	was = were
+*CHI:	at night the frog jumped out_of the jar .
+%mor:	prep|at n|night art|the n|frog v|jump-PAST prep|out_of art|the
+	n|jar .
+*CHI:	and in the morning when I looked it had gone .
+%mor:	coord|and prep|in art|the n|morning conj|when pro:sub|I v|look-PAST
+	pro|it aux|have&PAST part|go&PASTP .
+*CHI:	I put on my clothes .
+%mor:	pro:sub|I v|put&ZERO prep|on pro:poss:det|my n:pt|clothes .
+*CHI:	and the dog looked in the jar and got his head stuck .
+%mor:	coord|and art|the n|dog v|look-PAST prep|in art|the n|jar coord|and
+	v|get&PAST pro:poss:det|his n|head v|stick&PAST .
+*CHI:	I shouted out the window .
+%mor:	pro:sub|I v|shout-PAST prep|out art|the n|window .
+*CHI:	and the dog fell out and smashed the glass off his head and was
+	free .
+%mor:	coord|and art|the n|dog v|fall&PAST adv|out coord|and v|smash-PAST
+	art|the n|glass prep|off pro:poss:det|his n|head coord|and
+	cop|be&PAST&13S adv|free .
+*CHI:	&um I shouted outside for the frog .
+%mor:	pro:sub|I v|shout-PAST prep|outside prep|for art|the n|frog .
+*CHI:	and I looked in all the holes in the ground .
+%mor:	coord|and pro:sub|I v|look-PAST prep|in qn|all art|the n|hole-PL
+	prep|in art|the n|ground .
+*CHI:	and the dog looked in the trees .
+%mor:	coord|and art|the n|dog v|look-PAST prep|in art|the n|tree-PL .
+*CHI:	I looked in the top of the trees .
+%mor:	pro:sub|I v|look-PAST prep|in art|the n|top prep|of art|the
+	n|tree-PL .
+*CHI:	and a swarm of bees &um chased the dog and me .
+%mor:	coord|and art|a n|swarm prep|of n|bee-PL v|chase-PAST art|the n|dog
+	coord|and pro:obj|me .
+*CHI:	&um I climbed the top of the rock to shout for him .
+%mor:	pro:sub|I v|climb-PAST art|the n|top prep|of art|the n|rock inf|to
+	v|shout prep|for pro:obj|him .
+*CHI:	and a deer came up .
+%mor:	coord|and art|a n|deer v|come&PAST adv|up .
+*CHI:	and I got caught on his antlers .
+%mor:	coord|and pro:sub|I aux|get&PAST part|catch&PASTP prep|on
+	pro:poss:det|his n|antler-PL .
+*CHI:	he carried me a way to the end of a cliff , where I fell .
+%mor:	pro:sub|he v|carry-PAST pro:obj|me art|a n|way prep|to art|the
+	n|end prep|of art|a n|cliff cm|cm rel|where pro:sub|I v|fall&PAST .
+*CHI:	and we [//] me and the dog fell into the water .
+%mor:	coord|and pro:obj|me coord|and art|the n|dog v|fall&PAST prep|into
+	art|the n|water .
+*CHI:	we looked over the tree trunk and were very quiet .
+%mor:	pro:sub|we v|look-PAST prep|over art|the n|tree n|trunk coord|and
+	cop|be&PAST adv|very adj|quiet .
+*CHI:	and we saw some frogs .
+%mor:	coord|and pro:sub|we v|see&PAST qn|some n|frog-PL .
+*CHI:	there was a whole family of frogs sitting around .
+%mor:	pro:exist|there cop|be&PAST&13S art|a adj|whole n|family prep|of
+	n|frog-PL part|sit-PRESP adv|around .
+*CHI:	we then got our frog back and said +"/.
+%mor:	pro:sub|we adv:tem|then v|get&PAST pro:poss:det|our n|frog adv|back
+	coord|and v|say&PAST +"/.
+*CHI:	+" goodbye .
+%mor:	co|goodbye .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

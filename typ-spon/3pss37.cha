@@ -1,0 +1,31 @@
+@UTF8
+@PID:	11312/c-00005005-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;07.24||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	he picks on me , &um fights with me &um shows me off in front of
+	all my friends .
+%mor:	pro:sub|he v|pick-3S prep|on pro:obj|me cm|cm v|fight-3S prep|with
+	pro:obj|me v|show-3S pro:obj|me adv|off prep|in n|front prep|of
+	qn|all pro:poss:det|my n|friend-PL .
+*CHI:	&um 0 [*] throws food at me at the table .
+%mor:	v|throw-3S n|food prep|at pro:obj|me prep|at art|the n|table .
+%err:	0 = subject
+*INV:	&=laughs .
+*CHI:	that's the best one !
+%mor:	pro:dem|that~cop|be&3S art|the adj|good&SP pro:indef|one !
+*CHI:	&um he victimizes me sometimes .
+%mor:	pro:sub|he v|victimize-3S pro:obj|me adv|sometimes .
+*CHI:	and that's about it really .
+%mor:	coord|and pro:dem|that~cop|be&3S adv|about pro|it adv|real&dadj-LY
+	.
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

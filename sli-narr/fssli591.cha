@@ -1,0 +1,131 @@
+@UTF8
+@PID:	11312/c-00004794-1
+@Begin
+@Languages:	eng
+@Participants:	INV Lisa Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;11.29||||Target_Child|||
+@Date:	02-NOV-2001
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&er (.) yesterday there was a boy called Tom .
+%mor:	adv:tem|yesterday pro:exist|there cop|be&PAST&13S art|a n|boy
+	part|call-PASTP n:prop|Tom .
+*CHI:	and he had a dog called Sam .
+%mor:	coord|and pro:sub|he v|have&PAST art|a n|dog v|call-PAST n:prop|Sam
+	.
+*CHI:	&um they had a pet frog called &er Bob .
+%mor:	pro:sub|they v|have&PAST art|a n|pet n|frog v|call-PAST n:prop|Bob
+	.
+*CHI:	and Tom was very tired .
+%mor:	coord|and n:prop|Tom cop|be&PAST&13S adv|very part|tire-PASTP .
+*CHI:	so he went to bed .
+%mor:	co|so pro:sub|he v|go&PAST prep|to n|bed .
+*CHI:	and while Tom was asleep Bob the frog escaped from his pot .
+%mor:	coord|and conj|while n:prop|Tom cop|be&PAST&13S adv|asleep
+	n:prop|Bob art|the n|frog v|escape-PAST prep|from pro:poss:det|his
+	n|pot .
+*CHI:	next morning Tom woke up with <this frog not> [//] this dog Sam
+	beside him too (.) .
+%mor:	adj|next n|morning n:prop|Tom v|wake&PAST adv|up prep|with det|this
+	n|dog n:prop|Sam prep|beside pro:obj|him post|too .
+*CHI:	and they notice that Bob has gone .
+%mor:	coord|and pro:sub|they v|notice rel|that n:prop|Bob aux|have&3S
+	part|go&PASTP .
+*CHI:	so Tom put on his clothes and went to go and find him .
+%mor:	co|so n:prop|Tom v|put&ZERO prep|on pro:poss:det|his n:pt|clothes
+	coord|and v|go&PAST inf|to v|go coord|and v|find pro:obj|him .
+*CHI:	they looked out the window and started calling for him .
+%mor:	pro:sub|they v|look-PAST prep|out art|the n|window coord|and
+	v|start-PAST n:gerund|call-PRESP prep|for pro:obj|him .
+*CHI:	then they went outside to look a bit further .
+%mor:	adv:tem|then pro:sub|they v|go&PAST adv|outside inf|to v|look art|a
+	n|bit adv|further .
+*CHI:	and they went all the way around into the woods and round that area
+	.
+%mor:	coord|and pro:sub|they v|go&PAST qn|all art|the n|way adv|around
+	prep|into art|the n|wood-PL coord|and adv|round det|that n|area .
+*CHI:	and they started calling his name over and over .
+%mor:	coord|and pro:sub|they v|start-PAST part|call-PRESP
+	pro:poss:det|his n|name adv|over coord|and adv|over .
+*CHI:	they looked down holes .
+%mor:	pro:sub|they v|look-PAST prep|down n|hole-PL .
+*CHI:	they looked at beehives .
+%mor:	pro:sub|they v|look-PAST prep|at n|beehive-PL .
+*CHI:	&um when Tom looked down a hole , he found that a weasel came out
+	and bit his nose .
+%mor:	conj|when n:prop|Tom v|look-PAST prep|down art|a n|hole cm|cm
+	pro:sub|he v|find&PAST rel|that art|a n|weasel v|come&PAST adv|out
+	coord|and v|bite&PAST pro:poss:det|his n|nose .
+*CHI:	&um Sam was playing around by a tree .
+%mor:	n:prop|Sam aux|be&PAST&13S part|play-PRESP adv|around prep|by art|a
+	n|tree .
+*CHI:	and he noticed a beehive .
+%mor:	coord|and pro:sub|he v|notice-PAST art|a n|beehive .
+*CHI:	and Tom was looking in a hole in the tree .
+%mor:	coord|and n:prop|Tom aux|be&PAST&13S part|look-PRESP prep|in art|a
+	n|hole prep|in art|the n|tree .
+*CHI:	so Sam set the bees off .
+%mor:	co|so n:prop|Sam v|set&ZERO art|the n|bee-PL adv|off .
+*CHI:	and they went mad starting to chase Sam .
+%mor:	coord|and pro:sub|they v|go&PAST adj|mad part|start-PRESP inf|to
+	v|chase n:prop|Sam .
+*CHI:	so Tom blew [//] laid down quiet and still .
+%mor:	co|so n:prop|Tom v|lay&PAST prep|down n|quiet coord|and adv|still .
+*CHI:	and there was an owl above them making loud noises .
+%mor:	coord|and adv|there cop|be&PAST&13S art|a n|owl prep|above
+	pro:obj|them part|make-PRESP adj|loud n|noise-PL .
+*CHI:	the owl was still above Tom , when he climbed on to a big rock [//]
+	snow rock thing .
+%mor:	art|the n|owl cop|be&PAST&13S adv|still prep|above n:prop|Tom cm|cm
+	adv:wh|when pro:sub|he v|climb-PAST adv|on prep|to art|a adj|big
+	n|snow n|rock n|thing .
+*CHI:	he climbed up to the top shouting with Sam below .
+%mor:	pro:sub|he v|climb-PAST adv|up prep|to art|the n|top
+	part|shout-PRESP prep|with n:prop|Sam adv|below .
+*CHI:	Tom realized it was a moose .
+%mor:	n:prop|Tom v|realize-PAST pro|it cop|be&PAST&13S art|a n|moose .
+*CHI:	the moose carried Tom away .
+%mor:	art|the n|moose v|carry-PAST n:prop|Tom adv|away .
+*CHI:	and Sam started following them to the side of a hill .
+%mor:	coord|and n:prop|Sam v|start-PAST n:gerund|follow-PRESP
+	pro:obj|them prep|to art|the n|side prep|of art|a n|hill .
+*CHI:	when the moose threw Tom and Sam off the side of the hill , they
+	land [//] both landed in a massive pond .
+%mor:	conj|when art|the n|moose v|throw&PAST n:prop|Tom coord|and
+	n:prop|Sam prep|off art|the n|side prep|of art|the n|hill cm|cm
+	pro:sub|they post|both v|land-PAST prep|in art|a adj|massive n|pond
+	.
+*CHI:	they both got soaking wet .
+%mor:	pro:sub|they post|both v|get&PAST n:gerund|soak-PRESP
+	part|wet&PASTP .
+*CHI:	&er shh !
+%mor:	co|shh !
+*CHI:	Tom said +"/.
+%mor:	n:prop|Tom v|say&PAST +"/.
+*CHI:	+" be quiet .
+%mor:	cop|be adj|quiet .
+*CHI:	because they heard a noise coming from a log .
+%mor:	conj|because pro:sub|they v|hear&PAST art|a n|noise part|come-PRESP
+	prep|from art|a n|log .
+*CHI:	Tom and Sam <looked through a hole> [//] looked around the other
+	side .
+%mor:	n:prop|Tom coord|and n:prop|Sam v|look-PAST prep|around art|the
+	qn|other n|side .
+*CHI:	they saw Bob with a female frog .
+%mor:	pro:sub|they v|see&PAST n:prop|Bob prep|with art|a n|female n|frog
+	.
+*CHI:	and they had a family .
+%mor:	coord|and pro:sub|they v|have&PAST art|a n|family .
+*CHI:	so they left them they said +"/.
+%mor:	co|so pro:sub|they v|leave&PAST pro:obj|them pro:sub|they
+	v|say&PAST +"/.
+*CHI:	+" goodbye .
+%mor:	co|goodbye .
+*CHI:	and went off back to the house .
+%mor:	coord|and v|go&PAST adv|off adv|back prep|to art|the n|house .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

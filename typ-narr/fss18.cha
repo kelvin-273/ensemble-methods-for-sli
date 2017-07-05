@@ -1,0 +1,91 @@
+@UTF8
+@PID:	11312/c-00004888-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;10.28||||Target_Child|||
+@Date:	27-MAY-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	one day Tommy was sitting in his room looking at the frog he had
+	just found .
+%mor:	det:num|one n|day n:prop|Tommy aux|be&PAST&13S part|sit-PRESP
+	prep|in pro:poss:det|his n|room part|look-PRESP prep|at art|the
+	n|frog pro:sub|he aux|have&PAST adv|just v|find&PAST .
+*CHI:	he got quite tired .
+%mor:	pro:sub|he v|get&PAST adv|quite part|tire-PASTP .
+*CHI:	so he decided to go to sleep and leave the frog on the floor .
+%mor:	co|so pro:sub|he v|decide-PAST inf|to v|go inf|to v|sleep coord|and
+	v|leave art|the n|frog prep|on art|the n|floor .
+*CHI:	when he woke up in the morning , he found his frog was gone .
+%mor:	conj|when pro:sub|he v|wake&PAST adv|up prep|in art|the n|morning
+	cm|cm pro:sub|he v|find&PAST pro:poss:det|his n|frog aux|be&PAST&13S
+	part|go&PASTP .
+*CHI:	he looked high and low for his frog .
+%mor:	pro:sub|he v|look-PAST n|high coord|and n|low prep|for
+	pro:poss:det|his n|frog .
+*CHI:	he called for his frog .
+%mor:	pro:sub|he v|call-PAST prep|for pro:poss:det|his n|frog .
+*CHI:	his dog was mucking about and fell out the window .
+%mor:	pro:poss:det|his n|dog aux|be&PAST&13S part|muck-PRESP adv|about
+	coord|and v|fall&PAST prep|out art|the n|window .
+*CHI:	he was angry with his dog .
+%mor:	pro:sub|he cop|be&PAST&13S adj|angry prep|with pro:poss:det|his
+	n|dog .
+*CHI:	he went out and try to find his frog in the woods .
+%mor:	pro:sub|he v|go&PAST adv|out coord|and v|try inf|to v|find
+	pro:poss:det|his n|frog prep|in art|the n|wood-PL .
+*CHI:	he looked in holes and asked the ferret where it was .
+%mor:	pro:sub|he v|look-PAST prep|in n|hole-PL coord|and v|ask-PAST
+	art|the v|ferret adv:wh|where pro|it cop|be&PAST&13S .
+*CHI:	the dog was playing with the bees' nest , while Tommy was up in a
+	tree looking for his frog .
+%mor:	art|the n|dog aux|be&PAST&13S part|play-PRESP prep|with art|the
+	n|bee-PL~poss|s n|nest cm|cm conj|while n:prop|Tommy cop|be&PAST&13S
+	adv|up prep|in art|a n|tree part|look-PRESP prep|for
+	pro:poss:det|his n|frog .
+*CHI:	an owl popped out_of the tree and knocked the Tommy of his feet .
+%mor:	art|a n|owl v|pop-PAST prep|out_of art|the n|tree coord|and
+	v|knock-PAST art|the n:prop|Tommy prep|of pro:poss:det|his n|foot&PL
+	.
+*CHI:	the dog was getting chased by bumblebees .
+%mor:	art|the n|dog aux|be&PAST&13S part|get-PRESP part|chase-PASTP
+	prep|by n|+n|bumble+n|bee-PL .
+*CHI:	Tommy was still looking for his frog , when his dog got hit by a
+	bird .
+%mor:	n:prop|Tommy aux|be&PAST&13S adv|still part|look-PRESP prep|for
+	pro:poss:det|his n|frog cm|cm conj|when pro:poss:det|his n|dog
+	aux|get&PAST part|hit&PASTP prep|by art|a n|bird .
+*CHI:	Tommy was still looking for his frog , when he went over the wall .
+%mor:	n:prop|Tommy aux|be&PAST&13S adv|still part|look-PRESP prep|for
+	pro:poss:det|his n|frog cm|cm adv:wh|when pro:sub|he v|go&PAST
+	prep|over art|the n|wall .
+*CHI:	and then a deer caught him and ran him over the edge of a cliff .
+%mor:	coord|and adv:tem|then art|a n|deer v|catch&PAST pro:obj|him
+	coord|and v|run&PAST pro:obj|him prep|over art|the n|edge prep|of
+	art|a n|cliff .
+*CHI:	and he fell into the water .
+%mor:	coord|and pro:sub|he v|fall&PAST prep|into art|the n|water .
+*CHI:	he thought he could hear his frog .
+%mor:	pro:sub|he v|think&PAST pro:sub|he mod|could v|hear
+	pro:poss:det|his n|frog .
+*CHI:	so he looked over by the top of the tree+stump .
+%mor:	co|so pro:sub|he v|look-PAST adv|over prep|by art|the n|top prep|of
+	art|the n|+n|tree+n|stump .
+*CHI:	and he looked over the edge and found two frogs .
+%mor:	coord|and pro:sub|he v|look-PAST prep|over art|the n|edge coord|and
+	v|find&PAST det:num|two n|frog-PL .
+*CHI:	he asked if they had seen any little frogs .
+%mor:	pro:sub|he v|ask-PAST conj|if pro:sub|they aux|have&PAST
+	part|see&PASTP qn|any adj|little n|frog-PL .
+*CHI:	some frogs came out_of the reeds .
+%mor:	qn|some n|frog-PL v|come&PAST prep|out_of art|the n|reed-PL .
+*CHI:	Tommy had found his frog and said goodbye to the family of frogs .
+%mor:	n:prop|Tommy v|have&PAST v|found pro:poss:det|his n|frog coord|and
+	v|say&PAST co|goodbye prep|to art|the n|family prep|of n|frog-PL .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

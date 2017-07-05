@@ -1,0 +1,38 @@
+@UTF8
+@PID:	11312/c-00005015-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;06.17||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	he eats too much !
+%mor:	pro:sub|he v|eat-3S adv|too qn|much !
+*INV:	&=laughs .
+*CHI:	he talks too much !
+%mor:	pro:sub|he v|talk-3S adv|too qn|much !
+*INV:	yeah ?
+%mor:	co|yeah ?
+*CHI:	and just annoys me .
+%mor:	coord|and adv|just v|annoy-3S pro:obj|me .
+*CHI:	generally annoys me !
+%mor:	adv|general&dadj-LY v|annoy-3S pro:obj|me !
+*INV:	anything else ?
+%mor:	pro:indef|anything post|else ?
+*CHI:	what ?
+%mor:	pro:wh|what ?
+*CHI:	that annoys me ?
+%mor:	rel|that v|annoy-3S pro:obj|me ?
+*INV:	yeah anything else he does ?
+%mor:	co|yeah pro:indef|anything post|else pro:sub|he v|do&3S ?
+*CHI:	school !
+%mor:	n|school !
+*INV:	that's fine !
+%mor:	pro:dem|that~cop|be&3S adj|fine !
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

@@ -1,0 +1,62 @@
+@UTF8
+@PID:	11312/c-00004840-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;06.03||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um the little kid and the dog have got a frog in a jar .
+%mor:	art|the adj|little n|kid coord|and art|the n|dog aux|have
+	v|get&PAST art|a n|frog prep|in art|a n|jar .
+*CHI:	and then the frog escapes , while they're asleep .
+%mor:	coord|and adv:tem|then art|the n|frog n|escape-PL cm|cm n|while
+	pro:sub|they~aux|be&PRES adv|asleep .
+*CHI:	and then they go chasing for it .
+%mor:	coord|and adv:tem|then pro:sub|they v|go part|chase-PRESP prep|for
+	pro|it .
+*CHI:	and like the dog smashes the glass jar (be)cause he gets 0 [*] on
+	his head .
+%mor:	coord|and co|like art|the n|dog n|smash-PL art|the n|glass n|jar
+	conj|because pro:sub|he v|get-3S adv|on pro:poss:det|his n|head .
+%err:	0 = it
+*CHI:	and then they [/] they [/] they go out into the fields and stuff
+	and 0 [*] still looking for it .
+%mor:	coord|and adv:tem|then pro:sub|they v|go adv|out prep|into art|the
+	n|field-PL coord|and n|stuff coord|and adv|still part|look-PRESP
+	prep|for pro|it .
+%err:	0 = are
+*CHI:	and then that [//] they find a beehive .
+%mor:	coord|and adv:tem|then pro:sub|they v|find art|a n|beehive .
+*CHI:	and then like the [/] the dog knocks the beehive over .
+%mor:	coord|and adv:tem|then conj|like art|the n|dog v|knock-3S art|the
+	n|beehive adv|over .
+*CHI:	and then this little gopher thingy &um like scowls at the boy .
+%mor:	coord|and adv:tem|then pro:dem|this adj|little n|gopher
+	adj|thing&dn-Y co|like v|scowl-3S prep|at art|the n|boy .
+*CHI:	and then [/] then they go over to some rocks .
+%mor:	coord|and adv:tem|then pro:sub|they v|go adv|over prep|to qn|some
+	n|rock-PL .
+*CHI:	and being [//] then they're being chased by the bees .
+%mor:	coord|and adv:tem|then pro:sub|they~aux|be&PRES part|be-PRESP
+	part|chase-PASTP prep|by art|the n|bee-PL .
+*CHI:	and then they land on a deer .
+%mor:	coord|and adv:tem|then pro:sub|they v|land prep|on art|a n|deer .
+*CHI:	and then the deer pushes them &um off [/] off like a little ledge
+	and into a pond bit .
+%mor:	coord|and adv:tem|then art|the n|deer v|push-3S pro:obj|them
+	adv|off prep|like art|a adj|little n|ledge coord|and prep|into art|a
+	n|pond n|bit .
+*CHI:	and then they find the frogs with the little froggy family .
+%mor:	coord|and adv:tem|then pro:sub|they v|find art|the n|frog-PL
+	prep|with art|the adj|little n|frog-DIM n|family .
+*CHI:	and then they take one of the frogs home .
+%mor:	coord|and adv:tem|then pro:sub|they v|take det:num|one prep|of
+	art|the n|frog-PL adv|home .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

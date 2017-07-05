@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/c-00004814-1
+@Begin
+@Languages:	eng
+@Participants:	INV Lisa Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;2.15||||Target_Child|||
+@Date:	01-DEC-2001
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at Child's home. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	the annoying person , probably not the naughtiest , but the most
+	annoying one is called Adrian .
+%mor:	art|the part|annoy-PRESP n|person cm|cm adv|probable&dadj-LY
+	neg|not art|the adj|naughty-SP cm|cm conj|but art|the qn|most
+	n:gerund|annoy-PRESP pro:indef|one aux|be&3S part|call-PASTP
+	n:prop|Adrian .
+*CHI:	he can really annoy people it [*] always get [*] told off .
+%mor:	pro:sub|he mod|can adv|real&dadj-LY v|annoy n|person&PL pro|it
+	adv|always v|get part|tell&PASTP adv|off .
+%err:	it = he; get = gets
+*CHI:	he always tries to fight me and I didn't [*] want to .
+%mor:	pro:sub|he adv|always v|try-3S inf|to v|fight pro:obj|me coord|and
+	pro:sub|I mod|do&PAST~neg|not v|want prep|to .
+%err:	didn't = don't
+*CHI:	so he got a detention for it .
+%mor:	co|so pro:sub|he v|get&PAST art|a n|detention prep|for pro|it .
+*CHI:	so (.) and [/] (.) and he &um I think that's it .
+%mor:	adv|so coord|and pro:sub|he pro:sub|I v|think
+	pro:dem|that~cop|be&3S pro|it .
+*INV:	okay [/] okay how about the naughtiest person in your school ?
+%mor:	co|okay adv:wh|how adv|about art|the adj|naughty-SP n|person
+	prep|in pro:poss:det|your n|school ?
+*INV:	or is that the same boy .
+%mor:	coord|or cop|be&3S rel|that art|the adj|same n|boy .
+*CHI:	<oh it's not> [/-] I think (.) maybe the naughtiest person , I'm
+	not sure , is probably Andre .
+%mor:	pro:sub|I v|think adv|maybe art|the adj|naughty-SP n|person cm|cm
+	pro:sub|I~cop|be&1S neg|not adj|sure cm|cm aux|be&3S
+	adv|probable&dadj-LY n:prop|Andre .
+*CHI:	he &er never does his work .
+%mor:	pro:sub|he adv|never mod|do&3S pro:poss:det|his n|work .
+*CHI:	he always talks to his friends .
+%mor:	pro:sub|he adv|always v|talk-3S prep|to pro:poss:det|his
+	n|friend-PL .
+*CHI:	but he's not that bad in person .
+%mor:	conj|but pro:sub|he~aux|be&3S neg|not rel|that adj|bad prep|in
+	n|person .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

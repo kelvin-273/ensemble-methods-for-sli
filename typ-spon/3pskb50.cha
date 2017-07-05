@@ -1,0 +1,38 @@
+@UTF8
+@PID:	11312/c-00004966-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;05.29||||Target_Child|||
+@Date:	07-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um she's usually always stressy .
+%mor:	pro:sub|she~aux|be&3S adv|usual&dadj-LY adv|always
+	adj|stress&dn-Y .
+*CHI:	she's very messy .
+%mor:	pro:sub|she~aux|be&3S adv|very adj|mess&dn-Y .
+*CHI:	&um and she blames everything on me .
+%mor:	coord|and pro:sub|she v|blame-3S pro:indef|everything prep|on
+	pro:obj|me .
+*CHI:	and it's never me &=laugh .
+%mor:	coord|and pro|it~cop|be&3S adv|never pro:obj|me .
+*CHI:	&um (.) yeah she's +...
+%mor:	co|yeah pro:sub|she~cop|be&3S +...
+*INV:	anything else she does ?
+%mor:	pro:indef|anything post|else pro:sub|she v|do&3S ?
+*CHI:	&um &um oh I can't think .
+%mor:	co|oh pro:sub|I mod|can~neg|not v|think .
+*INV:	that's fine .
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+*CHI:	maybe she's not as annoying as I thought !
+%mor:	adv|maybe pro:sub|she~aux|be&3S neg|not prep|as part|annoy-PRESP
+	conj|as pro:sub|I v|think&PAST !
+*INV:	that's fine .
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

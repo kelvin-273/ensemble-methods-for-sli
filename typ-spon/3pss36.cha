@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/c-00005004-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;07.04||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	she often screams when I [/] &um I don't do nothing [*] .
+%mor:	pro:sub|she adv|often n|scream-PL conj|when pro:sub|I
+	mod|do~neg|not v|do pro:indef|nothing .
+%err:	nothing = anything
+*CHI:	0 [*] just gets me into trouble like .
+%mor:	adv|just v|get-3S pro:obj|me prep|into n|trouble prep|like .
+%err:	0 = subject
+*INV:	+< mhm .
+%mor:	co|yes .
+*CHI:	just screaming makes it sounds like it's my fault .
+%mor:	adv|just part|scream-PRESP v|make-3S pro|it v|sound-3S co|like
+	pro|it~aux|be&3S pro:poss:det|my n|fault .
+*CHI:	and &um she always leaves the tellie on as_well .
+%mor:	coord|and pro:sub|she adv|always v|leave-3S art|the n|tellie
+	prep|on adv|as_well .
+*CHI:	that annoys me just out_of principle because I tell her to turn it
+	off and she never does !
+%mor:	rel|that v|annoy-3S pro:obj|me adv|just prep|out_of n|principle
+	conj|because pro:sub|I v|tell pro:obj|her inf|to v|turn pro|it
+	adv|off coord|and pro:sub|she adv|never v|do&3S !
+*INV:	+< yeah .
+%mor:	co|yeah .
+*CHI:	she always leaves it on in the room .
+%mor:	pro:sub|she adv|always v|leave-3S pro|it adv|on prep|in art|the
+	n|room .
+*CHI:	so I have_to go and tell her to turn it off .
+%mor:	co|so pro:sub|I mod:aux|have_to v|go coord|and v|tell pro:obj|her
+	inf|to v|turn pro|it adv|off .
+*CHI:	&um (.) yeah .
+%mor:	co|yeah .
+*INV:	that's fine .
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+*CHI:	yeah it's just little things really .
+%mor:	co|yeah pro|it~cop|be&3S adj|just adj|little n|thing-PL
+	adv|real&dadj-LY .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

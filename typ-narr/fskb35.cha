@@ -1,0 +1,69 @@
+@UTF8
+@PID:	11312/c-00004852-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;02.22||||Target_Child|||
+@Date:	03-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	yesterday a boy found a frog .
+%mor:	adv:tem|yesterday art|a n|boy v|find&PAST art|a n|frog .
+*CHI:	and he put in a jar .
+%mor:	coord|and pro:sub|he v|put&ZERO prep|in art|a n|jar .
+*CHI:	and when he went to sleep he forgot to put the lid on it .
+%mor:	coord|and conj|when pro:sub|he v|go&PAST inf|to v|sleep pro:sub|he
+	v|forget&PAST inf|to v|put&ZERO art|the n|lid prep|on pro|it .
+*CHI:	and it escaped .
+%mor:	coord|and pro|it v|escape-PAST .
+*CHI:	he [/-] when he woke up he looked everywhere for it .
+%mor:	conj|when pro:sub|he v|wake&PAST adv|up pro:sub|he v|look-PAST
+	n|everywhere prep|for pro|it .
+*CHI:	he looked outside .
+%mor:	pro:sub|he part|look-PASTP adj|outside .
+*CHI:	and he still couldn't see it .
+%mor:	coord|and pro:sub|he adv|still mod|could~neg|not v|see pro|it .
+*CHI:	he still couldn't find it .
+%mor:	pro:sub|he adv|still mod|could~neg|not v|find pro|it .
+*CHI:	so then he went to the woods .
+%mor:	adv|so adv:tem|then pro:sub|he v|go&PAST prep|to art|the n|wood-PL
+	.
+*CHI:	and he was calling its name .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|call-PRESP
+	pro:poss:det|its n|name .
+*CHI:	but <he could> [//] he still couldn't find it .
+%mor:	conj|but pro:sub|he adv|still mod|could~neg|not v|find pro|it .
+*CHI:	he looked down holes to see if it went down there .
+%mor:	pro:sub|he v|look-PAST prep|down n|hole-PL inf|to v|see conj|if
+	pro|it v|go&PAST adv|down adv|there .
+*CHI:	he looked in a beehive .
+%mor:	pro:sub|he v|look-PAST prep|in art|a n|beehive .
+*CHI:	and he still couldn't find it .
+%mor:	coord|and pro:sub|he adv|still mod|could~neg|not v|find pro|it .
+*CHI:	<he s(earched)> [//] he looked everywhere for it .
+%mor:	pro:sub|he v|look-PAST n|everywhere prep|for pro|it .
+*CHI:	he looked under a pile of [/] of rocks .
+%mor:	pro:sub|he v|look-PAST prep|under art|a n|pile prep|of n|rock-PL .
+*CHI:	but he still couldn't find it .
+%mor:	conj|but pro:sub|he adv|still mod|could~neg|not v|find pro|it .
+*CHI:	(.) he looked everywhere .
+%mor:	pro:sub|he v|look-PAST n|everywhere .
+*CHI:	<and when he was finding> [//] and when he was looking for it he
+	fell off and fell into a pond and got wet .
+%mor:	coord|and conj|when pro:sub|he aux|be&PAST&13S part|look-PRESP
+	prep|for pro|it pro:sub|he v|fall&PAST adv|off coord|and v|fall&PAST
+	prep|into art|a n|pond coord|and v|get&PAST part|wet&PASTP .
+*CHI:	(.) and when [/] when he got out he found two frogs and lots_of
+	other frogs .
+%mor:	coord|and conj|when pro:sub|he v|get&PAST adv|out pro:sub|he
+	v|find&PAST det:num|two n|frog-PL coord|and qn|lots_of qn|other
+	n|frog-PL .
+*CHI:	then he took his one back home .
+%mor:	adv:tem|then pro:sub|he v|take&PAST pro:poss:det|his det:num|one
+	adv|back n|home .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

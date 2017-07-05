@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/c-00004962-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;11.02||||Target_Child|||
+@Date:	03-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	okay [//] &er they don't listen .
+%mor:	pro:sub|they mod|do~neg|not v|listen .
+*CHI:	&er they never listen to what I'm saying .
+%mor:	pro:sub|they adv|never v|listen prep|to pro:wh|what
+	pro:sub|I~aux|be&1S part|say-PRESP .
+*CHI:	they always listen to what they're saying .
+%mor:	pro:sub|they adv|always v|listen prep|to pro:wh|what
+	pro:sub|they~aux|be&PRES part|say-PRESP .
+*INV:	is it a he or she ?
+%mor:	aux|be&3S pro|it art|a pro:sub|he conj|or pro:sub|she ?
+*CHI:	she .
+%mor:	pro:sub|she .
+*INV:	she , so she never listens ?
+%mor:	pro:sub|she cm|cm conj|so pro:sub|she adv|never v|listen-3S ?
+*CHI:	yeah she never listens .
+%mor:	co|yeah pro:sub|she adv|never v|listen-3S .
+*CHI:	&er she thinks about herself a lot .
+%mor:	pro:sub|she v|think-3S prep|about pro:refl|herself art|a n|lot .
+*CHI:	she don't [*] think about the other person .
+%mor:	pro:sub|she mod|do~neg|not v|think prep|about art|the qn|other
+	n|person .
+%err:	don't = doesn't
+*CHI:	&um she likes doing what she likes doing and not the other person .
+%mor:	pro:sub|she v|like-3S part|do-PRESP pro:wh|what pro:sub|she
+	v|like-3S part|do-PRESP coord|and neg|not art|the qn|other n|person
+	.
+*CHI:	&um she (.) I'm on the spot !
+%mor:	pro:sub|she pro:sub|I~cop|be&1S prep|on art|the n|spot !
+*INV:	+< anything else ?
+%mor:	pro:indef|anything post|else ?
+*CHI:	she thinks she's better than everybody else .
+%mor:	pro:sub|she v|think-3S pro:sub|she~aux|be&3S adv|good&CP prep|than
+	pro:indef|everybody post|else .
+*CHI:	she thinks she's higher !
+%mor:	pro:sub|she v|think-3S pro:sub|she~aux|be&3S adj|high-CP !
+*CHI:	you know she thinks she's above everybody else .
+%mor:	pro|you v|know pro:sub|she v|think-3S pro:sub|she~cop|be&3S
+	prep|above pro:indef|everybody post|else .
+*INV:	+< uhhuh .
+%mor:	co|uhhuh .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

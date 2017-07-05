@@ -1,0 +1,81 @@
+@UTF8
+@PID:	11312/c-00004918-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;11.21||||Target_Child|||
+@Date:	12-JUL-2001
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	one thing he did yesterday , he (.) passed his driving test first
+	time .
+%mor:	det:num|one n|thing pro:sub|he v|do&PAST adv:tem|yesterday cm|cm
+	pro:sub|he v|pass-PAST pro:poss:det|his n:gerund|drive-PRESP n|test
+	adj|first n|time .
+*CHI:	and he was just so big+headed about it .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adv|just adv|so
+	adj|+adj|big+adj|headed prep|about pro|it .
+*CHI:	and he kept &um annoying me by saying +"/.
+%mor:	coord|and pro:sub|he v|keep&PAST n:gerund|annoy-PRESP pro:obj|me
+	adv|by part|say-PRESP +"/.
+*CHI:	+" I passed my test I passed <my best> [//] my test there's no way
+	you can beat me now !
+%mor:	pro:sub|I v|pass-PAST pro:poss:det|my n|test pro:sub|I v|pass-PAST
+	pro:poss:det|my n|test pro:exist|there~cop|be&3S qn|no n|way pro|you
+	mod|can v|beat&ZERO pro:obj|me adv|now !
+*CHI:	and I go +"/.
+%mor:	coord|and pro:sub|I v|go +"/.
+*CHI:	+" there is one way that I can beat you .
+%mor:	pro:exist|there cop|be&3S det:num|one n|way rel|that pro:sub|I
+	mod|can v|beat&ZERO pro|you .
+*CHI:	I can pass my theory test first , because he didn't pass his theory
+	test first .
+%mor:	pro:sub|I mod|can v|pass pro:poss:det|my n|theory n|test adv|first
+	cm|cm conj|because pro:sub|he mod|do&PAST~neg|not v|pass
+	pro:poss:det|his n|theory n|test adv|first .
+*CHI:	so I can pass that first .
+%mor:	co|so pro:sub|I mod|can v|pass rel|that adv|first .
+*CHI:	and he kept beating me up as_well .
+%mor:	coord|and pro:sub|he v|keep&PAST n:gerund|beat-PRESP pro:obj|me
+	adv|up adv|as_well .
+*CHI:	so he's quite annoying (.) .
+%mor:	adv|so pro:sub|he~cop|be&3S adv|quite part|annoy-PRESP .
+*CHI:	not beating me up .
+%mor:	neg|not part|beat-PRESP pro:obj|me adv|up .
+*CHI:	he just kept kicking me and stuff like <that> [>] .
+%mor:	pro:sub|he adv|just v|keep&PAST n:gerund|kick-PRESP pro:obj|me
+	coord|and n|stuff prep|like pro:dem|that .
+*INV:	<yeah> [<] .
+%mor:	co|yeah .
+*CHI:	<and that> [/-] but he's [//] he can be nice .
+%mor:	conj|but pro:sub|he mod|can cop|be adj|nice .
+*CHI:	and he can be annoying .
+%mor:	coord|and pro:sub|he mod|can aux|be part|annoy-PRESP .
+*INV:	okay what sort of things generally what sort of things does he do
+	that are annoying and +...
+%mor:	co|okay pro:wh|what n|sort prep|of n|thing-PL adv|general&dadj-LY
+	pro:wh|what n|sort prep|of n|thing-PL mod|do&3S pro:sub|he v|do
+	det|that aux|be&PRES part|annoy-PRESP coord|and +...
+*CHI:	&um when I open a bag of crisps he always says shut up (.)
+	(be)cause he's trying to watch tv .
+%mor:	conj|when pro:sub|I v|open art|a n|bag prep|of n|crisp-PL
+	pro:sub|he adv|always v|say-3S part|shut&PASTP adv|up conj|because
+	pro:sub|he~aux|be&3S part|try-PRESP prep|to n|watch n|tv .
+*INV:	0 too noisy .
+%mor:	adv|too adj|noise&dn-Y .
+%exp:	laughs .
+*CHI:	yeah 0 and &um +...
+%mor:	co|yeah coord|and +...
+%exp:	laughs .
+*INV:	anything else ?
+%mor:	pro:indef|anything post|else ?
+*CHI:	0 [*] can't think of anything really that he annoys me about .
+%mor:	mod|can~neg|not v|think prep|of pro:indef|anything adv|real&dadj-LY
+	rel|that pro:sub|he v|annoy-3S pro:obj|me adv|about .
+%err:	0 = subject
+*INV:	&www .
+%exp:	child and investigator talk briefly as disc is turned off .
+@End

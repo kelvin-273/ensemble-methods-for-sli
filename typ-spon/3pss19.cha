@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/c-00004988-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;0.24||||Target_Child|||
+@Date:	27-MAY-2001
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	oh I can't really think of anybody .
+%mor:	co|oh pro:sub|I mod|can~neg|not adv|real&dadj-LY v|think prep|of
+	pro:indef|anybody .
+*CHI:	I can think of Danny but he's funny at the same time .
+%mor:	pro:sub|I mod|can v|think prep|of n:prop|Danny conj|but
+	pro:sub|he~cop|be&3S adj|fun&dn-Y prep|at art|the adj|same n|time .
+*INV:	well tell me the reason why he's funny then ?
+%mor:	co|well v|tell pro:obj|me art|the n|reason adv:wh|why
+	pro:sub|he~cop|be&3S adj|fun&dn-Y adv:tem|then ?
+*CHI:	no I think it's more irritating than funny
+	[=! Laughed aloud with INV] !
+%mor:	co|no pro:sub|I v|think pro|it~cop|be&3S adv|more
+	part|irritate-PRESP prep|than adj|fun&dn-Y !
+*CHI:	I don't know (.) he's irritating because he tells lame jokes .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:sub|he~aux|be&3S
+	part|irritate-PRESP conj|because pro:sub|he v|tell-3S adj|lame
+	n|joke-PL .
+*CHI:	and he thinks he's funny .
+%mor:	coord|and pro:sub|he v|think-3S pro:sub|he~cop|be&3S adj|fun&dn-Y .
+*CHI:	and he's just so active all the time .
+%mor:	coord|and pro:sub|he~aux|be&3S adv|just adv|so adj|active qn|all
+	art|the n|time .
+*CHI:	and that's really annoying as well , (be)cause when you can't be
+	bothered you want to punch him .
+%mor:	coord|and pro:dem|that~cop|be&3S adv|real&dadj-LY part|annoy-PRESP
+	adv|as adv|well cm|cm conj|because conj|when pro|you mod|can~neg|not
+	aux|be part|bother-PASTP pro|you v|want inf|to v|punch pro:obj|him .
+*INV:	&=laughs anything else ?
+%mor:	pro:indef|anything post|else ?
+*CHI:	oh I don't know (.) you'll have_to meet him +...
+%mor:	co|oh pro:sub|I mod|do~neg|not v|know pro|you~mod|will
+	mod:aux|have_to v|meet pro:obj|him +...
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

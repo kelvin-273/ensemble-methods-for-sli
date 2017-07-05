@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/c-00004973-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;08.07||||Target_Child|||
+@Date:	20-MAY-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	0 [*] swearing and laughing at people , pushing them over .
+%mor:	part|swear-PRESP coord|and part|laugh-PRESP prep|at n|person&PL
+	cm|cm part|push-PRESP pro:obj|them adv|over .
+%err:	0 = they're
+*INV:	who is this ?
+%mor:	pro:wh|who aux|be&3S det|this ?
+*INV:	not who's the person , but is it is a boy or a girl ?
+%mor:	neg|not rel|who~aux|be&3S art|the n|person cm|cm conj|but aux|be&3S
+	pro|it cop|be&3S art|a n|boy coord|or art|a n|girl ?
+*CHI:	a girl .
+%mor:	art|a n|girl .
+*INV:	okay so they push [//] they swear +/.
+%mor:	co|okay conj|so pro:sub|they pro:sub|they v|swear +/.
+*CHI:	a lot .
+%mor:	art|a n|lot .
+*INV:	+, okay .
+%mor:	co|okay .
+*CHI:	0 [*] drink , smoke .
+%mor:	n|drink cm|cm n|smoke .
+%err:	0 = they
+*CHI:	and they're only like fourteen .
+%mor:	coord|and pro:sub|they~aux|be&PRES adv|only co|like
+	det:num|fourteen .
+*INV:	oh dear .
+%mor:	co|oh co|dear .
+*CHI:	&um (.) and 0 [*] never come to school .
+%mor:	coord|and adv|never v|come prep|to n|school .
+%err:	0 = they
+*CHI:	and 0 [*] have always got boyfriends .
+%mor:	coord|and v|have adv|always v|get&PAST n|boyfriend-PL .
+%err:	0 = they
+*CHI:	and 0 [*] sort_of brags 0 [*] them sleeping with people .
+%mor:	coord|and adv|sort_of v|brag-3S pro:obj|them part|sleep-PRESP
+	prep|with n|person&PL .
+%err:	0 = subject , 0 = about
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	0 [*] always bullying people and getting into trouble .
+%mor:	adv|always n:gerund|bully-PRESP n|person&PL coord|and
+	part|get-PRESP prep|into n|trouble .
+%err:	0 = they're
+*CHI:	then saying it wasn't them and blaming it on other people .
+%mor:	adv:tem|then part|say-PRESP pro|it cop|be&PAST&13S~neg|not
+	pro:obj|them coord|and part|blame-PRESP pro|it prep|on qn|other
+	n|person&PL .
+*CHI:	&um (.) she like says she goes to clubs and says that people are
+	[//] think she's older than she is .
+%mor:	pro:sub|she v|like v|say-3S pro:sub|she v|go-3S prep|to n|club-PL
+	coord|and v|say-3S rel|that n|person&PL v|think
+	pro:sub|she~aux|be&3S adj|old-CP prep|than pro:sub|she cop|be&3S .
+*CHI:	and most people don't believe her .
+%mor:	coord|and qn|most n|person&PL mod|do~neg|not v|believe pro:obj|her
+	.
+*INV:	oh .
+%mor:	co|oh .
+*CHI:	and +...
+%mor:	coord|and +...
+*INV:	what that she goes to clubs ?
+%mor:	det:wh|what det|that pro:sub|she v|go-3S prep|to n|club-PL ?
+*CHI:	yeah because she says she goes to over eighteens .
+%mor:	co|yeah conj|because pro:sub|she v|say-3S pro:sub|she v|go-3S
+	inf|to prep|over det:num|eighteen-PL .
+*CHI:	and she doesn't even look fifteen .
+%mor:	coord|and pro:sub|she mod|do&3S~neg|not adv|even v|look
+	det:num|fifteen .
+*INV:	oh right .
+%mor:	co|oh n|right .
+*CHI:	and (.) 0 [*] just is really annoying .
+%mor:	coord|and adv|just cop|be&3S adv|real&dadj-LY part|annoy-PRESP .
+%err:	0 = subject
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

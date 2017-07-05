@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/c-00004978-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;00.26||||Target_Child|||
+@Date:	20-MAY-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	she always takes my stuff without asking .
+%mor:	pro:sub|she adv|always v|take-3S pro:poss:det|my n|stuff
+	prep|without n:gerund|ask-PRESP .
+*CHI:	then when I ask for it back , she always says to me that I'm the
+	one taking her stuff all time .
+%mor:	adv:tem|then conj|when pro:sub|I v|ask prep|for pro|it adv|back
+	cm|cm pro:sub|she adv|always v|say-3S prep|to pro:obj|me rel|that
+	pro:sub|I~cop|be&1S art|the pro:indef|one part|take-PRESP
+	pro:poss:det|her n|stuff adv|all n|time .
+*CHI:	and stuff like that .
+%mor:	coord|and n|stuff prep|like pro:dem|that .
+*CHI:	and when I'm watching a film or something , and she wants to watch
+	something she just turns it off without asking and puts her thing on
+	.
+%mor:	coord|and conj|when pro:sub|I~aux|be&1S part|watch-PRESP art|a
+	n|film coord|or pro:indef|something cm|cm coord|and pro:sub|she
+	v|want-3S inf|to v|watch pro:indef|something pro:sub|she adv|just
+	v|turn-3S pro|it adv|off prep|without n:gerund|ask-PRESP coord|and
+	v|put-3S pro:poss:det|her n|thing adv|on .
+*INV:	yeah .
+%mor:	co|yeah .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

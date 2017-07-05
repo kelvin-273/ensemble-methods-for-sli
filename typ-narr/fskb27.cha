@@ -1,0 +1,62 @@
+@UTF8
+@PID:	11312/c-00004844-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;11.13||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	they [/] they h(ad) [//] got a frog .
+%mor:	pro:sub|they v|get&PAST art|a n|frog .
+*CHI:	and &um (.) the frog escaped .
+%mor:	coord|and art|the n|frog v|escape-PAST .
+*CHI:	so <they looked> [//] they was [*] very upset .
+%mor:	co|so pro:sub|they cop|be&PAST&13S adv|very adj|upset .
+%err:	was = were
+*CHI:	so they looked high and low for the frog , <went outside> [//]
+	looked all in their bed+room .
+%mor:	co|so pro:sub|they v|look-PAST n|high coord|and n|low prep|for
+	art|the n|frog cm|cm v|look-PAST adv|all prep|in pro:poss:det|their
+	n|+n|bed+n|room .
+*CHI:	and (.) they looked outside .
+%mor:	coord|and pro:sub|they part|look-PASTP adj|outside .
+*CHI:	and it's behind the house and looked everywhere .
+%mor:	coord|and pro|it~cop|be&3S prep|behind art|the n|house coord|and
+	v|look-PAST n|everywhere .
+*CHI:	they couldn't find it .
+%mor:	pro:sub|they mod|could~neg|not v|find pro|it .
+*CHI:	they looked inside a tree , knocked off a &er bees' nest and got
+	chased .
+%mor:	pro:sub|they v|look-PAST prep|inside art|a n|tree cm|cm
+	v|knock-PAST prep|off art|a n|bee-PL~poss|s n|nest coord|and
+	v|get&PAST part|chase-PASTP .
+*CHI:	and 0 [*] finally got <rid of it> [//] rid of <the wa(sps)> [//]
+	&er the bees .
+%mor:	coord|and adv|final&dadj-LY v|get&PAST v|rid&ZERO prep|of art|the
+	n|bee-PL .
+%err:	0 = subject
+*CHI:	and 0 [*] carried on looking .
+%mor:	coord|and v|carry-PAST adv|on part|look-PRESP .
+%err:	0 = subject
+*CHI:	&um and they bumped into a deer .
+%mor:	coord|and pro:sub|they v|bump-PAST prep|into art|a n|deer .
+*CHI:	and they got chased by the deer and fell into a pond of water .
+%mor:	coord|and pro:sub|they aux|get&PAST part|chase-PASTP prep|by
+	art|the n|deer coord|and v|fall&PAST prep|into art|a n|pond prep|of
+	n|water .
+*CHI:	when they got out , they saw some frogs , wandered over , said
+	hello .
+%mor:	conj|when pro:sub|they v|get&PAST adv|out cm|cm pro:sub|they
+	v|see&PAST qn|some n|frog-PL cm|cm v|wander-PAST adv|over cm|cm
+	v|say&PAST n|hello .
+*CHI:	0 [*] found their frog and said goodbye .
+%mor:	part|find&PASTP pro:poss:det|their n|frog coord|and v|say&PAST
+	co|goodbye .
+%err:	0 = subject
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/c-00004890-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;01.10||||Target_Child|||
+@Date:	27-MAY-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	there was a boy and a dog .
+%mor:	pro:exist|there cop|be&PAST&13S art|a n|boy coord|and art|a n|dog .
+*CHI:	and they had a pet frog amongst things .
+%mor:	coord|and pro:sub|they v|have&PAST art|a n|pet n|frog prep|amongst
+	n|thing-PL .
+*CHI:	and they went to sleep .
+%mor:	coord|and pro:sub|they v|go&PAST inf|to v|sleep .
+*CHI:	and a [*] frog escaped to their horror !
+%mor:	coord|and art|a n|frog v|escape-PAST prep|to pro:poss:det|their
+	n|horror !
+%err:	a = the
+*CHI:	they looked for the frog in their room .
+%mor:	pro:sub|they v|look-PAST prep|for art|the n|frog prep|in
+	pro:poss:det|their n|room .
+*CHI:	and the dog got his head stuck in a jar .
+%mor:	coord|and art|the n|dog v|get&PAST pro:poss:det|his n|head
+	v|stick&PAST prep|in art|a n|jar .
+*CHI:	and they looked out the window .
+%mor:	coord|and pro:sub|they v|look-PAST prep|out art|the n|window .
+*CHI:	and so they went on a hunt .
+%mor:	coord|and co|so pro:sub|they v|go&PAST prep|on art|a n|hunt .
+*CHI:	and they got attacked by some bees on their hunt , (.) which was
+	nice .
+%mor:	coord|and pro:sub|they aux|get&PAST part|attack-PASTP prep|by
+	qn|some n|bee-PL prep|on pro:poss:det|their n|hunt cm|cm rel|which
+	cop|be&PAST&13S adj|nice .
+*CHI:	they carry on looking in the trees and in the woods .
+%mor:	pro:sub|they v|carry adv|on part|look-PRESP prep|in art|the
+	n|tree-PL coord|and prep|in art|the n|wood-PL .
+*CHI:	and they went deeper into the woods and met an angry owl .
+%mor:	coord|and pro:sub|they v|go&PAST adj|deep-CP prep|into art|the
+	n|wood-PL coord|and v|meet&PAST art|a adj|angry n|owl .
+*CHI:	and they called for their pet frog .
+%mor:	coord|and pro:sub|they v|call-PAST prep|for pro:poss:det|their
+	n|pet n|frog .
+*CHI:	and they carried on looking and bumped into a deer , who doesn't
+	look very happy .
+%mor:	coord|and pro:sub|they v|carry-PAST adv|on part|look-PRESP
+	coord|and v|bump-PAST prep|into art|a n|deer cm|cm rel|who
+	mod|do&3S~neg|not v|look adv|very adj|happy .
+*CHI:	and they fell into the pond , where they carry on looking for their
+	frog .
+%mor:	coord|and pro:sub|they v|fall&PAST prep|into art|the n|pond cm|cm
+	rel|where pro:sub|they v|carry adv|on part|look-PRESP prep|for
+	pro:poss:det|their n|frog .
+*CHI:	and they sneaked up on their frog who was hiding with other frogs .
+%mor:	coord|and pro:sub|they v|sneak-PAST adv|up prep|on
+	pro:poss:det|their n|frog rel|who aux|be&PAST&13S part|hide-PRESP
+	prep|with qn|other n|frog-PL .
+*CHI:	and they took their frog home .
+%mor:	coord|and pro:sub|they v|take&PAST pro:poss:det|their n|frog
+	adv|home .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

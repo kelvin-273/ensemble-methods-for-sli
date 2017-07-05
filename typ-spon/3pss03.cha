@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/c-00004974-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;02.02||||Target_Child|||
+@Date:	20-MAY-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	there's this boy in a maths class called [//] (.) &um (.) we call
+	him Dougie .
+%mor:	pro:exist|there~cop|be&3S pro:dem|this n|boy prep|in art|a
+	n|math-PL n|class pro:sub|we v|call pro:obj|him n:prop|Dougie .
+*CHI:	and he [//] everytime I'm talking to somebody next_to him <he goes>
+	[/] he goes +"/.
+%mor:	coord|and adv:tem|everytime pro:sub|I~aux|be&1S part|talk-PRESP
+	prep|to pro:indef|somebody prep|next_to pro:obj|him pro:sub|he
+	v|go-3S +"/.
+*CHI:	+" shut up !
+%mor:	v|shut&ZERO adv|up !
+*CHI:	or something like that just to annoy me .
+%mor:	coord|or pro:indef|something prep|like pro:dem|that adv|just inf|to
+	v|annoy pro:obj|me .
+*INV:	yeah .
+%mor:	co|yeah .
+*CHI:	and I've also got this [//] my brother called Martin .
+%mor:	coord|and pro:sub|I~aux|have adv|also v|get&PAST pro:poss:det|my
+	n|brother v|call-PAST n:prop|Martin .
+*CHI:	<he's always> [/] he's always &um +...
+%mor:	pro:sub|he~cop|be&3S adv|always +...
+*CHI:	we've got Sky tv and when I sit down to watch something , he's
+	always coming in and turning it off .
+%mor:	pro:sub|we~aux|have part|get&PASTP n:prop|Sky n|tv coord|and
+	conj|when pro:sub|I v|sit adv|down inf|to v|watch
+	pro:indef|something cm|cm pro:sub|he~aux|be&3S adv|always
+	part|come-PRESP adv|in coord|and part|turn-PRESP pro|it adv|off .
+*INV:	yeah .
+%mor:	co|yeah .
+*CHI:	so_that he can go onto the computer without any noise .
+%mor:	conj|so_that pro:sub|he mod|can v|go prep|onto art|the
+	n|compute&dv-AGT prep|without qn|any n|noise .
+*INV:	right .
+%mor:	co|right .
+*CHI:	and that annoys me .
+%mor:	coord|and rel|that v|annoy-3S pro:obj|me .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

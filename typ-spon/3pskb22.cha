@@ -1,0 +1,37 @@
+@UTF8
+@PID:	11312/c-00004938-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;04.26||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um <my brother> [//] he always annoys me .
+%mor:	pro:sub|he adv|always v|annoy-3S pro:obj|me .
+*CHI:	he like flicks me and pokes me .
+%mor:	pro:sub|he v|like v|flick-3S pro:obj|me coord|and v|poke-3S
+	pro:obj|me .
+*CHI:	and whenever I'm on the phone he like shouts in the background and
+	answers him [//] and says stuff to my friends .
+%mor:	coord|and adv:wh|whenever pro:sub|I~aux|be&1S prep|on art|the
+	n|phone pro:sub|he v|like n|shout-PL prep|in art|the n|background
+	coord|and n|answer-PL coord|and v|say-3S n|stuff prep|to
+	pro:poss:det|my n|friend-PL .
+*INV:	yeah .
+%mor:	co|yeah .
+*CHI:	annoying .
+%mor:	part|annoy-PRESP .
+*INV:	that is annoying , isn't it ?
+%mor:	rel|that aux|be&3S part|annoy-PRESP cm|cm cop|be&3S~neg|not pro|it
+	?
+*INV:	anything else ?
+%mor:	pro:indef|anything post|else ?
+*CHI:	just in general really !
+%mor:	adv|just prep|in n|general adv|real&dadj-LY !
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

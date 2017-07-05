@@ -1,0 +1,66 @@
+@UTF8
+@PID:	11312/c-00004999-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;07.16||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	<right well> [//] I have_to share a room with him .
+%mor:	pro:sub|I mod:aux|have_to v|share art|a n|room prep|with
+	pro:obj|him .
+*CHI:	and he snores quite loudly , even though he's only eight !
+%mor:	coord|and pro:sub|he v|snore-3S adv|quite adv|loud&dadj-LY cm|cm
+	adv|even adv|though pro:sub|he~aux|be&3S qn|only det:num|eight !
+*INV:	+< &=laughs .
+*CHI:	which is a +...
+%mor:	rel|which cop|be&3S art|a +...
+*CHI:	&um I'm trying to do my homework and he comes up and starts playing
+	on the Playstation .
+%mor:	pro:sub|I~aux|be&1S part|try-PRESP inf|to v|do pro:poss:det|my
+	n|+n|home+n|work coord|and pro:sub|he v|come-3S adv|up coord|and
+	v|start-3S part|play-PRESP prep|on art|the n:prop|Playstation .
+*CHI:	I'm trying to practise my clarinet .
+%mor:	pro:sub|I~aux|be&1S part|try-PRESP inf|to v|practise
+	pro:poss:det|my n|clarinet .
+*CHI:	and he comes up and starts trying to have a conversation with me .
+%mor:	coord|and pro:sub|he v|come-3S adv|up coord|and v|start-3S
+	part|try-PRESP inf|to v|have art|a n|conversation prep|with
+	pro:obj|me .
+*CHI:	he's always trying to get me to help him with his homework .
+%mor:	pro:sub|he~aux|be&3S adv|always part|try-PRESP inf|to v|get
+	pro:obj|me inf|to v|help pro:obj|him prep|with pro:poss:det|his
+	n|+n|home+n|work .
+*CHI:	and even though he can do 0 [*] himself he just doesn't want to .
+%mor:	coord|and adv|even adv|though pro:sub|he mod|can v|do
+	pro:refl|himself pro:sub|he adv|just mod|do&3S~neg|not v|want
+	prep|to .
+%err:	0 = object
+*INV:	+< yeah .
+%mor:	co|yeah .
+*CHI:	&um (.) (.) he always wants me to read to him , even though he can
+	read himself .
+%mor:	pro:sub|he adv|always v|want-3S pro:obj|me inf|to v|read&ZERO
+	prep|to pro:obj|him cm|cm adv|even adv|though pro:sub|he mod|can
+	v|read&ZERO pro:refl|himself .
+*CHI:	he just doesn't enjoy doing it .
+%mor:	pro:sub|he adv|just mod|do&3S~neg|not v|enjoy part|do-PRESP pro|it
+	.
+*CHI:	&um he's always trying to play games with me when I'm trying to
+	play with someone else or talk to someone else .
+%mor:	pro:sub|he~aux|be&3S adv|always part|try-PRESP prep|to n|play
+	v|game-3S prep|with pro:obj|me conj|when pro:sub|I~aux|be&1S
+	part|try-PRESP prep|to n|play prep|with pro:indef|someone post|else
+	coord|or n|talk prep|to pro:indef|someone post|else .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	&um +/.
+%mor:	+/.
+%exp:	loud electrical sound and both laugh at it , INV makes a comment .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

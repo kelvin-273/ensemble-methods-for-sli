@@ -1,0 +1,95 @@
+@UTF8
+@PID:	11312/c-00004841-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;10.15||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	okay [//] &um <I was just about to go to bed and I left my> [//] I
+	was just going to bed and everything was normal .
+%mor:	pro:sub|I cop|be&PAST&13S adv|just part|go-PRESP prep|to n|bed
+	coord|and pro:indef|everything cop|be&PAST&13S adv|normal .
+*CHI:	my pet frog was in my jar .
+%mor:	pro:poss:det|my n|pet n|frog cop|be&PAST&13S prep|in
+	pro:poss:det|my n|jar .
+*CHI:	and my dog was just sniffing around in the room .
+%mor:	coord|and pro:poss:det|my n|dog cop|be&PAST&13S adv|just
+	part|sniff-PRESP adv|around prep|in art|the n|room .
+*CHI:	and my window was just a tiny bit open .
+%mor:	coord|and pro:poss:det|my n|window cop|be&PAST&13S adv|just art|a
+	adj|tiny n|bit v|open .
+*CHI:	when I went to bed something was not right .
+%mor:	conj|when pro:sub|I v|go&PAST prep|to n|bed pro:indef|something
+	aux|be&PAST&13S neg|not n|right .
+*CHI:	and when I woke up in the morning the frog was gone .
+%mor:	coord|and conj|when pro:sub|I v|wake&PAST adv|up prep|in art|the
+	n|morning art|the n|frog aux|be&PAST&13S part|go&PASTP .
+*CHI:	I searched everywhere .
+%mor:	pro:sub|I v|search-PAST n|everywhere .
+*CHI:	I searched in my boots , under stools , under my bed .
+%mor:	pro:sub|I v|search-PAST prep|in pro:poss:det|my n|boot-PL cm|cm
+	prep|under n|stool-PL cm|cm prep|under pro:poss:det|my n|bed .
+*CHI:	my pet dog helped me search .
+%mor:	pro:poss:det|my n|pet n|dog v|help-PAST pro:obj|me n|search .
+*CHI:	and we looked out the window .
+%mor:	coord|and pro:sub|we v|look-PAST prep|out art|the n|window .
+*CHI:	my dog fell out_of the window , which was pretty funny .
+%mor:	pro:poss:det|my n|dog v|fall&PAST prep|out_of art|the n|window
+	cm|cm rel|which cop|be&PAST&13S adv|pretty adj|fun&dn-Y .
+*CHI:	but we still couldn't find my frog .
+%mor:	conj|but pro:sub|we adv|still mod|could~neg|not v|find
+	pro:poss:det|my n|frog .
+*CHI:	<we looked> [/-] I put my boots on and walked outside .
+%mor:	pro:sub|I v|put&ZERO pro:poss:det|my n|boot-PL adv|on coord|and
+	part|walk-PASTP adj|outside .
+*CHI:	I [/] I called into the forest just to see if it heard that +...
+%mor:	pro:sub|I v|call-PAST prep|into art|the n|forest adv|just inf|to
+	v|see conj|if pro|it v|hear&PAST rel|that +...
+*CHI:	I was looking down holes to see .
+%mor:	pro:sub|I aux|be&PAST&13S part|look-PRESP prep|down n|hole-PL
+	inf|to v|see .
+*CHI:	but all I found was a (.) rat .
+%mor:	conj|but pro:indef|all pro:sub|I v|find&PAST cop|be&PAST&13S art|a
+	n|rat .
+*CHI:	I [/] I looked in holes in trees .
+%mor:	pro:sub|I v|look-PAST prep|in n|hole-PL prep|in n|tree-PL .
+*CHI:	but all I found was an owl .
+%mor:	conj|but pro:indef|all pro:sub|I v|find&PAST cop|be&PAST&13S art|a
+	n|owl .
+*CHI:	I looked behind rocks .
+%mor:	pro:sub|I v|look-PAST prep|behind n|rock-PL .
+*CHI:	all I found was a deer .
+%mor:	pro:indef|all pro:sub|I v|find&PAST cop|be&PAST&13S art|a n|deer .
+*CHI:	the deer picked me up and threw me straight <into the w(ater)> [//]
+	into a pond .
+%mor:	art|the n|deer v|pick-PAST pro:obj|me adv|up coord|and v|throw&PAST
+	pro:obj|me adv|straight prep|into art|a n|pond .
+*CHI:	I went splash into the pond .
+%mor:	pro:sub|I v|go&PAST n|splash prep|into art|the n|pond .
+*CHI:	and then I heard somethink@c [*] .
+%mor:	coord|and adv:tem|then pro:sub|I v|hear&PAST chi|somethink .
+%err:	somethink = something
+*CHI:	0 [*] told my dog to be quiet .
+%mor:	v|tell&PAST pro:poss:det|my n|dog inf|to cop|be adj|quiet .
+%err:	0 = subject
+*CHI:	I looked over a log .
+%mor:	pro:sub|I v|look-PAST prep|over art|a n|log .
+*CHI:	and there <was my f(rog)> [//] was [*] two frogs .
+%mor:	coord|and adv|there cop|be&PAST&13S det:num|two n|frog-PL .
+%err:	was = were
+*CHI:	and then there was a family of them (.) including mine .
+%mor:	coord|and adv:tem|then pro:exist|there cop|be&PAST&13S art|a
+	n|family prep|of pro:obj|them part|include-PRESP pro:poss|mine .
+*CHI:	I picked up my frog , said goodbye to the others and walked off
+	home .
+%mor:	pro:sub|I v|pick-PAST prep|up pro:poss:det|my n|frog cm|cm
+	v|say&PAST co|goodbye prep|to art|the n:pt|others coord|and
+	v|walk-PAST adv|off adv|home .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

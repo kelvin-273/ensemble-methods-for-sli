@@ -1,0 +1,95 @@
+@UTF8
+@PID:	11312/c-00004868-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;07.05||||Target_Child|||
+@Date:	07-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	there was a little boy who had got a new frog pet [?] .
+%mor:	pro:exist|there cop|be&PAST&13S art|a adj|little n|boy rel|who
+	aux|have&PAST part|get&PASTP art|a adj|new n|frog n|pet .
+*CHI:	&um he went to sleep .
+%mor:	pro:sub|he v|go&PAST inf|to v|sleep .
+*CHI:	and the frog got out the jar .
+%mor:	coord|and art|the n|frog v|get&PAST adv|out art|the n|jar .
+*CHI:	when he woke up the frog wasn't there anymore .
+%mor:	conj|when pro:sub|he v|wake&PAST prep|up art|the n|frog
+	cop|be&PAST&13S~neg|not adv|there adv|anymore .
+*CHI:	&um he searched the room looking in shoes and under the bed .
+%mor:	pro:sub|he v|search-PAST art|the n|room part|look-PRESP prep|in
+	n|shoe-PL coord|and prep|under art|the n|bed .
+*CHI:	he called out the window .
+%mor:	pro:sub|he v|call-PAST prep|out art|the n|window .
+*CHI:	the dog fell out .
+%mor:	art|the n|dog v|fall&PAST adv|out .
+*CHI:	so he got down and was a bit angry at the dog [=! laughs] .
+%mor:	co|so pro:sub|he v|get&PAST adv|down coord|and cop|be&PAST&13S
+	art|a n|bit adj|angry prep|at art|the n|dog .
+*CHI:	&um he went out and was calling for the frog .
+%mor:	pro:sub|he v|go&PAST adv|out coord|and aux|be&PAST&13S
+	part|call-PRESP prep|for art|the n|frog .
+*CHI:	he called down a little hole .
+%mor:	pro:sub|he v|call-PAST prep|down art|a adj|little n|hole .
+*CHI:	and the dog was barking at some bees .
+%mor:	coord|and art|the n|dog aux|be&PAST&13S part|bark-PRESP prep|at
+	qn|some n|bee-PL .
+*CHI:	something came out the hole and bit him on the nose .
+%mor:	pro:indef|something v|come&PAST prep|out art|the n|hole coord|and
+	v|bite&PAST pro:obj|him prep|on art|the n|nose .
+*CHI:	&um he climbed up a tree .
+%mor:	pro:sub|he v|climb-PAST prep|up art|a n|tree .
+*CHI:	the bees got angry [=! laughs] .
+%mor:	art|the n|bee-PL v|get&PAST adj|angry .
+*CHI:	&um the bees started chasing the dog .
+%mor:	art|the n|bee-PL v|start-PAST n:gerund|chase-PRESP art|the n|dog .
+*CHI:	and he fell out the tree .
+%mor:	coord|and pro:sub|he v|fall&PAST prep|out art|the n|tree .
+*CHI:	an owl popped out .
+%mor:	art|a n|owl v|pop-PAST adv|out .
+*CHI:	so he fell out .
+%mor:	co|so pro:sub|he v|fall&PAST adv|out .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	&um the owl flew over to another tree .
+%mor:	art|the n|owl v|fly&PAST adv|over prep|to qn|another n|tree .
+*CHI:	he climbed up a rock and was calling for the frog still .
+%mor:	pro:sub|he v|climb-PAST prep|up art|a n|rock coord|and
+	aux|be&PAST&13S part|call-PRESP prep|for art|the n|frog adv|still .
+*CHI:	and then a little antelope reindeer [=! laughs] jumped up .
+%mor:	coord|and adv:tem|then art|a adj|little n|antelope n|reindeer
+	v|jump-PAST adv|up .
+*CHI:	and he fell on the head .
+%mor:	coord|and pro:sub|he v|fall&PAST prep|on art|the n|head .
+*INV:	+< that's cool .
+%mor:	pro:dem|that~cop|be&3S adj|cool .
+*CHI:	it was running away .
+%mor:	pro|it aux|be&PAST&13S part|run-PRESP adv|away .
+*CHI:	and then he fell off that animal's head and fell down a little hill
+	.
+%mor:	coord|and adv:tem|then pro:sub|he v|fall&PAST prep|off det|that
+	n|animal~poss|s n|head coord|and v|fall&PAST prep|down art|a
+	adj|little n|hill .
+*CHI:	&um he fell into some water and heard some frogs .
+%mor:	pro:sub|he v|fall&PAST prep|into qn|some n|water coord|and
+	v|hear&PAST qn|some n|frog-PL .
+*CHI:	he told the dog to be quiet , looked over the little log .
+%mor:	pro:sub|he v|tell&PAST art|the n|dog inf|to cop|be n|quiet cm|cm
+	v|look-PAST prep|over art|the adj|little n|log .
+*CHI:	and there was his frog who had found a new girlfriend .
+%mor:	coord|and adv|there cop|be&PAST&13S pro:poss:det|his n|frog rel|who
+	aux|have&PAST part|find&PASTP art|a adj|new n|+n|girl+n|friend .
+*CHI:	and they'd had some babies .
+%mor:	coord|and pro:sub|they~mod|genmod v|have&PAST qn|some n|baby-PL .
+*CHI:	<no &um> [/-] &um he went back to his mum and dad got his frog and
+	waved goodbye to the family .
+%mor:	pro:sub|he v|go&PAST adv|back prep|to pro:poss:det|his n|mum
+	coord|and n|dad v|get&PAST pro:poss:det|his n|frog coord|and
+	part|wave-PASTP co|goodbye prep|to art|the n|family .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

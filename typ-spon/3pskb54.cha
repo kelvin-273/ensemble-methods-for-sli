@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/c-00004970-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;03.26||||Target_Child|||
+@Date:	07-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	okay [//] &um she &um says that I haven't got any friends .
+%mor:	pro:sub|she v|say-3S rel|that pro:sub|I aux|have~neg|not
+	part|get&PASTP qn|any n|friend-PL .
+*CHI:	and she abuses me .
+%mor:	coord|and pro:sub|she v|abuse-3S pro:obj|me .
+*CHI:	and [/] and it's quite nasty .
+%mor:	coord|and pro|it~cop|be&3S adv|quite adj|nasty .
+*CHI:	&um and she always gets on my nerve if I have_to work next_to her .
+%mor:	coord|and pro:sub|she adv|always v|get-3S adv|on pro:poss:det|my
+	n|nerve conj|if pro:sub|I mod:aux|have_to v|work prep|next_to
+	pro:obj|her .
+*CHI:	like she pokes me or steals my pen or something .
+%mor:	conj|like pro:sub|she v|poke-3S pro:obj|me coord|or v|steal-3S
+	pro:poss:det|my n|pen coord|or pro:indef|something .
+*CHI:	and &um she &um whispers to her friends about me behind her back
+	whenever I'm like &um near her or something .
+%mor:	coord|and pro:sub|she v|whisper-3S prep|to pro:poss:det|her
+	n|friend-PL prep|about pro:obj|me adv|behind pro:poss:det|her n|back
+	adv:wh|whenever pro:sub|I~aux|be&1S prep|like prep|near pro:obj|her
+	coord|or pro:indef|something .
+*CHI:	and &um and then she like acts as_if I smell or something .
+%mor:	coord|and coord|and adv:tem|then pro:sub|she v|like n|act-PL
+	conj|as_if pro:sub|I v|smell coord|or pro:indef|something .
+*CHI:	and 0 [*] sticks up her nose whenever she walks past me .
+%mor:	coord|and v|stick-3S prep|up pro:poss:det|her n|nose
+	adv:wh|whenever pro:sub|she v|walk-3S adj|past pro:obj|me .
+%err:	0 = subject
+*CHI:	and &um &um that's about it .
+%mor:	coord|and pro:dem|that~cop|be&3S adv|about pro|it .
+*INV:	+< that's plenty , that's perfect thank you .
+%mor:	pro:dem|that~cop|be&3S adv|plenty cm|cm pro:dem|that~cop|be&3S
+	adj|perfect v|thank pro|you .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

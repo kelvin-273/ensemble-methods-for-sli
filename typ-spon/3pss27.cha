@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/c-00004995-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;03.19||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um they're always &um annoying and aggravating .
+%mor:	pro:sub|they~cop|be&PRES adv|always part|annoy-PRESP coord|and
+	part|aggravate-PRESP .
+*CHI:	and they always want to copy the things that you do .
+%mor:	coord|and pro:sub|they adv|always v|want inf|to v|copy art|the
+	n|thing-PL rel|that pro|you v|do .
+*CHI:	and every time you want to do something , they want to do it first
+	.
+%mor:	coord|and qn|every n|time pro|you v|want inf|to v|do
+	pro:indef|something cm|cm pro:sub|they v|want inf|to v|do pro|it
+	adv|first .
+*CHI:	and they always want to be like you .
+%mor:	coord|and pro:sub|they adv|always v|want inf|to cop|be prep|like
+	pro|you .
+*CHI:	&um they always aggravate and irritate and try and +/.
+%mor:	pro:sub|they adv|always v|aggravate coord|and v|irritate coord|and
+	v|try coord|and +/.
+*INV:	is it a he or she ?
+%mor:	aux|be&3S pro|it art|a pro:sub|he conj|or pro:sub|she ?
+*CHI:	she .
+%mor:	pro:sub|she .
+*INV:	so she aggravates you ?
+%mor:	co|so pro:sub|she v|aggravate-3S pro|you ?
+*CHI:	yeah and 0 [*] always tries to do better and things like that .
+%mor:	co|yeah coord|and adv|always v|try-3S inf|to v|do adv|good&CP
+	coord|and n|thing-PL prep|like pro:dem|that .
+%err:	0 = subject
+*INV:	yeah .
+%mor:	co|yeah .
+*CHI:	which is really annoying !
+%mor:	rel|which cop|be&3S adv|real&dadj-LY part|annoy-PRESP !
+*INV:	fair enough .
+%mor:	n|fair adv|enough .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

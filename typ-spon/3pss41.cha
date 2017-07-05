@@ -1,0 +1,33 @@
+@UTF8
+@PID:	11312/c-00005009-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;06.06||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	just [/-] she winds me up and calls me names and (.) steals my
+	stuff out_of my room without asking .
+%mor:	pro:sub|she v|wind-3S pro:obj|me adv|up coord|and v|call-3S
+	pro:obj|me n|name-PL coord|and v|steal-3S pro:poss:det|my n|stuff
+	prep|out_of pro:poss:det|my n|room prep|without n:gerund|ask-PRESP .
+*CHI:	and 0 [*] (.) does awkward things .
+%mor:	coord|and mod|do&3S adj|awkward n|thing-PL .
+%err:	0 = subject
+*CHI:	and 0 [*] is always awkward .
+%mor:	coord|and aux|be&3S adv|always adj|awkward .
+%err:	0 = subject
+*CHI:	and 0 [*] changes the tv without &um asking .
+%mor:	coord|and v|change-3S art|the n|tv prep|without n:gerund|ask-PRESP
+	.
+%err:	0 = subject
+*CHI:	she doesn't let me do stuff (be)cause she's annoying .
+%mor:	pro:sub|she mod|do&3S~neg|not v|let&ZERO pro:obj|me v|do n|stuff
+	conj|because pro:sub|she~aux|be&3S part|annoy-PRESP .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

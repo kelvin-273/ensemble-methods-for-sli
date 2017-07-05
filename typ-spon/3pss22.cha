@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/c-00004991-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;05.08||||Target_Child|||
+@Date:	27-MAY-2001
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	it's someone on Big Brother the new one .
+%mor:	pro|it~aux|be&3S pro:indef|someone prep|on n:prop|Big
+	n:prop|Brother art|the adj|new pro:indef|one .
+*CHI:	and I think her name is Jade or Jane or something .
+%mor:	coord|and pro:sub|I v|think pro:poss:det|her n|name cop|be&3S
+	n:prop|Jade coord|or n:prop|Jane coord|or pro:indef|something .
+*CHI:	and she is really annoying (be)cause she like just talks forever .
+%mor:	coord|and pro:sub|she aux|be&3S adv|real&dadj-LY part|annoy-PRESP
+	conj|because pro:sub|she v|like adv|just v|talk-3S adv:tem|forever .
+*CHI:	and she's got a really [//] sort_of accent that 0 [*] like really
+	annoying .
+%mor:	coord|and pro:sub|she~aux|be&3S part|get&PASTP art|a adv|sort_of
+	n|accent rel|that v|like adv|real&dadj-LY part|annoy-PRESP .
+%err:	0 = is
+*CHI:	she just talks and talks .
+%mor:	pro:sub|she adv|just v|talk-3S coord|and n|talk-PL .
+*CHI:	and she doesn't like shut up so +...
+%mor:	coord|and pro:sub|she mod|do&3S~neg|not co|like v|shut&ZERO adv|up
+	adv|so +...
+*CHI:	that's about it really .
+%mor:	pro:dem|that~cop|be&3S adv|about pro|it adv|real&dadj-LY .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

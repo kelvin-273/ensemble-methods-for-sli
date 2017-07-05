@@ -1,0 +1,53 @@
+@UTF8
+@PID:	11312/c-00004945-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;10.13||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	I [/-] he calls me names a lot .
+%mor:	pro:sub|he v|call-3S pro:obj|me n|name-PL art|a n|lot .
+*CHI:	he's always like trying to be [//] beat me at everything .
+%mor:	pro:sub|he~aux|be&3S adv|always co|like part|try-PRESP inf|to
+	v|beat&ZERO pro:obj|me prep|at pro:indef|everything .
+*CHI:	no matter what I try and do he thinks that he's better !
+%mor:	co|no n|matter pro:wh|what pro:sub|I v|try coord|and v|do
+	pro:sub|he v|think-3S rel|that pro:sub|he~aux|be&3S adj|good&CP !
+*CHI:	really annoying !
+%mor:	adv|real&dadj-LY part|annoy-PRESP !
+*CHI:	and like he [/] he knows stuff that annoys me .
+%mor:	coord|and conj|like pro:sub|he v|know-3S n|stuff rel|that
+	v|annoy-3S pro:obj|me .
+*CHI:	so he tries to do it .
+%mor:	co|so pro:sub|he v|try-3S inf|to v|do pro|it .
+*CHI:	like if I want to watch like <a th(ing)> [//] like rugby or
+	something on the tellie he has_to change it over and watch football
+	.
+%mor:	conj|like conj|if pro:sub|I v|want prep|to n|watch prep|like
+	co|like n|rugby coord|or pro:indef|something prep|on art|the
+	n|tellie pro:sub|he mod:aux|has_to v|change pro|it adv|over
+	coord|and n|watch n|+n|foot+n|ball .
+*CHI:	I don't mind football but not as much as rugby .
+%mor:	pro:sub|I mod|do~neg|not v|mind n|+n|foot+n|ball conj|but neg|not
+	prep|as qn|much prep|as n|rugby .
+*CHI:	so it [//] that really annoys me !
+%mor:	adv|so rel|that adv|real&dadj-LY v|annoy-3S pro:obj|me !
+*CHI:	and like whatever I say I do something he's already done it .
+%mor:	coord|and co|like pro:wh|whatever pro:sub|I v|say pro:sub|I v|do
+	pro:indef|something pro:sub|he~cop|be&3S adv|already part|do&PASTP
+	pro|it .
+*CHI:	so he thinks that he's better .
+%mor:	co|so pro:sub|he v|think-3S rel|that pro:sub|he~aux|be&3S
+	adj|good&CP .
+*INV:	+< uhhuh .
+%mor:	co|uhhuh .
+*CHI:	like generally stuff like that !
+%mor:	prep|like adv|general&dadj-LY n|stuff prep|like pro:dem|that !
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

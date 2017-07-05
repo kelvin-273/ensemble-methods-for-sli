@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/c-00005006-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;07.08||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	his voice annoys you .
+%mor:	pro:poss:det|his n|voice v|annoy-3S pro|you .
+*CHI:	he's irritating , self+centered , arrogant &um +/.
+%mor:	pro:sub|he~aux|be&3S part|irritate-PRESP cm|cm
+	adj|+adj|self+adj|centered cm|cm adj|arrogant +/.
+*INV:	+< particular things ?
+%mor:	adj|particular n|thing-PL ?
+*CHI:	+, 0 [*] picks on people , singles out people .
+%mor:	v|pick-3S prep|on n|person&PL cm|cm v|single-3S prep|out
+	n|person&PL .
+%err:	0 = subject
+*CHI:	he's sexist like [*] girls more .
+%mor:	pro:sub|he~aux|be&3S n|sexist prep|like n|girl-PL pro:indef|more .
+%err:	like = likes
+*CHI:	&um 0 [*] shouts , tries to look funny and make jokes which are not
+	amusing and annoying .
+%mor:	n|shout-PL cm|cm v|try-3S inf|to v|look adj|fun&dn-Y coord|and
+	v|make n|joke-PL rel|which aux|be&PRES neg|not part|amuse-PRESP
+	coord|and part|annoy-PRESP .
+%err:	0 = subject
+*CHI:	can't take criticism .
+%mor:	mod|can~neg|not v|take n|criticism .
+*CHI:	0 [*] does not give constructive criticism &um sends you out for
+	nothing .
+%mor:	mod|do&3S neg|not v|give adj|constructive n|criticism v|send-3S
+	pro|you adv|out prep|for pro:indef|nothing .
+%err:	0 = subject
+*CHI:	0 [*] can't take anything back , walks around , looks like a ferret
+	&um .
+%mor:	mod|can~neg|not v|take pro:indef|anything adv|back cm|cm v|walk-3S
+	adv|around cm|cm v|look-3S prep|like art|a v|ferret .
+%err:	0 = subject
+*INV:	that's fine .
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+*CHI:	0 [*] 0 [*] nosy , annoying , irritating , arrogant that's pretty
+	much about it .
+%mor:	co|nosy cm|cm part|annoy-PRESP cm|cm part|irritate-PRESP cm|cm
+	adj|arrogant pro:dem|that~cop|be&3S adj|pretty adv|much prep|about
+	pro|it .
+%err:	0 = subject; 0 = is
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

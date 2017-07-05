@@ -1,0 +1,32 @@
+@UTF8
+@PID:	11312/c-00004921-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;10.22||||Target_Child|||
+@Date:	16-JUL-2001
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	well he's annoying because when I am in my room like trying to do
+	my homework he's always coming in and disturbing me .
+%mor:	co|well pro:sub|he~aux|be&3S part|annoy-PRESP conj|because
+	conj|when pro:sub|I cop|be&1S prep|in pro:poss:det|my n|room
+	prep|like n:gerund|try-PRESP inf|to v|do pro:poss:det|my
+	n|+n|home+n|work pro:sub|he~aux|be&3S adv|always part|come-PRESP
+	adv|in coord|and part|disturb-PRESP pro:obj|me .
+*CHI:	or if I'm in my room he <just comes in and> [/] just sort of comes
+	in and sort of mucks about y(ou) know that sort of stuff .
+%mor:	conj|or conj|if pro:sub|I~aux|be&1S prep|in pro:poss:det|my n|room
+	pro:sub|he adj|just n|sort prep|of v|come-3S adv|in coord|and n|sort
+	prep|of n|muck-PL prep|about pro|you v|know pro:dem|that n|sort
+	prep|of n|stuff .
+*INV:	anything else ?
+%mor:	pro:indef|anything post|else ?
+*INV:	anything in particular ?
+%mor:	pro:indef|anything prep|in n|particular ?
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

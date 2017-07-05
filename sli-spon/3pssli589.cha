@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/c-00004812-1
+@Begin
+@Languages:	eng
+@Participants:	INV Lisa Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;1.09||||Target_Child|||
+@Date:	02-NOV-2001
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at Child's school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um the naughtiest person ma [//] is m [//] naughty because they're
+	just disruptive in class .
+%mor:	art|the adj|naughty-SP n|person cop|be&3S adj|naughty conj|because
+	pro:sub|they~aux|be&PRES adv|just adj|disruptive prep|in n|class .
+*CHI:	and 0 [*] annoys the teacher .
+%mor:	coord|and v|annoy-3S art|the n|teach&dv-AGT .
+%err:	0 = subject
+*CHI:	and 0 [*] like throws &uh stuff across the classroom .
+%mor:	coord|and co|like v|throw-3S n|stuff prep|across art|the
+	n|+n|class+n|room .
+%err:	0 = subject
+*CHI:	and (.) 0 [*] annoys other people when they're working .
+%mor:	coord|and v|annoy-3S qn|other n|person&PL conj|when
+	pro:sub|they~aux|be&PRES part|work-PRESP .
+%err:	0 = subject
+*INV:	right .
+%mor:	co|right .
+*INV:	can you think of anything else ?
+%mor:	mod|can pro|you v|think prep|of pro:indef|anything post|else ?
+*INV:	can you think of anything else about this naughty person and the
+	things they do that make them naughty ?
+%mor:	mod|can pro|you v|think prep|of pro:indef|anything post|else
+	prep|about det|this adj|naughty n|person coord|and art|the
+	n|thing-PL pro:sub|they mod|do det|that v|make pro:obj|them
+	adj|naughty ?
+*CHI:	they don't &um dress properly <so they get> [//] so they have a
+	punishment [/] and +...
+%mor:	pro:sub|they mod|do~neg|not v|dress adv|proper&dadj-LY conj|so
+	pro:sub|they v|have art|a coord|and +...
+*INV:	uhuh (.) is there anything else ?
+%mor:	co|uhuh cop|be&3S adv|there pro:indef|anything post|else ?
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

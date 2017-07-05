@@ -1,0 +1,43 @@
+@UTF8
+@PID:	11312/c-00004993-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;02.12||||Target_Child|||
+@Date:	27-MAY-2001
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	Laura Johnston , (be)cause she says <she's done> [//] she'll do
+	something and she doesn't .
+%mor:	n:prop|Laura n:prop|Johnston cm|cm conj|because pro:sub|she
+	v|say-3S pro:sub|she~mod|will v|do pro:indef|something coord|and
+	pro:sub|she mod|do&3S~neg|not .
+*CHI:	&um she's not very honest with you .
+%mor:	pro:sub|she~aux|be&3S neg|not adv|very adj|honest prep|with pro|you
+	.
+*CHI:	and she's not very reliable .
+%mor:	coord|and pro:sub|she~aux|be&3S neg|not adv|very adj|rely&dv-ABLE .
+*CHI:	and she'll talk to you one time , but she won't talk to you another
+	time .
+%mor:	coord|and pro:sub|she~mod|will v|talk prep|to pro|you det:num|one
+	n|time cm|cm conj|but pro:sub|she mod|will~neg|not v|talk prep|to
+	pro|you qn|another n|time .
+*INV:	can you think of anything else she does ?
+%mor:	mod|can pro|you v|think prep|of pro:indef|anything post|else
+	pro:sub|she v|do&3S ?
+*CHI:	if there's nobody else to ask out somewhere , she'll ask you .
+%mor:	conj|if pro:exist|there~cop|be&3S pro:indef|nobody post|else inf|to
+	v|ask prep|out n|somewhere cm|cm pro:sub|she~mod|will v|ask pro|you
+	.
+*CHI:	if like she's asked loads of other people and then she'll ask you
+	(be)cause you're like the last resort .
+%mor:	conj|if conj|like pro:sub|she~aux|be&3S part|ask-PASTP n|load-PL
+	prep|of qn|other n|person&PL coord|and adv:tem|then
+	pro:sub|she~mod|will v|ask pro|you conj|because pro|you~cop|be&PRES
+	prep|like art|the adj|last n|resort .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

@@ -1,0 +1,172 @@
+@UTF8
+@PID:	11312/c-00004820-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;9.04||||Target_Child|||
+@Date:	12-JUL-2001
+@Transcriber:	Dee
+@Situation:	Particpants in a quiet room at the school , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	there's this boy in his bed+room .
+%mor:	pro:exist|there~cop|be&3S pro:dem|this n|boy prep|in
+	pro:poss:det|his n|+n|bed+n|room .
+*CHI:	and there's this like jar thing .
+%mor:	coord|and pro:exist|there~cop|be&3S pro:dem|this co|like n|jar
+	n|thing .
+*CHI:	and there's a frog in it .
+%mor:	coord|and pro:exist|there~cop|be&3S art|a n|frog prep|in pro|it .
+*CHI:	and him and his pet dog are looking at the frog .
+%mor:	coord|and pro:obj|him coord|and pro:poss:det|his n|pet n|dog
+	aux|be&PRES part|look-PRESP prep|at art|the n|frog .
+*CHI:	and then (.) next day he woke up .
+%mor:	coord|and adv:tem|then adv|next n|day pro:sub|he v|wake&PAST adv|up
+	.
+*CHI:	and then the frog went [//] (.) jumped out_of the jar .
+%mor:	coord|and adv:tem|then art|the n|frog v|jump-PAST prep|out_of
+	art|the n|jar .
+*CHI:	and then <him an> [//] the boy and the dog they were looking where
+	he's gone and (.) stuff .
+%mor:	coord|and adv:tem|then art|the n|boy coord|and art|the n|dog
+	pro:sub|they aux|be&PAST part|look-PRESP rel|where
+	pro:sub|he~aux|be&3S part|go&PASTP coord|and n|stuff .
+*CHI:	they were looking everywhere in his bed+room .
+%mor:	pro:sub|they aux|be&PAST part|look-PRESP n|everywhere prep|in
+	pro:poss:det|his n|+n|bed+n|room .
+*CHI:	the boy was looking in a jumper .
+%mor:	art|the n|boy aux|be&PAST&13S part|look-PRESP prep|in art|a
+	n|jump&dv-AGT .
+*CHI:	and the dog was looking in the jar .
+%mor:	coord|and art|the n|dog aux|be&PAST&13S part|look-PRESP prep|in
+	art|the n|jar .
+*CHI:	<he got the> [/] the dog got his head stuck into the jar .
+%mor:	art|the n|dog v|get&PAST pro:poss:det|his n|head v|stick&PAST
+	prep|into art|the n|jar .
+*CHI:	then they looked out the window 0 [*] see if he could find him
+	anywhere .
+%mor:	adv:tem|then pro:sub|they v|look-PAST prep|out art|the n|window
+	v|see conj|if pro:sub|he mod|could v|find pro:obj|him adv|anywhere .
+%err:	0 = to
+*CHI:	then the dog fell out_of the window .
+%mor:	adv:tem|then art|the n|dog v|fall&PAST prep|out_of art|the n|window
+	.
+*INV:	oh dear .
+%mor:	co|oh co|dear .
+*CHI:	and then the boy must have jumped out to catch him .
+%mor:	coord|and adv:tem|then art|the n|boy mod|must aux|have
+	part|jump-PASTP adv|out inf|to v|catch pro:obj|him .
+*CHI:	they went into the park or somewhere to look for him .
+%mor:	pro:sub|they v|go&PAST prep|into art|the n|park coord|or
+	adv|somewhere inf|to v|look prep|for pro:obj|him .
+*CHI:	they shouted everywhere for him .
+%mor:	pro:sub|they v|shout-PAST n|everywhere prep|for pro:obj|him .
+*CHI:	then they looked in the woods or something , (be)cause he [*]
+	couldn't find him anywhere .
+%mor:	adv:tem|then pro:sub|they v|look-PAST prep|in art|the n|wood-PL
+	coord|or pro:indef|something cm|cm conj|because pro:sub|he
+	mod|could~neg|not v|find pro:obj|him adv|anywhere .
+%err:	he = they
+*CHI:	<He looked> [//] the boy looked in a hole .
+%mor:	art|the n|boy part|look-PASTP prep|in art|a n|hole .
+*CHI:	and then the dog looked in a beehive .
+%mor:	coord|and adv:tem|then art|the n|dog v|look-PAST prep|in art|a
+	n|beehive .
+*CHI:	the boy found this animal and it smelled [//] smelt .
+%mor:	art|the n|boy v|find&PAST det|this n|animal coord|and pro|it
+	v|smell&PAST .
+*CHI:	and then the dog looked up at the tree .
+%mor:	coord|and adv:tem|then art|the n|dog v|look-PAST adv|up prep|at
+	art|the n|tree .
+*CHI:	and then the beehive type thing fell down from the tree with loads
+	of bees flying out .
+%mor:	coord|and adv:tem|then art|the n|beehive n|type n|thing v|fall&PAST
+	adv|down prep|from art|the n|tree prep|with n|load-PL prep|of
+	n|bee-PL part|fly-PRESP adv|out .
+*CHI:	then the boy looked in the tree , (be)cause there was a hole in it
+	.
+%mor:	adv:tem|then art|the n|boy part|look-PASTP prep|in art|the n|tree
+	cm|cm conj|because pro:exist|there cop|be&PAST&13S art|a n|hole
+	prep|in pro|it .
+*CHI:	and he looked in it to see if he was there .
+%mor:	coord|and pro:sub|he v|look-PAST prep|in pro|it inf|to v|see
+	conj|if pro:sub|he cop|be&PAST&13S adv|there .
+*CHI:	what [/] there's this owl .
+%mor:	pro:dem|there~aux|be&3S det|this n|owl .
+*CHI:	and then he must have pushed the boy out_of the tree .
+%mor:	coord|and adv:tem|then pro:sub|he mod|must aux|have part|push-PASTP
+	art|the n|boy prep|out_of art|the n|tree .
+*CHI:	and then the bees were still going after the dog .
+%mor:	coord|and adv:tem|then art|the n|bee-PL cop|be&PAST adv|still
+	part|go-PRESP prep|after art|the n|dog .
+*CHI:	the dog went away (be)cause he was terrified .
+%mor:	art|the n|dog v|go&PAST adv|away conj|because pro:sub|he
+	aux|be&PAST&13S part|terrify-PASTP .
+*CHI:	the boy (.) must've bumped his head or something .
+%mor:	art|the n|boy mod|must~aux|have part|bump-PASTP pro:poss:det|his
+	n|head coord|or pro:indef|something .
+*CHI:	and the owl was looking over him .
+%mor:	coord|and art|the n|owl aux|be&PAST&13S part|look-PRESP prep|over
+	pro:obj|him .
+*CHI:	the boy look [/] went on top of the stone to shout for him [//] (.)
+	the frog .
+%mor:	art|the n|boy v|go&PAST prep|on n|top prep|of art|the n|stone
+	inf|to v|shout prep|for art|the n|frog .
+*CHI:	the [/] there's a deer .
+%mor:	pro:exist|there~cop|be&3S art|a n|deer .
+*CHI:	(.) he caught the boy .
+%mor:	pro:sub|he v|catch&PAST art|the n|boy .
+*CHI:	he must have fallen .
+%mor:	pro:sub|he mod|must aux|have part|fall&PASTP .
+*CHI:	and then he [/] the deer ran away with the boy on the [*] head .
+%mor:	coord|and adv:tem|then art|the n|deer v|run&PAST adv|away prep|with
+	art|the n|boy prep|on art|the n|head .
+%err:	the = his
+*CHI:	and then he must've got (.) &um (.) funny and pushed the boy over .
+%mor:	coord|and adv:tem|then pro:sub|he mod|must~aux|have v|get&PAST
+	adj|fun&dn-Y coord|and v|push-PAST art|the n|boy adv|over .
+*CHI:	(..) he must've fallen over .
+%mor:	pro:sub|he mod|must~aux|have part|fall&PASTP adv|over .
+*CHI:	so he got there .
+%mor:	co|so pro:sub|he v|get&PAST adv|there .
+*CHI:	then he fallen [/] fell into a river .
+%mor:	adv:tem|then pro:sub|he v|fall&PAST prep|into art|a n|river .
+*CHI:	and then the dog was like on the log .
+%mor:	coord|and adv:tem|then art|the n|dog cop|be&PAST&13S co|like
+	prep|on art|the n|log .
+*CHI:	and then he fell onto the boy's head .
+%mor:	coord|and adv:tem|then pro:sub|he v|fall&PAST prep|onto art|the
+	n|boy~poss|s n|head .
+*CHI:	then the boy must have told the dog to be quiet because he must've
+	found something in the like log thing .
+%mor:	adv:tem|then art|the n|boy mod|must aux|have part|tell&PASTP
+	art|the n|dog inf|to cop|be n|quiet conj|because pro:sub|he
+	mod|must~aux|have v|find&PAST pro:indef|something prep|in art|the
+	co|like n|log n|thing .
+*CHI:	then they looked on the other side to see what was there .
+%mor:	adv:tem|then pro:sub|they v|look-PAST prep|on art|the qn|other
+	n|side inf|to v|see pro:wh|what cop|be&PAST&13S adv|there .
+*CHI:	<then he found> [//] then the boy and the dog found two frogs .
+%mor:	adv:tem|then art|the n|boy coord|and art|the n|dog v|find&PAST
+	det:num|two n|frog-PL .
+*CHI:	then he was really happy (be)cause he thought he'd found his like
+	pet frog .
+%mor:	adv:tem|then pro:sub|he cop|be&PAST&13S adv|real&dadj-LY adj|happy
+	conj|because pro:sub|he v|think&PAST pro:sub|he~mod|genmod
+	v|find&PAST pro:poss:det|his co|like n|pet n|frog .
+*CHI:	then he did .
+%mor:	adv:tem|then pro:sub|he v|do&PAST .
+*CHI:	then he went back into the water .
+%mor:	adv:tem|then pro:sub|he v|go&PAST adv|back prep|into art|the
+	n|water .
+*CHI:	then the frogs were on the log saying like +"/.
+%mor:	adv:tem|then art|the n|frog-PL cop|be&PAST prep|on art|the n|log
+	part|say-PRESP prep|like +"/.
+*CHI:	+" bye .
+%mor:	co|bye .
+*CHI:	or something .
+%mor:	coord|or pro:indef|something .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

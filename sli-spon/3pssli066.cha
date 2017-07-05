@@ -1,0 +1,58 @@
+@UTF8
+@PID:	11312/c-00004802-1
+@Begin
+@Languages:	eng
+@Participants:	INV Zoe Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;4.04||||Target_Child|||
+@Date:	22-MAY-2003
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at Child's home. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	I don't know anyone but they'd probably pull pranks , set off some
+	fire alarms , they'll &um +/.
+%mor:	pro:sub|I mod|do~neg|not v|know pro:indef|anyone conj|but
+	pro:sub|they~mod|genmod adv|probable&dadj-LY v|pull n|prank-PL cm|cm
+	v|set&ZERO prep|off qn|some n|fire n|alarm-PL cm|cm
+	pro:sub|they~mod|will +/.
+*INV:	pull pranks ?
+%mor:	v|pull n|prank-PL ?
+*CHI:	uhhuh .
+%mor:	co|uhhuh .
+*INV:	what sort of pranks ?
+%mor:	pro:wh|what n|sort prep|of n|prank-PL ?
+*INV:	what would they do ?
+%mor:	pro:wh|what mod|will&COND pro:sub|they v|do ?
+*CHI:	&um (.) switch the register for example .
+%mor:	v|switch art|the n|register prep|for n|example .
+*INV:	yeah .
+%mor:	co|yeah .
+*CHI:	&um <they'll probably> [/] &um <they'll probably> [/] <they'll
+	probably be> [//] they'll probably get out and stuff .
+%mor:	pro:sub|they~mod|will adv|probable&dadj-LY v|get adv|out coord|and
+	n|stuff .
+*INV:	right .
+%mor:	co|right .
+*INV:	what other things would they do ?
+%mor:	pro:wh|what qn|other n|thing-PL mod|will&COND pro:sub|they v|do ?
+*INV:	what would they do at lunchtime ?
+%mor:	pro:wh|what mod|will&COND pro:sub|they v|do prep|at
+	n|+n|lunch+n|time ?
+*CHI:	&um I dunno [: don't know] .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+*CHI:	I dunno [: don't know] what they'd do .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:wh|what pro:sub|they~mod|genmod
+	v|do .
+*INV:	so you've never seen anybody do anything naughty at lunchtime ?
+%mor:	adv|so pro|you~aux|have adv|never part|see&PASTP pro:indef|anybody
+	v|do pro:indef|anything adj|naughty prep|at n|+n|lunch+n|time ?
+*CHI:	no .
+%mor:	co|no .
+*INV:	really ?
+%mor:	adv|real&dadj-LY ?
+*CHI:	I'm only guessing them .
+%mor:	pro:sub|I~aux|be&1S adv|only part|guess-PRESP pro:obj|them .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

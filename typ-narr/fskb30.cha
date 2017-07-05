@@ -1,0 +1,94 @@
+@UTF8
+@PID:	11312/c-00004847-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;01.16||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	well [//] me and my dog were watching the frog in the jar .
+%mor:	pro:obj|me coord|and pro:poss:det|my n|dog aux|be&PAST
+	part|watch-PRESP art|the n|frog prep|in art|the n|jar .
+*CHI:	<I fell> [/] <I fell> [//] I felt a bit sleepy after a while and
+	got a bit bored .
+%mor:	pro:sub|I v|feel&PAST art|a n|bit adj|sleep&dn-Y prep|after art|a
+	n|while coord|and v|get&PAST art|a n|bit part|bore-PASTP .
+*CHI:	so I went to bed and slept for a while .
+%mor:	co|so pro:sub|I v|go&PAST prep|to n|bed coord|and v|sleep&PAST
+	prep|for art|a n|while .
+*CHI:	I woke up a couple of hours later .
+%mor:	pro:sub|I v|wake&PAST prep|up art|a n|couple prep|of n|hour-PL
+	adv|later .
+*CHI:	but the frog wasn't there .
+%mor:	conj|but art|the n|frog cop|be&PAST&13S~neg|not adv|there .
+*CHI:	I looked everywhere in my room , in my boots .
+%mor:	pro:sub|I v|look-PAST n|everywhere prep|in pro:poss:det|my n|room
+	cm|cm prep|in pro:poss:det|my n|boot-PL .
+*CHI:	the dog looked in the jar , under the stool , under the bed , even
+	looked out the window .
+%mor:	art|the n|dog v|look-PAST prep|in art|the n|jar cm|cm prep|under
+	art|the n|stool cm|cm prep|under art|the n|bed cm|cm adv|even
+	part|look-PASTP prep|out art|the n|window .
+*CHI:	the dog acc(idently) [//] fell out the window and broke the jar
+	what [*] the frog was in .
+%mor:	art|the n|dog v|fall&PAST prep|out art|the n|window coord|and
+	v|break&PAST art|the n|jar pro:wh|what art|the n|frog
+	cop|be&PAST&13S adv|in .
+%err:	what = that
+*CHI:	I went out and [/] and catched [*] him .
+%mor:	pro:sub|I v|go&PAST adv|out coord|and v|catch-PAST pro:obj|him .
+%err:	catched = caught
+*CHI:	0 [*] shouted everywhere .
+%mor:	v|shout-PAST n|everywhere .
+%err:	0 = subject
+*CHI:	and I looked in the wood .
+%mor:	coord|and pro:sub|I v|look-PAST prep|in art|the n|wood .
+*CHI:	I looked down the hole where there was a little mouse thing .
+%mor:	pro:sub|I v|look-PAST prep|down art|the n|hole rel|where adv|there
+	cop|be&PAST&13S art|a adj|little n|mouse n|thing .
+*CHI:	the dog xxx [//] was barking in a beehive .
+%mor:	art|the n|dog aux|be&PAST&13S part|bark-PRESP prep|in art|a
+	n|beehive .
+*CHI:	I looked in <a trees> [//] a tree where an owl was and gave me a
+	jump .
+%mor:	pro:sub|I v|look-PAST prep|in art|a n|tree rel|where art|a n|owl
+	cop|be&PAST&13S coord|and v|give&PAST pro:obj|me art|a n|jump .
+*CHI:	the owl came chasing after me .
+%mor:	art|the n|owl v|come&PAST n:gerund|chase-PRESP prep|after
+	pro:obj|me .
+*CHI:	<I looked> [//] I climbed a big high rock .
+%mor:	pro:sub|I v|climb-PAST art|a adj|big adj|high n|rock .
+*CHI:	but I couldn't see him .
+%mor:	conj|but pro:sub|I mod|could~neg|not v|see pro:obj|him .
+*CHI:	I fell onto a deer's head <grabbed hold> [//] no [//] he made (.)
+	oh +...
+%mor:	pro:sub|I v|fall&PAST prep|onto art|a n|deer~poss|s n|head
+	pro:sub|he v|make&PAST co|oh +...
+*INV:	you're all right just say it however you think .
+%mor:	pro|you~aux|be&PRES adv|all adv|right adv|just v|say pro|it
+	adv|however pro|you v|think .
+*CHI:	he made us fall of a cliff .
+%mor:	pro:sub|he v|make&PAST pro:obj|us n|fall prep|of art|a n|cliff .
+*INV:	that's brilliant .
+%mor:	pro:dem|that~cop|be&3S adj|brilliant .
+*CHI:	we fell into a pond .
+%mor:	pro:sub|we v|fall&PAST prep|into art|a n|pond .
+*CHI:	and we got out .
+%mor:	coord|and pro:sub|we v|get&PAST adv|out .
+*CHI:	I was wet now , climbed over a log .
+%mor:	pro:sub|I cop|be&PAST&13S adj|wet adv|now cm|cm v|climb-PAST
+	prep|over art|a n|log .
+*CHI:	and there we found two frogs .
+%mor:	coord|and adv|there pro:sub|we v|find&PAST det:num|two n|frog-PL .
+*CHI:	(.) <found a whole> [//] then we looked behind us .
+%mor:	adv:tem|then pro:sub|we v|look-PAST prep|behind pro:obj|us .
+*CHI:	there was a whole frog family including my frog .
+%mor:	pro:exist|there cop|be&PAST&13S art|a adj|whole n|frog n|family
+	n:gerund|include-PRESP pro:poss:det|my n|frog .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

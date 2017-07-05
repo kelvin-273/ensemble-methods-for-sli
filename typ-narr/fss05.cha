@@ -1,0 +1,108 @@
+@UTF8
+@PID:	11312/c-00004877-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;10.26||||Target_Child|||
+@Date:	20-MAY-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um he had a frog .
+%mor:	pro:sub|he v|have&PAST art|a n|frog .
+*CHI:	and it's sat in a jar .
+%mor:	coord|and pro|it~aux|be&3S part|sit&PASTP prep|in art|a n|jar .
+*CHI:	that night he went to sleep .
+%mor:	det|that n|night pro:sub|he v|go&PAST inf|to v|sleep .
+*CHI:	and the frog escaped .
+%mor:	coord|and art|the n|frog v|escape-PAST .
+*CHI:	in the morning he woke up and looked into the jar .
+%mor:	prep|in art|the n|morning pro:sub|he v|wake&PAST adv|up coord|and
+	v|look-PAST prep|into art|the n|jar .
+*CHI:	the frog was missing .
+%mor:	art|the n|frog aux|be&PAST&13S part|miss-PRESP .
+*CHI:	he quickly pulled on his clothes .
+%mor:	pro:sub|he adv|quick&dadj-LY v|pull-PAST prep|on pro:poss:det|his
+	n:pt|clothes .
+*CHI:	he couldn't find Frog anywhere .
+%mor:	pro:sub|he mod|could~neg|not v|find n:prop|Frog adv|anywhere .
+*CHI:	he called out the window .
+%mor:	pro:sub|he v|call-PAST prep|out art|the n|window .
+*CHI:	then Dog fell out the window .
+%mor:	adv:tem|then n:prop|Dog v|fall&PAST prep|out art|the n|window .
+*CHI:	he went down to collect Dog .
+%mor:	pro:sub|he v|go&PAST adv|down inf|to v|collect n:prop|Dog .
+*CHI:	Dog licked him on the face .
+%mor:	n:prop|Dog v|lick-PAST pro:obj|him prep|on art|the n|face .
+*CHI:	he went out 0 [*] the field near by .
+%mor:	pro:sub|he v|go&PAST prep|out art|the n|field adv|near adv|by .
+*CHI:	and he was shouting +"/.
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|shout-PRESP +"/.
+%err:	0 = to
+*CHI:	+" <Dog , Dog> [//] Frog !
+%mor:	n:prop|Frog !
+*CHI:	the dog went to the hive and started barking .
+%mor:	art|the n|dog v|go&PAST prep|to art|the n|hive coord|and
+	v|start-PAST n:gerund|bark-PRESP .
+*CHI:	he went to the hole and looked for the frog , but nothing happened
+	.
+%mor:	pro:sub|he v|go&PAST prep|to art|the n|hole coord|and v|look-PAST
+	prep|for art|the n|frog cm|cm conj|but pro:indef|nothing
+	v|happen-PAST .
+*CHI:	Dog had barked so much , 0 [*] the hive had fallen down .
+%mor:	n:prop|Dog v|have&PAST part|bark-PASTP adv|so qn|much cm|cm art|the
+	n|hive aux|have&PAST part|fall&PASTP adv|down .
+%err:	0 = that
+*CHI:	and he'd climbed up to a tree and looked inside .
+%mor:	coord|and pro:sub|he~mod|genmod v|climb-PAST adv|up prep|to art|a
+	n|tree coord|and v|look-PAST adv|inside .
+*CHI:	the bees then started to chase Dog .
+%mor:	art|the n|bee-PL adv:tem|then v|start-PAST prep|to n|chase
+	n:prop|Dog .
+*CHI:	and he fell over .
+%mor:	coord|and pro:sub|he v|fall&PAST adv|over .
+*CHI:	he was then chased by an owl .
+%mor:	pro:sub|he aux|be&PAST&13S adv:tem|then v|chase-PAST prep|by art|a
+	n|owl .
+*CHI:	he climbed up the tree to escape .
+%mor:	pro:sub|he v|climb-PAST prep|up art|the n|tree inf|to v|escape .
+*CHI:	he started calling on top of the rock to look for frog .
+%mor:	pro:sub|he v|start-PAST n:gerund|call-PRESP prep|on n|top prep|of
+	art|the n|rock inf|to v|look prep|for n|frog .
+*CHI:	but then a deer knocked him .
+%mor:	conj|but adv:tem|then art|a n|deer v|knock-PAST pro:obj|him .
+*CHI:	and he was on the deer's head .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S prep|on art|the n|deer~poss|s
+	n|head .
+*CHI:	the deer ran up a cliff with him on the head .
+%mor:	art|the n|deer v|run&PAST prep|up art|a n|cliff prep|with
+	pro:obj|him prep|on art|the n|head .
+*CHI:	and then the deer stopped suddenly .
+%mor:	coord|and adv:tem|then art|the n|deer v|stop-PAST
+	adv|sudden&dadj-LY .
+*CHI:	and he fell off with Dog .
+%mor:	coord|and pro:sub|he v|fall&PAST adv|off prep|with n:prop|Dog .
+*CHI:	they both fell into a pond and sat up again .
+%mor:	pro:sub|they post|both v|fall&PAST prep|into art|a n|pond coord|and
+	v|sit&PAST adv|up adv|again .
+*CHI:	they heard something .
+%mor:	pro:sub|they v|hear&PAST pro:indef|something .
+*CHI:	(.) he told Dog to be quiet .
+%mor:	pro:sub|he v|tell&PAST n:prop|Dog inf|to cop|be adj|quiet .
+*CHI:	they both looked over the log .
+%mor:	pro:sub|they post|both v|look-PAST prep|over art|the n|log .
+*CHI:	and there sat on grass was Frog with another frog .
+%mor:	coord|and adv|there v|sit&PAST prep|on n|grass cop|be&PAST&13S
+	n:prop|Frog prep|with qn|another n|frog .
+*CHI:	the frog had lots_of little frogs .
+%mor:	art|the n|frog v|have&PAST qn|lots_of adj|little n|frog-PL .
+*CHI:	and they took the little frog home again and said goodbye to the
+	other frogs .
+%mor:	coord|and pro:sub|they v|take&PAST art|the adj|little n|frog
+	adv|home adv|again coord|and v|say&PAST co|goodbye prep|to art|the
+	qn|other n|frog-PL .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

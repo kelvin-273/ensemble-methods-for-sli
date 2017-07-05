@@ -1,0 +1,72 @@
+@UTF8
+@PID:	11312/c-00005013-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;10.26||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	whilst you're talking she'll sit there listening to what you've got
+	to say .
+%mor:	conj|whilst pro|you~aux|be&PRES part|talk-PRESP
+	pro:sub|she~mod|will v|sit adv|there part|listen-PRESP prep|to
+	pro:wh|what pro|you~aux|have part|get&PASTP inf|to v|say .
+*CHI:	and then she'll start asking questions like +"/.
+%mor:	coord|and adv:tem|then pro:sub|she~mod|will v|start part|ask-PRESP
+	n|question-PL prep|like +"/.
+*CHI:	+" oh , who said this ?
+%mor:	co|oh cm|cm rel|who v|say&PAST pro:dem|this ?
+*CHI:	+" and who's done that ?
+%mor:	coord|and rel|who~aux|be&3S part|do&PASTP det|that ?
+*CHI:	I find that really annoying !
+%mor:	pro:sub|I v|find rel|that adv|real&dadj-LY part|annoy-PRESP !
+*CHI:	&um she does spread gossip .
+%mor:	pro:sub|she mod|do&3S v|spread&ZERO n|gossip .
+*INV:	+< uhhuh .
+%mor:	co|uhhuh .
+*CHI:	she makes up rumors .
+%mor:	pro:sub|she v|make-3S prep|up n|rumor-PL .
+*CHI:	she did used to pick on me at one stage .
+%mor:	pro:sub|she v|do&PAST v|use-PAST inf|to v|pick prep|on pro:obj|me
+	prep|at det:num|one n|stage .
+*CHI:	&um but I put her in her shoes !
+%mor:	conj|but pro:sub|I v|put&ZERO pro:obj|her prep|in pro:poss:det|her
+	n|shoe-PL !
+*INV:	good !
+%mor:	adj|good !
+*CHI:	so hopefully we're still friends and everything now .
+%mor:	adv|so adv|hope&dadj-FULL-LY pro:sub|we~cop|be&PRES adv|still
+	n|friend-PL coord|and pro:indef|everything adv|now .
+*CHI:	&um she says little things which are really annoying .
+%mor:	pro:sub|she v|say-3S adj|little n|thing-PL rel|which cop|be&PRES
+	adv|real&dadj-LY part|annoy-PRESP .
+*CHI:	and it's like just really , really does annoy you .
+%mor:	coord|and pro|it~cop|be&3S conj|like adv|just adv|real&dadj-LY
+	cm|cm adv|real&dadj-LY mod|do&3S v|annoy pro|you .
+*CHI:	&um if you say something she'll quote you back and say +"/.
+%mor:	conj|if pro|you v|say pro:indef|something pro:sub|she~mod|will
+	v|quote pro|you adv|back coord|and v|say +"/.
+*CHI:	+" oh no that's wrong !
+%mor:	co|oh co|no pro:dem|that~cop|be&3S adj|wrong !
+*INV:	yeah .
+%mor:	co|yeah .
+*CHI:	she's always got_to be better than you .
+%mor:	pro:sub|she~aux|be&3S adv|always mod:aux|got_to cop|be adv|good&CP
+	prep|than pro|you .
+*CHI:	so you're kind_of the last person to get something right .
+%mor:	co|so pro|you~aux|be&PRES adv|kind_of art|the adj|last n|person
+	inf|to v|get pro:indef|something adj|right .
+*INV:	yeah .
+%mor:	co|yeah .
+*CHI:	she's always putting you down .
+%mor:	pro:sub|she~aux|be&3S adv|always part|put-PRESP pro|you adv|down .
+*CHI:	(.) she's just all around annoying !
+%mor:	pro:sub|she~aux|be&3S adv|just adv|all adv|around part|annoy-PRESP
+	!
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

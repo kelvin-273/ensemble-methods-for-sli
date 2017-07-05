@@ -1,0 +1,6 @@
+['pro:poss:det', 921]
+['det', 151]
+['det:num', 122]
+['det:wh', 4]
+['det:num-PL', 2]
+['n+v+det+n-PL', 1]

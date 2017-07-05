@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/c-00004817-1
+@Begin
+@Languages:	eng
+@Participants:	INV Zoe Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;5.24||||Target_Child|||
+@Date:	17-JUN-2003
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at Child's home. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	xxx at teachers .
+%mor:	prep|at n|teach&dv-AGT-PL .
+*CHI:	&um always gets detentions and referrals and +/.
+%mor:	adv|always v|get-3S n|detention-PL coord|and n|referral-PL
+	coord|and +/.
+*INV:	+< oh !
+%mor:	co|oh !
+*CHI:	+, on report .
+%mor:	prep|on n|report .
+*INV:	what do they do to get on report ?
+%mor:	pro:wh|what mod|do pro:sub|they v|do inf|to v|get prep|on n|report
+	?
+*CHI:	&um just bad behavior .
+%mor:	adv|just adj|bad n|behavior .
+*CHI:	no class work .
+%mor:	qn|no n|class n|work .
+*CHI:	uniform not on properly .
+%mor:	adj|uniform neg|not adv|on adv|proper&dadj-LY .
+*INV:	lots_of things .
+%mor:	qn|lots_of n|thing-PL .
+*INV:	what do they get up to at break time ?
+%mor:	pro:wh|what mod|do pro:sub|they v|get adv|up prep|to prep|at
+	v|break n|time ?
+*CHI:	&um smoking and +...
+%mor:	part|smoke-PRESP coord|and +...
+*INV:	everyday they +...
+%mor:	adv:tem|everyday pro:sub|they +...
+*CHI:	they smoke .
+%mor:	pro:sub|they v|smoke .
+*INV:	what else do they do ?
+%mor:	pro:wh|what post|else mod|do pro:sub|they v|do ?
+*CHI:	they're really nasty to kids <who're like> [/] who're like not
+	within [//] in the in crowd .
+%mor:	pro:sub|they~aux|be&PRES adv|real&dadj-LY adj|nasty prep|to
+	n|kid-PL rel|who~aux|be&PRES co|like neg|not prep|in art|the prep|in
+	n|crowd .
+*CHI:	if you know what I mean ?
+%mor:	conj|if pro|you v|know pro:wh|what pro:sub|I v|mean ?
+*CHI:	call them skanks and that .
+%mor:	v|call pro:obj|them n|skank-PL coord|and pro:dem|that .
+*INV:	that's not very nice , is it !
+%mor:	pro:dem|that~cop|be&3S neg|not adv|very adj|nice cm|cm aux|be&3S
+	pro|it !
+*INV:	that's a new one on me !
+%mor:	pro:dem|that~cop|be&3S art|a adj|new pro:indef|one prep|on
+	pro:obj|me !
+*CHI:	meaning you're like nasty like .
+%mor:	part|mean-PRESP pro|you~aux|be&PRES prep|like adj|nasty prep|like .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

@@ -1,0 +1,193 @@
+@UTF8
+@PID:	11312/c-00004798-1
+@Begin
+@Languages:	eng
+@Participants:	INV Helen Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;5.24||||Target_Child|||
+@Date:	17-JUN-2003
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*INV:	last week .
+%mor:	adj|last n|week .
+*CHI:	last week a boy and his dog were looking at this new pet frog that
+	they'd got .
+%mor:	adj|last n|week art|a n|boy coord|and pro:poss:det|his n|dog
+	aux|be&PAST part|look-PRESP prep|at det|this adj|new n|pet n|frog
+	rel|that pro:sub|they~mod|genmod part|get&PASTP .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	they were well happy .
+%mor:	pro:sub|they aux|be&PAST adv|well adj|happy .
+*CHI:	the boy and the dog fell asleep .
+%mor:	art|the n|boy coord|and art|the n|dog v|fall&PAST adv|asleep .
+*CHI:	but the frog thought he'd jump out_of the jar and take a look
+	around .
+%mor:	conj|but art|the n|frog v|think&PAST pro:sub|he~mod|genmod v|jump
+	prep|out_of art|the n|jar coord|and v|take art|a v|look adv|around .
+*CHI:	next morning the boy and the dog realized that the frog had gone .
+%mor:	adj|next n|morning art|the n|boy coord|and art|the n|dog
+	v|realize-PAST rel|that art|the n|frog aux|have&PAST part|go&PASTP .
+*CHI:	they were devastated .
+%mor:	pro:sub|they aux|be&PAST part|devastate-PASTP .
+*INV:	oh no !
+%mor:	co|oh co|no !
+*CHI:	they were looking everywhere for it , underneath the bed , in
+	clothes , underneath the stool .
+%mor:	pro:sub|they aux|be&PAST part|look-PRESP adv|everywhere prep|for
+	pro|it cm|cm prep|underneath art|the n|bed cm|cm adv|in n:pt|clothes
+	cm|cm prep|underneath art|the n|stool .
+*CHI:	the boy and the dog even shouted the name out_of the window .
+%mor:	art|the n|boy coord|and art|the n|dog adv|even part|shout-PASTP
+	art|the n|name prep|out_of art|the n|window .
+*INV:	then what happened ?
+%mor:	adv:tem|then pro:wh|what v|happen-PAST ?
+*CHI:	then all of a sudden something terrible happened .
+%mor:	adv:tem|then pro:indef|all prep|of art|a n|sudden
+	pro:indef|something adj|terrible part|happen-PASTP .
+*CHI:	the dog fell out_of the window .
+%mor:	art|the n|dog v|fall&PAST prep|out_of art|the n|window .
+*INV:	0 .
+%exp:	sound of shock .
+*CHI:	the boy looked really upset .
+%mor:	art|the n|boy part|look-PASTP adv|real&dadj-LY adj|upset .
+*CHI:	then the boy went downstairs .
+%mor:	adv:tem|then art|the n|boy v|go&PAST adv|downstairs .
+*CHI:	and the dog was alright .
+%mor:	coord|and art|the n|dog cop|be&PAST&13S adj|alright .
+*CHI:	but the boy wasn't .
+%mor:	conj|but art|the n|boy cop|be&PAST&13S~neg|not .
+*CHI:	they went out into the back garden in the woods .
+%mor:	pro:sub|they v|go&PAST adv|out prep|into art|the adj|back n|garden
+	prep|in art|the n|wood-PL .
+*CHI:	and they were calling for the frog +"/.
+%mor:	coord|and pro:sub|they aux|be&PAST part|call-PRESP prep|for art|the
+	n|frog +"/.
+*CHI:	+" where are you , where are you ?
+%mor:	adv:wh|where aux|be&PRES pro|you cm|cm rel|where aux|be&PRES
+	pro|you ?
+*CHI:	they were looking everywhere .
+%mor:	pro:sub|they aux|be&PAST part|look-PRESP n|everywhere .
+*CHI:	they were calling for him .
+%mor:	pro:sub|they aux|be&PAST part|call-PRESP prep|for pro:obj|him .
+*CHI:	and then this little animal came out and said +"/.
+%mor:	coord|and adv:tem|then pro:dem|this adj|little n|animal v|come&PAST
+	adv|out coord|and v|say&PAST +"/.
+*CHI:	+" oy stop shouting where I live !
+%mor:	co|oy n|stop part|shout-PRESP adv:wh|where pro:sub|I v|live !
+*INV:	0 .
+%exp:	laughs .
+*CHI:	+" okay then .
+%mor:	co|okay adv:tem|then .
+*CHI:	said the boy .
+%mor:	v|say&PAST art|the n|boy .
+*CHI:	and the dog was trying to jump up the tree .
+%mor:	coord|and art|the n|dog aux|be&PAST&13S part|try-PRESP inf|to
+	v|jump prep|up art|the n|tree .
+*CHI:	all of a sudden 0 [*] dog hit off the beehive .
+%mor:	pro:indef|all prep|of art|a adj|sudden n|dog v|hit&ZERO prep|off
+	art|the n|beehive .
+%err:	0 = the
+*CHI:	and they were buzzing around everywhere .
+%mor:	coord|and pro:sub|they aux|be&PAST part|buzz-PRESP adv|around
+	adv|everywhere .
+*CHI:	and the boy looked in this hole of [*] the tree trunk .
+%mor:	coord|and art|the n|boy part|look-PASTP prep|in det|this n|hole
+	prep|of art|the n|tree n|trunk .
+%err:	of = in
+*CHI:	and this owl came out .
+%mor:	coord|and det|this n|owl v|come&PAST adv|out .
+*CHI:	he fell back down .
+%mor:	pro:sub|he v|fall&PAST adv|back adv|down .
+*CHI:	and all the bees were chasing the dog .
+%mor:	coord|and qn|all art|the n|bee-PL aux|be&PAST part|chase-PRESP
+	art|the n|dog .
+*CHI:	Dog was howling and going +"/.
+%mor:	n:prop|Dog aux|be&PAST&13S part|howl-PRESP coord|and part|go-PRESP
+	+"/.
+*CHI:	+" argh !
+%mor:	co|argh !
+*INV:	0 .
+%exp:	laughs .
+*CHI:	and then the owl followed the boy .
+%mor:	coord|and adv:tem|then art|the n|owl v|follow-PAST art|the n|boy .
+*CHI:	and he was hiding +"/.
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|hide-PRESP +"/.
+*CHI:	+" go away , go away !
+%mor:	v|go adv|away cm|cm v|go adv|away !
+*CHI:	but that [//] it was alright now .
+%mor:	conj|but pro|it cop|be&PAST&13S adj|alright adv|now .
+*CHI:	(.) he just went off into the tree .
+%mor:	pro:sub|he adv|just v|go&PAST adv|off prep|into art|the n|tree .
+*CHI:	and the boy was still calling for the frog .
+%mor:	coord|and art|the n|boy cop|be&PAST&13S adv|still part|call-PRESP
+	prep|for art|the n|frog .
+*INV:	right ?
+%mor:	co|right ?
+*CHI:	and all of a sudden a deer picked him up !
+%mor:	coord|and pro:indef|all prep|of art|a adj|sudden art|a n|deer
+	v|pick-PAST pro:obj|him adv|up !
+*CHI:	he'd disturbed the deer !
+%mor:	pro:sub|he~mod|genmod v|disturb-PAST art|the n|deer !
+*CHI:	and then they were running .
+%mor:	coord|and adv:tem|then pro:sub|they aux|be&PAST part|run-PRESP .
+*CHI:	the deer was on the boy's head !
+%mor:	art|the n|deer cop|be&PAST&13S prep|on art|the n|boy~poss|s n|head
+	!
+*INV:	oh no !
+%mor:	co|oh co|no !
+*CHI:	and the dog was barking at the deer .
+%mor:	coord|and art|the n|dog aux|be&PAST&13S part|bark-PRESP prep|at
+	art|the n|deer .
+*INV:	0 .
+%exp:	laughs .
+*CHI:	and they were near a mountain cliff .
+%mor:	coord|and pro:sub|they cop|be&PAST prep|near art|a n|mountain
+	n|cliff .
+*CHI:	and he was nearly about to fall .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adv|near&dadj-LY adv|about
+	inf|to v|fall .
+*INV:	and then ?
+%mor:	coord|and adv:tem|then ?
+*CHI:	and then the boy and the dog fell down [/] down into a pond .
+%mor:	coord|and adv:tem|then art|the n|boy coord|and art|the n|dog
+	v|fall&PAST adv|down prep|into art|a n|pond .
+*CHI:	and the deer was pleased .
+%mor:	coord|and art|the n|deer aux|be&PAST&13S part|please-PASTP .
+*INV:	+< oh !
+%mor:	co|oh !
+*CHI:	they went right in and the dog was like +"/.
+%mor:	pro:sub|they v|go&PAST n|right adv|in coord|and art|the n|dog
+	cop|be&PAST&13S prep|like +"/.
+*CHI:	+" wee [?] !
+%mor:	adj|wee !
+*CHI:	and then they found them , the two frogs .
+%mor:	coord|and adv:tem|then pro:sub|they v|find&PAST pro:obj|them cm|cm
+	art|the det:num|two n|frog-PL .
+*CHI:	one frog being their's@n .
+%mor:	det:num|one n|frog aux|be-PRESP neo|their's .
+*CHI:	but he had another frog with him and that was his woman frog .
+%mor:	conj|but pro:sub|he v|have&PAST qn|another n|frog prep|with
+	pro:obj|him coord|and pro:dem|that cop|be&PAST&13S pro:poss:det|his
+	n|woman n|frog .
+*CHI:	and they were smiling .
+%mor:	coord|and pro:sub|they aux|be&PAST part|smile-PRESP .
+*INV:	+< ooh !
+%mor:	v|ooh !
+*CHI:	and then all the other little frogs came out .
+%mor:	coord|and adv:tem|then qn|all art|the qn|other adj|little n|frog-PL
+	v|come&PAST adv|out .
+*CHI:	and they were really happy .
+%mor:	coord|and pro:sub|they cop|be&PAST adv|real&dadj-LY adj|happy .
+*CHI:	so they took one of the little frogs .
+%mor:	co|so pro:sub|they v|take&PAST pro:indef|one prep|of art|the
+	adj|little n|frog-PL .
+*CHI:	and they went +"/.
+%mor:	coord|and pro:sub|they v|go&PAST +"/.
+*CHI:	+" bye , cheerio !
+%mor:	co|bye cm|cm n|cheerio !
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/c-00004807-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;5.29||||Target_Child|||
+@Date:	13-NOV-2001
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at Child's home. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	there is this boy in my form who is probably the naughtiest boy in
+	my half of the year .
+%mor:	pro:exist|there cop|be&3S det|this n|boy prep|in pro:poss:det|my
+	n|form rel|who aux|be&3S adv|probable&dadj-LY art|the adj|naughty-SP
+	n|boy prep|in pro:poss:det|my n|half prep|of art|the n|year .
+*CHI:	(be)cause he &er [/-] during lessons <he &er> [/] <he &er> [/] he
+	&er &sta [//] 0 [*] standing up walking around the classroom .
+%mor:	conj|because pro:sub|he prep|during n|lesson-PL pro:sub|he
+	part|stand-PRESP adv|up part|walk-PRESP prep|around art|the
+	n|+n|class+n|room .
+%err:	0 = is
+*CHI:	walking outside of the room .
+%mor:	part|walk-PRESP adv|outside prep|of art|the n|room .
+*CHI:	0 [*] comes back in (.) &er .
+%mor:	v|come-3S adv|back adv|in .
+%err:	0 = he
+*INV:	and the teachers let him ?
+%mor:	coord|and art|the n|teach&dv-AGT-PL v|let&ZERO pro:obj|him ?
+*CHI:	no they [//] &er the teachers still shout at him .
+%mor:	qn|no art|the n|teach&dv-AGT-PL adj|still n|shout prep|at
+	pro:obj|him .
+*CHI:	but <the teacher> [//] the teachers can't really do a lot .
+%mor:	conj|but art|the n|teach&dv-AGT-PL mod|can~neg|not adv|real&dadj-LY
+	v|do art|a n|lot .
+*CHI:	so [/] (.) so he just walks around .
+%mor:	co|so pro:sub|he adv|just v|walk-3S adv|around .
+*CHI:	and then he &er starts breaking stuff from the radiator .
+%mor:	coord|and adv:tem|then pro:sub|he v|start-3S part|break-PRESP
+	n|stuff prep|from art|the n|radiator .
+*CHI:	&er and while there are people reading [/] reading stuff out or
+	doing stuff he &er starts getting stuff like paper from the teacher
+	and &er then making aeroplanes .
+%mor:	coord|and n|while adv|there cop|be&PRES n|person&PL part|read-PRESP
+	n|stuff adv|out coord|or part|do-PRESP n|stuff pro:sub|he v|start-3S
+	part|get-PRESP n|stuff co|like n|paper prep|from art|the
+	n|teach&dv-AGT coord|and adv:tem|then part|make-PRESP n|aeroplane-PL
+	.
+*CHI:	and making other stuff with (th)em .
+%mor:	coord|and part|make-PRESP qn|other n|stuff prep|with pro:obj|them .
+*CHI:	and then he starts walking around making noises of animals .
+%mor:	coord|and adv:tem|then pro:sub|he v|start-3S part|walk-PRESP
+	adv|around part|make-PRESP n|noise-PL prep|of n|animal-PL .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

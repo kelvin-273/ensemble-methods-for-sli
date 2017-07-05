@@ -1,0 +1,158 @@
+@UTF8
+@PID:	11312/c-00004784-1
+@Begin
+@Languages:	eng
+@Participants:	INV Zoe Investigator , CHI Target_Child , HEL Helen Investigator
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;8.11||||Target_Child|||
+@ID:	eng|Conti4|HEL|||||Investigator|||
+@Date:	27-NOV-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	yesterday this boy was sitting down with his dog looking at the
+	frog .
+%mor:	adv:tem|yesterday pro:dem|this n|boy aux|be&PAST&13S part|sit-PRESP
+	adv|down prep|with pro:poss:det|his n|dog part|look-PRESP prep|at
+	art|the n|frog .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	yesterday &um the boy went to bed with the dog .
+%mor:	adv:tem|yesterday art|the n|boy v|go&PAST prep|to n|bed prep|with
+	art|the n|dog .
+*CHI:	the frog came out an(d) +...
+%mor:	art|the n|frog v|come&PAST adv|out coord|and +...
+*CHI:	and then he woke up with the dog and frog was gone .
+%mor:	coord|and adv:tem|then pro:sub|he v|wake&PAST adv|up prep|with
+	art|the n|dog coord|and n|frog aux|be&PAST&13S part|go&PASTP .
+*HEL:	0 .
+%exp:	gasps .
+*CHI:	and then the dog put <in the frog> [//] &um in the bowl .
+%mor:	coord|and adv:tem|then art|the n|dog v|put&ZERO prep|in art|the
+	n|bowl .
+*CHI:	in [//] and the boy's getting dressed .
+%mor:	coord|and art|the n|boy~aux|be&3S part|get-PRESP part|dress-PASTP .
+*CHI:	the boy is shouting out the window with his dog with the bowl on
+	his head .
+%mor:	art|the n|boy aux|be&3S part|shout-PRESP prep|out art|the n|window
+	prep|with pro:poss:det|his n|dog prep|with art|the n|bowl prep|on
+	pro:poss:det|his n|head .
+*HEL:	0 .
+%exp:	laughs .
+*INV:	and then what happened ?
+%mor:	coord|and adv:tem|then pro:wh|what v|happen-PAST ?
+*CHI:	and then the dog fall [*] .
+%mor:	coord|and adv:tem|then art|the n|dog n|fall .
+%err:	fall = fell
+*CHI:	and then the bowl smashed .
+%mor:	coord|and adv:tem|then art|the n|bowl v|smash-PAST .
+*CHI:	and the boy caught him .
+%mor:	coord|and art|the n|boy v|catch&PAST pro:obj|him .
+*HEL:	0 .
+%exp:	gasps .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	the boy was shouting for the frog with the dog howling .
+%mor:	art|the n|boy aux|be&PAST&13S part|shout-PRESP prep|for art|the
+	n|frog prep|with art|the n|dog part|howl-PRESP .
+*INV:	and then what happened ?
+%mor:	coord|and adv:tem|then pro:wh|what v|happen-PAST ?
+*CHI:	they disappear .
+%mor:	pro:sub|they dis#v|appear .
+*INV:	oh .
+%mor:	co|oh .
+*CHI:	the boy look [*] into the hole when the dog was ch(asing) [//]
+	looking at the bees' nest .
+%mor:	art|the n|boy v|look prep|into art|the n|hole conj|when art|the
+	n|dog aux|be&PAST&13S part|look-PRESP prep|at art|the
+	n|bee-PL~poss|s n|nest .
+%exp:	look = looked
+*CHI:	the boy covers his nose (be)cause this animal sort of stink [*] .
+%mor:	art|the n|boy v|cover-3S pro:poss:det|his n|nose conj|because
+	det|this n|animal n|sort prep|of n|stink .
+%err:	stink = stinks
+*HEL:	0 .
+%exp:	laughs .
+*CHI:	and the dog's trying to get the honey .
+%mor:	coord|and art|the n|dog~aux|be&3S part|try-PRESP inf|to v|get
+	art|the n|honey .
+*INV:	so then what happened yesterday ?
+%mor:	adv|so adv:tem|then pro:wh|what v|happen-PAST adv:tem|yesterday ?
+*CHI:	the &um bees' nest fell down .
+%mor:	art|the n|bee-PL~poss|s n|nest v|fall&PAST adv|down .
+*INV:	oh yes .
+%mor:	co|oh co|yes .
+*CHI:	and then the boy looked [//] climb [*] up a tree and then looked in
+	the hole .
+%mor:	coord|and adv:tem|then art|the n|boy v|climb prep|up art|a n|tree
+	coord|and adv:tem|then v|look-PAST prep|in art|the n|hole .
+%exp:	climb = climbed
+*CHI:	and then this owl came and he fell over .
+%mor:	coord|and adv:tem|then pro:dem|this n|owl v|come&PAST coord|and
+	pro:sub|he v|fall&PAST adv|over .
+*HEL:	0 .
+%exp:	laughs .
+*CHI:	and then the dog started running .
+%mor:	coord|and adv:tem|then art|the n|dog v|start-PAST
+	n:gerund|run-PRESP .
+*CHI:	and then he was sheltering (be)cause the owl was trying to get him
+	.
+%mor:	coord|and adv:tem|then pro:sub|he aux|be&PAST&13S
+	part|shelter-PRESP conj|because art|the n|owl aux|be&PAST&13S
+	part|try-PRESP inf|to v|get pro:obj|him .
+*CHI:	and then he climbed up some rocks .
+%mor:	coord|and adv:tem|then pro:sub|he v|climb-PAST prep|up qn|some
+	n|rock-PL .
+*CHI:	and then he shouted .
+%mor:	coord|and adv:tem|then pro:sub|he v|shout-PAST .
+*HEL:	he had a busy day yesterday !
+%mor:	pro:sub|he v|have&PAST art|a adj|busy n|day adv:tem|yesterday !
+*CHI:	and he caught a [/] a deer on top of his head .
+%mor:	coord|and pro:sub|he v|catch&PAST art|a n|deer prep|on n|top
+	prep|of pro:poss:det|his n|head .
+*HEL:	0 .
+%exp:	laughs .
+*CHI:	and then the deer was chasing the dog .
+%mor:	coord|and adv:tem|then art|the n|deer aux|be&PAST&13S
+	part|chase-PRESP art|the n|dog .
+*CHI:	and then the boy and dog fell over .
+%mor:	coord|and adv:tem|then art|the n|boy coord|and n|dog v|fall&PAST
+	adv|over .
+*CHI:	and then they disappear [*] .
+%mor:	coord|and adv:tem|then pro:sub|they dis#v|appear .
+%err:	disappear = disappeared
+*CHI:	and then they fell into water and it looked like a lake .
+%mor:	coord|and adv:tem|then pro:sub|they v|fall&PAST prep|into n|water
+	coord|and pro|it v|look-PAST co|like art|a n|lake .
+*CHI:	and then the dog climbed on the boy's hair .
+%mor:	coord|and adv:tem|then art|the n|dog v|climb-PAST prep|on art|the
+	n|boy~poss|s n|hair .
+*CHI:	they found a log and the boy said +"/.
+%mor:	pro:sub|they v|find&PAST art|a n|log coord|and art|the n|boy
+	v|say&PAST +"/.
+*CHI:	+" shush .
+%mor:	co|shush .
+*CHI:	and then they climbed over the log .
+%mor:	coord|and adv:tem|then pro:sub|they v|climb-PAST prep|over art|the
+	n|log .
+*CHI:	and then they find [*] the frog and an [//] another [*] frogs .
+%mor:	coord|and adv:tem|then pro:sub|they v|find art|the n|frog coord|and
+	qn|another n|frog-PL .
+%err:	find = found; another = other
+*CHI:	and then little babies came in .
+%mor:	coord|and adv:tem|then adj|little n|baby-PL v|come&PAST adv|in .
+*HEL:	ah !
+%mor:	co|ah !
+*CHI:	and then the boy got his frog and then waved goodbye .
+%mor:	coord|and adv:tem|then art|the n|boy v|get&PAST pro:poss:det|his
+	n|frog coord|and adv:tem|then v|wave-PAST co|goodbye .
+*CHI:	and the another [*] frogs were looking at it .
+%mor:	coord|and art|the qn|another n|frog-PL aux|be&PAST part|look-PRESP
+	prep|at pro|it .
+%err:	another = other
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+*HEL:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

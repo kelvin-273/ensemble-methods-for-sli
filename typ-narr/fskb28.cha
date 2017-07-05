@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/c-00004845-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;04.26||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	I caught a frog in the woods .
+%mor:	pro:sub|I v|catch&PAST art|a n|frog prep|in art|the n|wood-PL .
+*CHI:	&um then I put it in a jar and went to bed .
+%mor:	adv:tem|then pro:sub|I v|put&ZERO pro|it prep|in art|a n|jar
+	coord|and v|go&PAST prep|to n|bed .
+*CHI:	during the night it got out .
+%mor:	prep|during art|the n|night pro|it v|get&PAST adv|out .
+*CHI:	and in the morning I searched all around the room for it .
+%mor:	coord|and prep|in art|the n|morning pro:sub|I v|search-PAST adv|all
+	prep|around art|the n|room prep|for pro|it .
+*CHI:	and the dog helped .
+%mor:	coord|and art|the n|dog v|help-PAST .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	and &um I looked in <the boots> [//] my boots .
+%mor:	coord|and pro:sub|I v|look-PAST prep|in pro:poss:det|my n|boot-PL .
+*CHI:	and my dog had got the jar stuck on his head .
+%mor:	coord|and pro:poss:det|my n|dog aux|have&PAST part|get&PASTP
+	art|the n|jar v|stick&PAST prep|on pro:poss:det|his n|head .
+*CHI:	he fell out the window .
+%mor:	pro:sub|he v|fall&PAST prep|out art|the n|window .
+*CHI:	and it smashed .
+%mor:	coord|and pro|it v|smash-PAST .
+*CHI:	he was a bit hurt .
+%mor:	pro:sub|he cop|be&PAST&13S art|a n|bit v|hurt&ZERO .
+*CHI:	but he was okay .
+%mor:	conj|but pro:sub|he cop|be&PAST&13S adj|okay .
+*CHI:	&um I went out into the woods and called for the frog but couldn't
+	find him .
+%mor:	pro:sub|I v|go&PAST adv|out prep|into art|the n|wood-PL coord|and
+	v|call-PAST prep|for art|the n|frog conj|but mod|could~neg|not
+	v|find pro:obj|him .
+*CHI:	I looked in holes , up trees and went in a tree with a hole in it .
+%mor:	pro:sub|I v|look-PAST prep|in n|hole-PL cm|cm prep|up n|tree-PL
+	coord|and v|go&PAST prep|in art|a n|tree prep|with art|a n|hole
+	prep|in pro|it .
+*CHI:	but it wasn't in there .
+%mor:	conj|but pro|it cop|be&PAST&13S~neg|not prep|in pro:dem|there .
+*CHI:	and then I got chased by bees .
+%mor:	coord|and adv:tem|then pro:sub|I aux|get&PAST part|chase-PASTP
+	prep|by n|bee-PL .
+*CHI:	then an owl scared me .
+%mor:	adv:tem|then art|a n|owl v|scare-PAST pro:obj|me .
+*CHI:	and it went away when I went up to a rock .
+%mor:	coord|and pro|it v|go&PAST adv|away conj|when pro:sub|I v|go&PAST
+	adv|up prep|to art|a n|rock .
+*CHI:	but then I climbed to the top of the rock and called for the frog .
+%mor:	conj|but adv:tem|then pro:sub|I v|climb-PAST prep|to art|the n|top
+	prep|of art|the n|rock coord|and v|call-PAST prep|for art|the n|frog
+	.
+*CHI:	but underneath me was a stag .
+%mor:	conj|but prep|underneath pro:obj|me cop|be&PAST&13S art|a n|stag .
+*CHI:	and it carried me off and took me over a ledge where there was a
+	lake underneath it .
+%mor:	coord|and pro|it v|carry-PAST pro:obj|me adv|off coord|and
+	v|take&PAST pro:obj|me prep|over art|a n|ledge rel|where adv|there
+	cop|be&PAST&13S art|a n|lake prep|underneath pro|it .
+*CHI:	I fell into it .
+%mor:	pro:sub|I v|fall&PAST prep|into pro|it .
+*CHI:	and (.) then looked over a log .
+%mor:	coord|and adv:tem|then v|look-PAST prep|over art|a n|log .
+*CHI:	and there it was .
+%mor:	coord|and adv|there pro|it cop|be&PAST&13S .
+*CHI:	and it had a girlfriend and lots_of little frogs .
+%mor:	coord|and pro|it v|have&PAST art|a n|+n|girl+n|friend coord|and
+	qn|lots_of adj|little n|frog-PL .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	and I took the frogs home .
+%mor:	coord|and pro:sub|I v|take&PAST art|the n|frog-PL adv|home .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

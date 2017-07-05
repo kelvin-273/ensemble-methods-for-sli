@@ -1,0 +1,39 @@
+@UTF8
+@PID:	11312/c-00004982-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;03.24||||Target_Child|||
+@Date:	20-MAY-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	I think my sister is annoying because she gets me into trouble .
+%mor:	pro:sub|I v|think pro:poss:det|my n|sister aux|be&3S
+	part|annoy-PRESP conj|because pro:sub|she v|get-3S pro:obj|me
+	prep|into n|trouble .
+*CHI:	and (.) .
+%mor:	coord|and .
+*INV:	what sort of things to she do ?
+%mor:	pro:wh|what n|sort prep|of n|thing-PL prep|to pro:sub|she v|do ?
+*CHI:	she does stuff and then blames it on me .
+%mor:	pro:sub|she mod|do&3S v|stuff coord|and adv:tem|then v|blame-3S
+	pro|it prep|on pro:obj|me .
+*CHI:	so I get told off by my parents .
+%mor:	co|so pro:sub|I aux|get part|tell&PASTP adv|off prep|by
+	pro:poss:det|my n|parent-PL .
+*INV:	is she older or younger ?
+%mor:	cop|be&3S pro:sub|she adj|old-CP coord|or adj|young-CP ?
+*CHI:	older .
+%mor:	adj|old-CP .
+*CHI:	she's eighteen .
+%mor:	pro:sub|she~aux|be&3S det:num|eighteen .
+*CHI:	and (.) she takes my stuff without asking and then breaks it .
+%mor:	coord|and pro:sub|she v|take-3S pro:poss:det|my n|stuff
+	prep|without n:gerund|ask-PRESP coord|and adv:tem|then v|break-3S
+	pro|it .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

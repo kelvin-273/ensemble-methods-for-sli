@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/c-00004804-1
+@Begin
+@Languages:	eng
+@Participants:	INV Zoe Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;10.11||||Target_Child|||
+@Date:	27-NOV-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at Child's home. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	0 [*] throw water over you .
+%mor:	v|throw n|water prep|over pro|you .
+%err:	0 = they
+*INV:	they throw water ?
+%mor:	pro:sub|they v|throw n|water ?
+%exp:	laughs .
+*INV:	what else do they do ?
+%mor:	pro:wh|what post|else mod|do pro:sub|they v|do ?
+*CHI:	+< look what happened to me today .
+%mor:	v|look pro:wh|what v|happen-PAST prep|to pro:obj|me adv:tem|today .
+*INV:	why what happened ?
+%mor:	adv:wh|why pro:wh|what v|happen-PAST ?
+*CHI:	in class , sitting down and someone pushed [//] tipped water all
+	over me .
+%mor:	prep|in n|class cm|cm part|sit-PRESP adv|down coord|and
+	pro:indef|someone part|tip-PASTP n|water adv|all prep|over
+	pro:obj|me .
+*CHI:	a full bottle !
+%mor:	art|a adj|full n|bottle !
+*INV:	oh no !
+%mor:	co|oh co|no !
+*INV:	so <what else do the> [/] what else do the people do at the school
+	that are naughty ?
+%mor:	adv|so pro:wh|what post|else v|do art|the n|person&PL v|do prep|at
+	art|the n|school rel|that cop|be&PRES adj|naughty ?
+*CHI:	beat each_other up .
+%mor:	v|beat&ZERO pro:refl|each_other prep|up .
+%exp:	laughs
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*INV:	what else ?
+%mor:	pro:wh|what post|else ?
+*CHI:	mess around .
+%mor:	n|mess adv|around .
+*INV:	they mess around .
+%mor:	pro:sub|they v|mess adv|around .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

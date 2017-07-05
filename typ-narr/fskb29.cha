@@ -1,0 +1,78 @@
+@UTF8
+@PID:	11312/c-00004846-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;10.13||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	yesterday a little boy found a frog .
+%mor:	adv:tem|yesterday art|a adj|little n|boy v|find&PAST art|a n|frog .
+*CHI:	and he kept it in a jar .
+%mor:	coord|and pro:sub|he v|keep&PAST pro|it prep|in art|a n|jar .
+*CHI:	and he went to sleep one night .
+%mor:	coord|and pro:sub|he v|go&PAST prep|to n|sleep pro:indef|one
+	n|night .
+*CHI:	and the frog jumped out_of the jar .
+%mor:	coord|and art|the n|frog v|jump-PAST prep|out_of art|the n|jar .
+*CHI:	and when the boy woke up in the morning he couldn't find him .
+%mor:	coord|and conj|when art|the n|boy v|wake&PAST adv|up prep|in
+	art|the n|morning pro:sub|he mod|could~neg|not v|find pro:obj|him .
+*CHI:	he looked everywhere and Dog helped him .
+%mor:	pro:sub|he v|look-PAST n|everywhere coord|and n:prop|Dog
+	v|help-PAST pro:obj|him .
+*CHI:	he even called for him out_of the window .
+%mor:	pro:sub|he adv|even part|call-PASTP prep|for pro:obj|him
+	prep|out_of art|the n|window .
+*CHI:	and the doggie fell out and smashed the jar that the frog was kept
+	in .
+%mor:	coord|and art|the n|dog-DIM v|fall&PAST adv|out coord|and
+	v|smash-PAST art|the n|jar rel|that art|the n|frog aux|be&PAST&13S
+	part|keep&PASTP adv|in .
+*CHI:	and the boy was very mad .
+%mor:	coord|and art|the n|boy cop|be&PAST&13S adv|very adj|mad .
+*CHI:	he went out searching and was calling his name .
+%mor:	pro:sub|he v|go&PAST adv|out part|search-PRESP coord|and
+	aux|be&PAST&13S part|call-PRESP pro:poss:det|his n|name .
+*CHI:	the dog got involved <with a bee> [/] with a bees' nest .
+%mor:	art|the n|dog aux|get&PAST part|involve-PASTP prep|with art|a
+	n|bee-PL~poss|s n|nest .
+*CHI:	and &um the bees got angry .
+%mor:	coord|and art|the n|bee-PL v|get&PAST adj|angry .
+*CHI:	and <the dog> [//] the boy was looking in all the trees and
+	everywhere .
+%mor:	coord|and art|the n|boy aux|be&PAST&13S part|look-PRESP prep|in
+	qn|all art|the n|tree-PL coord|and n|everywhere .
+*CHI:	and the boy looked behind a rock .
+%mor:	coord|and art|the n|boy v|look-PAST prep|behind art|a n|rock .
+*CHI:	and a deer popped its head up and was carrying him .
+%mor:	coord|and art|a n|deer v|pop-PAST pro:poss:det|its n|head adv|up
+	coord|and aux|be&PAST&13S part|carry-PRESP pro:obj|him .
+*CHI:	and the dog was chasing the deer to try and get the boy off .
+%mor:	coord|and art|the n|dog aux|be&PAST&13S part|chase-PRESP art|the
+	n|deer inf|to v|try coord|and v|get art|the n|boy adv|off .
+*CHI:	but the deer chucked them into a pond .
+%mor:	conj|but art|the n|deer v|chuck-PAST pro:obj|them prep|into art|a
+	n|pond .
+*CHI:	and they heard froggy noises .
+%mor:	coord|and pro:sub|they v|hear&PAST n|frog-DIM n|noise-PL .
+*CHI:	so the boy told the doggie to ssh .
+%mor:	co|so art|the n|boy v|tell&PAST art|the n|dog-DIM prep|to co|ssh .
+*CHI:	so they looked over .
+%mor:	co|so pro:sub|they v|look-PAST adv|over .
+*CHI:	and they saw mummy and daddy frog and lots_of little baby ones !
+%mor:	coord|and pro:sub|they v|see&PAST n|mummy coord|and n|daddy n|frog
+	coord|and qn|lots_of adj|little n|baby pro:indef|one-PL !
+*CHI:	and the boy took his frog home .
+%mor:	coord|and art|the n|boy v|take&PAST pro:poss:det|his n|frog
+	adv|home .
+*CHI:	and they lived happily ever after !
+%mor:	coord|and pro:sub|they v|live-PAST adv|happy&dadj-LY adv|ever
+	adv:tem|after !
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

@@ -1,0 +1,79 @@
+@UTF8
+@PID:	11312/c-00004829-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;0.06||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	well [/-] there was a little boy .
+%mor:	pro:exist|there cop|be&PAST&13S art|a adj|little n|boy .
+*CHI:	an(d) (h)e got a frog for his birthday .
+%mor:	coord|and pro:sub|he v|get&PAST art|a n|frog prep|for
+	pro:poss:det|his n|+n|birth+n|day .
+*CHI:	and he was sitting there with his little dog admiring it .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|sit-PRESP adv|there
+	prep|with pro:poss:det|his adj|little n|dog part|admire-PRESP pro|it
+	.
+*CHI:	and when he went asleep [*] the frog climbed out_of the &um bowl
+	and disappeared .
+%mor:	coord|and conj|when pro:sub|he v|go&PAST adv|asleep art|the n|frog
+	v|climb-PAST prep|out_of art|the n|bowl coord|and dis#v|appear-PAST
+	.
+%err:	asleep = to sleep
+*CHI:	when he woke up the next morning , he found it had gone .
+%mor:	conj|when pro:sub|he v|wake&PAST prep|up art|the adj|next n|morning
+	cm|cm pro:sub|he v|find&PAST pro|it aux|have&PAST part|go&PASTP .
+*CHI:	he spent all day in his bed+room looking for it .
+%mor:	pro:sub|he v|spend&PAST adv|all n|day prep|in pro:poss:det|his
+	n|+n|bed+n|room part|look-PRESP prep|for pro|it .
+*CHI:	and then (h)e [/] (h)e went to look outside .
+%mor:	coord|and adv:tem|then pro:sub|he v|go&PAST inf|to v|look
+	adv|outside .
+*CHI:	he looked all through the woods , down little holes , into a (.)
+	beehive .
+%mor:	pro:sub|he v|look-PAST adv|all prep|through art|the n|wood-PL cm|cm
+	adv|down adj|little n|hole-PL cm|cm prep|into art|a n|beehive .
+*CHI:	and 0 [*] still couldn't find it .
+%mor:	coord|and adv|still mod|could~neg|not v|find pro|it .
+%err:	0 = subject
+*CHI:	his little dog got chased by loads of bees or wasps .
+%mor:	pro:poss:det|his adj|little n|dog aux|get&PAST part|chase-PASTP
+	prep|by n|load-PL prep|of n|bee-PL coord|or n|wasp-PL .
+*CHI:	then he clambered over a big rock and got caught on reindeer's
+	antlers .
+%mor:	adv:tem|then pro:sub|he v|clamber-PAST prep|over art|a adj|big
+	n|rock coord|and v|get&PAST v|catch&PAST prep|on n|reindeer~poss|s
+	n|antler-PL .
+*CHI:	and the reindeer ran away with him on it .
+%mor:	coord|and art|the n|reindeer v|run&PAST adv|away prep|with
+	pro:obj|him prep|on pro|it .
+*CHI:	(h)e [/-] the reindeer stopped right on the edge of a cliff .
+%mor:	art|the n|reindeer v|stop-PAST adv|right prep|on art|the n|edge
+	prep|of art|a n|cliff .
+*CHI:	and the dog and the little boy fell [/] fell off into a pond .
+%mor:	coord|and art|the n|dog coord|and art|the adj|little n|boy
+	v|fall&PAST adv|off prep|into art|a n|pond .
+*CHI:	he clambered out .
+%mor:	pro:sub|he v|clamber-PAST adv|out .
+*CHI:	and <heard something in> [//] he heard something behind the log .
+%mor:	coord|and pro:sub|he v|hear&PAST pro:indef|something prep|behind
+	art|the n|log .
+*CHI:	he looked behind the log .
+%mor:	pro:sub|he v|look-PAST prep|behind art|the n|log .
+*CHI:	and there was his frog with another female frog .
+%mor:	coord|and adv|there cop|be&PAST&13S pro:poss:det|his n|frog
+	prep|with qn|another n|female n|frog .
+*CHI:	and then he saw all these little baby frogs come out .
+%mor:	coord|and adv:tem|then pro:sub|he v|see&PAST qn|all det|these
+	adj|little n|baby n|frog-PL v|come adv|out .
+*CHI:	he waved goodbye to the frogs and returned home .
+%mor:	pro:sub|he v|wave-PAST co|goodbye prep|to art|the n|frog-PL
+	coord|and v|return-PAST n|home .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

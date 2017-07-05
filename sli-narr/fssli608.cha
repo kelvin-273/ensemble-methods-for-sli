@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/c-00004797-1
+@Begin
+@Languages:	eng
+@Participants:	INV Lisa Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;10.27||||Target_Child|||
+@Date:	28-NOV-2001
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus.
+@Warning:	608 has fairly severe articulation difficulties: <looked> sounds like <lived> and <toot> is used for <took> but both are used consistently.
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	in the night this boy was looking at a frog .
+%mor:	prep|in art|the n|night det|this n|boy aux|be&PAST&13S
+	part|look-PRESP prep|at art|a n|frog .
+*CHI:	in the morning the frog was gone .
+%mor:	prep|in art|the n|morning art|the n|frog aux|be&PAST&13S
+	part|go&PASTP .
+*CHI:	the boy looked around his room and looked outside in the garden .
+%mor:	art|the n|boy v|look-PAST prep|around pro:poss:det|his n|room
+	coord|and part|look-PASTP adj|outside prep|in art|the n|garden .
+*CHI:	then they looked in the park .
+%mor:	adv:tem|then pro:sub|they v|look-PAST prep|in art|the n|park .
+*CHI:	then they looked in a beehive , got stung by the bees .
+%mor:	adv:tem|then pro:sub|they v|look-PAST prep|in art|a n|beehive cm|cm
+	v|get&PAST v|sting&PAST prep|by art|the n|bee-PL .
+*CHI:	he looked up a tree .
+%mor:	pro:sub|he v|look-PAST prep|up art|a n|tree .
+*CHI:	he got on a reindeer .
+%mor:	pro:sub|he v|get&PAST prep|on art|a n|reindeer .
+*CHI:	and the reindeer pushed him off a cliff into a pond .
+%mor:	coord|and art|the n|reindeer v|push-PAST pro:obj|him prep|off art|a
+	n|cliff prep|into art|a n|pond .
+*CHI:	then he fell into a pond .
+%mor:	adv:tem|then pro:sub|he v|fall&PAST prep|into art|a n|pond .
+*CHI:	then (.) he looked around the pond for his frog .
+%mor:	adv:tem|then pro:sub|he v|look-PAST prep|around art|the n|pond
+	prep|for pro:poss:det|his n|frog .
+*CHI:	then he looked behind a log .
+%mor:	adv:tem|then pro:sub|he v|look-PAST prep|behind art|a n|log .
+*CHI:	and he found his frog with his wife and baby frogs .
+%mor:	coord|and pro:sub|he v|find&PAST pro:poss:det|his n|frog prep|with
+	pro:poss:det|his n|wife coord|and n|baby n|frog-PL .
+*CHI:	and then the boy took the frog and said goodbye to the frog's
+	family .
+%mor:	coord|and adv:tem|then art|the n|boy v|take&PAST art|the n|frog
+	coord|and v|say&PAST co|goodbye prep|to art|the n|frog~poss|s
+	n|family .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

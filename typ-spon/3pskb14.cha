@@ -1,0 +1,29 @@
+@UTF8
+@PID:	11312/c-00004930-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;05.20||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um my brother because he [//] he's always annoying me .
+%mor:	pro:poss:det|my n|brother conj|because pro:sub|he~aux|be&3S
+	adv|always part|annoy-PRESP pro:obj|me .
+*CHI:	and he always has_to be round me and my friends all the time .
+%mor:	coord|and pro:sub|he adv|always mod:aux|has_to cop|be adv|round
+	pro:obj|me coord|and pro:poss:det|my n|friend-PL adv|all art|the
+	n|time .
+*CHI:	and he always tells on me .
+%mor:	coord|and pro:sub|he adv|always v|tell-3S prep|on pro:obj|me .
+*INV:	that's cool , anything else ?
+%mor:	pro:dem|that~cop|be&3S adj|cool cm|cm pro:indef|anything post|else
+	?
+*CHI:	no .
+%mor:	co|no .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

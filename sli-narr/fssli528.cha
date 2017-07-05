@@ -1,0 +1,107 @@
+@UTF8
+@PID:	11312/c-00004789-1
+@Begin
+@Languages:	eng
+@Participants:	INV Zoe Investigator , CHI Target_Child , HEL Helen Investigator
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;7.17||||Target_Child|||
+@ID:	eng|Conti4|HEL|||||Investigator|||
+@Date:	02-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	the boy was +/.
+%mor:	art|the n|boy cop|be&PAST&13S +/.
+*INV:	&www .
+%exp:	some difficulties with the minidisc are sorted out before continuing .
+*CHI:	the boy was looking at the jar with the dog .
+%mor:	art|the n|boy aux|be&PAST&13S part|look-PRESP prep|at art|the n|jar
+	prep|with art|the n|dog .
+*CHI:	with the frog in it and the dog .
+%mor:	prep|with art|the n|frog prep|in pro|it coord|and art|the n|dog .
+*CHI:	the boy was looking for the frog under his clothes .
+%mor:	art|the n|boy aux|be&PAST&13S part|look-PRESP prep|for art|the
+	n|frog prep|under pro:poss:det|his n:pt|clothes .
+*CHI:	and the dog got his head stuck in the jar .
+%mor:	coord|and art|the n|dog v|get&PAST pro:poss:det|his n|head
+	v|stick&PAST prep|in art|the n|jar .
+*CHI:	they looked outside with the jar stuck on the dog's head .
+%mor:	pro:sub|they v|look-PAST adj|outside prep|with art|the n|jar
+	v|stick&PAST prep|on art|the n|dog~poss|s n|head .
+*CHI:	they were shouting , trying to find the frog .
+%mor:	pro:sub|they aux|be&PAST part|shout-PRESP cm|cm part|try-PRESP
+	inf|to v|find art|the n|frog .
+*CHI:	they were looking in holes .
+%mor:	pro:sub|they aux|be&PAST part|look-PRESP prep|in n|hole-PL .
+*CHI:	the dog was jumping up at the bees' nest .
+%mor:	art|the n|dog aux|be&PAST&13S part|jump-PRESP adv|up prep|at
+	art|the n|bee-PL~poss|s n|nest .
+*HEL:	and then what happened ?
+%mor:	coord|and adv:tem|then pro:wh|what v|happen-PAST ?
+*CHI:	&um the boy <found a mole> [/] found (.) a mole .
+%mor:	art|the n|boy v|find&PAST art|a n|mole .
+*CHI:	and the dog was barking at the bees .
+%mor:	coord|and art|the n|dog aux|be&PAST&13S part|bark-PRESP prep|at
+	art|the n|bee-PL .
+*CHI:	the dog looks worried at the bees .
+%mor:	art|the n|dog v|look-3S part|worry-PASTP prep|at art|the n|bee-PL .
+*CHI:	and the boy was climbing up the tree in the hole .
+%mor:	coord|and art|the n|boy aux|be&PAST&13S part|climb-PRESP prep|up
+	art|the n|tree prep|in art|the n|hole .
+*CHI:	the boy fell off from the tree (be)cause the owl scared him .
+%mor:	art|the n|boy v|fall&PAST adv|off prep|from art|the n|tree
+	conj|because art|the n|owl v|scare-PAST pro:obj|him .
+*CHI:	the dog was chasen@n by the bees .
+%mor:	art|the n|dog aux|be&PAST&13S neo|chasen prep|by art|the n|bee-PL .
+%err:	chasen = chased
+*CHI:	the boy was scared of the owl so he hid behind the rock .
+%mor:	art|the n|boy aux|be&PAST&13S part|scare-PASTP prep|of art|the
+	n|owl conj|so pro:sub|he v|hide&PAST prep|behind art|the n|rock .
+*CHI:	the boy was on top of the rock shouting for the frog .
+%mor:	art|the n|boy cop|be&PAST&13S prep|on n|top prep|of art|the n|rock
+	part|shout-PRESP prep|for art|the n|frog .
+*CHI:	the boy found the deer .
+%mor:	art|the n|boy v|find&PAST art|the n|deer .
+*CHI:	and he was on top of his head .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S prep|on n|top prep|of
+	pro:poss:det|his n|head .
+*INV:	0 .
+%exp:	laughs
+*CHI:	the boy was on his head .
+%mor:	art|the n|boy cop|be&PAST&13S prep|on pro:poss:det|his n|head .
+*CHI:	and the dog looking worried .
+%mor:	coord|and art|the n|dog n:gerund|look-PRESP part|worry-PASTP .
+*CHI:	the boy and the dog fell off the mountain .
+%mor:	art|the n|boy coord|and art|the n|dog v|fall&PAST prep|off art|the
+	n|mountain .
+*HEL:	then what happened ?
+%mor:	adv:tem|then pro:wh|what v|happen-PAST ?
+*CHI:	they fell in the river on top of each_other .
+%mor:	pro:sub|they v|fall&PAST prep|in art|the n|river prep|on n|top
+	prep|of pro:refl|each_other .
+*CHI:	and then the dog climbed on his head .
+%mor:	coord|and adv:tem|then art|the n|dog v|climb-PAST prep|on
+	pro:poss:det|his n|head .
+*CHI:	the boy's telling him to be quiet .
+%mor:	art|the n|boy~aux|be&3S part|tell-PRESP pro:obj|him inf|to cop|be
+	adj|quiet .
+*CHI:	0 [*] 0 [*] climbing over the log (be)cause they found the two
+	frogs .
+%mor:	part|climb-PRESP prep|over art|the n|log conj|because pro:sub|they
+	v|find&PAST art|the det:num|two n|frog-PL .
+%exp:	0 = he; 0 = is
+*HEL:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	+< then they found more frogs .
+%mor:	adv:tem|then pro:sub|they v|find&PAST qn|more n|frog-PL .
+*CHI:	well [//] the dog looked really shocked .
+%mor:	art|the n|dog v|look-PAST adv|real&dadj-LY part|shock-PASTP .
+*CHI:	the boy got one of the frogs and said goodbye to the rest , looking
+	really happy .
+%mor:	art|the n|boy v|get&PAST pro:indef|one prep|of art|the n|frog-PL
+	coord|and v|say&PAST co|goodbye prep|to art|the n|rest cm|cm
+	part|look-PRESP adv|real&dadj-LY adj|happy .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

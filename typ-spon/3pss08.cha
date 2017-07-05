@@ -1,0 +1,43 @@
+@UTF8
+@PID:	11312/c-00004979-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;10.29||||Target_Child|||
+@Date:	20-MAY-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	he always says &um stuff that doesn't make sense .
+%mor:	pro:sub|he adv|always v|say-3S v|stuff pro:dem|that
+	mod|do&3S~neg|not v|make n|sense .
+*CHI:	and then <says it's> [//] when you say something doesn't make sense
+	, he always jumps on you .
+%mor:	coord|and adv:tem|then conj|when pro|you v|say pro:indef|something
+	mod|do&3S~neg|not v|make n|sense cm|cm pro:sub|he adv|always
+	v|jump-3S prep|on pro|you .
+*CHI:	and 0 [*] like reckons he's really good .
+%mor:	coord|and co|like v|reckon-3S pro:sub|he~aux|be&3S adv|real&dadj-LY
+	adj|good .
+%err:	0 = subject
+*CHI:	and he annoys me .
+%mor:	coord|and pro:sub|he v|annoy-3S pro:obj|me .
+*CHI:	&um (.) he always reckons he knows everything about everything .
+%mor:	pro:sub|he adv|always v|reckon-3S pro:sub|he v|know-3S
+	pro:indef|everything prep|about pro:indef|everything .
+*CHI:	and he's all [//] played all sports in the world !
+%mor:	coord|and pro:sub|he~aux|be&3S part|play-PASTP qn|all n|sport-PL
+	prep|in art|the n|world !
+*INV:	yeah .
+%mor:	co|yeah .
+*CHI:	and he [/] he won't admit he's wrong even when he is wrong .
+%mor:	coord|and pro:sub|he mod|will~neg|not v|admit pro:sub|he~cop|be&3S
+	adj|wrong adj|even conj|when pro:sub|he cop|be&3S adj|wrong .
+*CHI:	&um (.) he thinks he's really strong but he's not .
+%mor:	pro:sub|he v|think-3S pro:sub|he~aux|be&3S adv|real&dadj-LY
+	adj|strong conj|but pro:sub|he~aux|be&3S neg|not .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

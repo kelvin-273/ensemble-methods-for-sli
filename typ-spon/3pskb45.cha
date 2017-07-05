@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/c-00004961-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;11.17||||Target_Child|||
+@Date:	03-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	right [//] &um she really shows off .
+%mor:	pro:sub|she adv|real&dadj-LY v|show-3S adv|off .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	0 [*] 0 [*] really big headed , flirts a lot .
+%mor:	adv|real&dadj-LY adj|big part|head-PASTP cm|cm v|flirt-3S art|a
+	n|lot .
+%err:	0 = subject; 0 = is
+*CHI:	&um 0 [*] thinks she's perfect , really tarty .
+%mor:	v|think-3S pro:sub|she~cop|be&3S adj|perfect cm|cm adv|real&dadj-LY
+	adj|tart-Y .
+%err:	0 = subject
+*CHI:	&um 0 [*] 0 [*] not very nice to other people .
+%mor:	neg|not adv|very adj|nice prep|to qn|other n|person&PL .
+%err:	0 = subject; 0 = is
+*CHI:	0 [*] thinks she owns the place .
+%mor:	v|think-3S pro:sub|she v|own-3S art|the n|place .
+%err:	0 = subject
+*CHI:	&um what else ?
+%mor:	pro:wh|what post|else ?
+*CHI:	loads of stuff !
+%mor:	v|load-3S prep|of n|stuff !
+*INV:	&=laugh that's brilliant , that's fine !
+%mor:	pro:dem|that~cop|be&3S adj|brilliant cm|cm pro:dem|that~cop|be&3S
+	adj|fine !
+*CHI:	oh <she's just> [//] she's so annoying .
+%mor:	co|oh pro:sub|she~cop|be&3S adv|so part|annoy-PRESP .
+*CHI:	and I don't like her anymore .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|like pro:obj|her adv|anymore .
+*CHI:	&um she tries to get other people in trouble , always thinks that
+	she is [//] does the right thing .
+%mor:	pro:sub|she v|try-3S inf|to v|get qn|other n|person&PL prep|in
+	n|trouble cm|cm adv|always v|think-3S rel|that pro:sub|she v|do&3S
+	art|the adj|right n|thing .
+*CHI:	0 [*] never does do the right thing .
+%mor:	adv|never mod|do&3S v|do art|the adj|right n|thing .
+%err:	0 = subject
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

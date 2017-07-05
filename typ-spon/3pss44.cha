@@ -1,0 +1,53 @@
+@UTF8
+@PID:	11312/c-00005012-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;08.17||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	okay [//] she's supposedly my best friend .
+%mor:	pro:sub|she~aux|be&3S adv|suppose&dadj-PASTP-LY pro:poss:det|my
+	adj|good&SP n|friend .
+*CHI:	but she annoys me because she sleeps around a lot .
+%mor:	conj|but pro:sub|she v|annoy-3S pro:obj|me conj|because pro:sub|she
+	v|sleep-3S prep|around art|a n|lot .
+*CHI:	she treats all her friends really badly .
+%mor:	pro:sub|she v|treat-3S qn|all pro:poss:det|her n|friend-PL
+	adv|real&dadj-LY adv|bad&dadj-LY .
+*CHI:	&um (.) she says things that she's gonna do then does the opposite
+	and ends up upsetting everybody on purpose .
+%mor:	pro:sub|she v|say-3S n|thing-PL rel|that pro:sub|she~aux|be&3S
+	part|go-PRESP~inf|to v|do adv:tem|then v|do&3S art|the n|opposite
+	coord|and v|end-3S adv|up part|upset-PRESP pro:indef|everybody
+	prep|on n|purpose .
+*INV:	+< uhhuh .
+%mor:	co|uhhuh .
+*CHI:	&um (.) basically she's just not really a good friend .
+%mor:	adv|basic&dadj-AL-LY pro:sub|she~aux|be&3S adv|just neg|not
+	adv|real&dadj-LY art|a adj|good n|friend .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	she [/] she acts like she's your friend and then goes off and slags
+	people off behind their back .
+%mor:	pro:sub|she v|act-3S co|like pro:sub|she~aux|be&3S
+	pro:poss:det|your n|friend coord|and adv:tem|then v|go-3S adv|off
+	coord|and v|slag-3S n|person&PL adv|off adv|behind
+	pro:poss:det|their adj|back .
+*CHI:	and you know 0 [*] sleeps with three guys a week .
+%mor:	coord|and pro|you v|know n|sleep-PL prep|with det:num|three
+	n|guy-PL art|a n|week .
+%err:	0 = subject
+*INV:	+< yeah .
+%mor:	co|yeah .
+*CHI:	that sort of thing !
+%mor:	det|that n|sort prep|of n|thing !
+*INV:	that's worrying .
+%mor:	pro:dem|that~aux|be&3S part|worry-PRESP .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

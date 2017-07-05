@@ -1,0 +1,33 @@
+import pandas as pd
+import pickle
+d = pickle.load(open("pure_data-nlm.data", "rb"))
+d
+from sklearn import SelectKBest, f_classif
+from sklearn.feature_selection import SelectKBest, f_classif
+d = d.loc[d["narr"] == 1]
+X, Y = d.drop(pd.Index(["narr", "SLI+"]), axis=1), d["SLI+"]
+FS2 = SelectKBest(f_classif, 10).fit(X, Y)
+X = FS2.transform(X)
+print(len(X), len(X[0]))
+print(FS2.get_support())
+d[FS2.get_support()]
+d.loc[FS2.get_support()]
+d
+d.l
+d.columns
+d.columns[2]
+d.columns[FS2.get_support()[:-5]]
+d.columns[1]
+d.columns[0]
+len(FS2.get_support())
+X
+len(d.drop(["SLI+"], axis=1))
+len(d.drop(["SLI+"], axis=1)[0])
+len(d.drop(["SLI+"][0], axis=1))
+len(d.drop(["SLI+"][0][0], axis=1))
+len(d.drop(["SLI+"][0], axis=1))
+len(d.drop(["SLI+"], axis=1))
+d.drop(["SLI+"], axis=1)
+d.drop(["SLI+", "narr"], axis=1)
+d.drop(["SLI+", "narr"], axis=1).columns
+d.drop(["SLI+", "narr"], axis=1).columns[FS2.get_support()]

@@ -1,0 +1,80 @@
+@UTF8
+@PID:	11312/c-00004834-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;05.19||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	last week I was sitting down looking at a new baby frog in a little
+	container .
+%mor:	adj|last n|week pro:sub|I aux|be&PAST&13S part|sit-PRESP adv|down
+	part|look-PRESP prep|at art|a adj|new n|baby n|frog prep|in art|a
+	adj|little n|contain&dv-AGT .
+*CHI:	I went to bed that night , and a [*] frog escaped .
+%mor:	pro:sub|I v|go&PAST prep|to n|bed det|that n|night cm|cm coord|and
+	art|a n|frog v|escape-PAST .
+%err:	a = the
+*CHI:	in the morning , I saw that it wasn't there .
+%mor:	prep|in art|the n|morning cm|cm pro:sub|I v|see&PAST rel|that
+	pro|it cop|be&PAST&13S~neg|not adv|there .
+*CHI:	I looked in the shoe .
+%mor:	pro:sub|I v|look-PAST prep|in art|the n|shoe .
+*CHI:	I looked out the window .
+%mor:	pro:sub|I v|look-PAST prep|out art|the n|window .
+*CHI:	and then my dog , with the bowl on his head , fell .
+%mor:	coord|and adv:tem|then pro:poss:det|my n|dog cm|cm prep|with
+	art|the n|bowl prep|on pro:poss:det|his n|head cm|cm v|fall&PAST .
+*CHI:	and the bowl smashed on the floor .
+%mor:	coord|and art|the n|bowl v|smash-PAST prep|on art|the n|floor .
+*CHI:	I was very cross with him .
+%mor:	pro:sub|I cop|be&PAST&13S adv|very adj|cross prep|with pro:obj|him
+	.
+*CHI:	we went i(n) [//] outside and called .
+%mor:	pro:sub|we v|go&PAST adv|outside coord|and v|call-PAST .
+*CHI:	we looked in holes .
+%mor:	pro:sub|we v|look-PAST prep|in n|hole-PL .
+*CHI:	and a little rodent came up and bit my nose .
+%mor:	coord|and art|a adj|little n|rodent v|come&PAST adv|up coord|and
+	v|bite&PAST pro:poss:det|my n|nose .
+*CHI:	I looked in the tree .
+%mor:	pro:sub|I v|look-PAST prep|in art|the n|tree .
+*CHI:	and then the bees started chasing my dog .
+%mor:	coord|and adv:tem|then art|the n|bee-PL v|start-PAST
+	n:gerund|chase-PRESP pro:poss:det|my n|dog .
+*CHI:	and they knocked me over .
+%mor:	coord|and pro:sub|they v|knock-PAST pro:obj|me adv|over .
+*CHI:	we went up to a rock and called from the rock .
+%mor:	pro:sub|we v|go&PAST adv|up prep|to art|a n|rock coord|and
+	v|call-PAST prep|from art|the n|rock .
+*CHI:	and then a deer came and took me between its horns and carried me
+	off .
+%mor:	coord|and adv:tem|then art|a n|deer v|come&PAST coord|and
+	v|take&PAST pro:obj|me prep|between pro:poss:det|its n|horn-PL
+	coord|and v|carry-PAST pro:obj|me adv|off .
+*CHI:	it dropped me into a pond .
+%mor:	pro|it v|drop-PAST pro:obj|me prep|into art|a n|pond .
+*CHI:	we [/] we were dropped next_to a log .
+%mor:	pro:sub|we aux|be&PAST part|drop-PASTP prep|next_to art|a n|log .
+*CHI:	and I said +"/.
+%mor:	coord|and pro:sub|I v|say&PAST +"/.
+*CHI:	+" shh .
+%mor:	co|shh .
+*CHI:	to the dog .
+%mor:	prep|to art|the n|dog .
+*CHI:	and we looked over the other side .
+%mor:	coord|and pro:sub|we v|look-PAST prep|over art|the qn|other n|side
+	.
+*CHI:	and there it was with lots_of little baby frogs .
+%mor:	coord|and adv|there pro|it cop|be&PAST&13S prep|with qn|lots_of
+	adj|little n|baby n|frog-PL .
+*CHI:	we took a baby frog and waved goodbye .
+%mor:	pro:sub|we v|take&PAST art|a n|baby n|frog coord|and
+	part|wave-PASTP co|goodbye .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

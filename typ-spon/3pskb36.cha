@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/c-00004952-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;07.06||||Target_Child|||
+@Date:	03-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	oh like he sort of like talks about me behind my back .
+%mor:	co|oh conj|like pro:sub|he v|sort prep|of co|like n|talk-PL
+	prep|about pro:obj|me adv|behind pro:poss:det|my n|back .
+*CHI:	and it's like really annoying (be)cause they think that &um I don't
+	know .
+%mor:	coord|and pro|it~cop|be&3S conj|like adv|real&dadj-LY
+	part|annoy-PRESP conj|because pro:sub|they v|think rel|that
+	pro:sub|I mod|do~neg|not v|know .
+*CHI:	but I actually do &um (be)cause like people tell me .
+%mor:	conj|but pro:sub|I adv|actual&dadj-LY v|do conj|because prep|like
+	n|person&PL v|tell pro:obj|me .
+*CHI:	and sort of like they poke me like constantly .
+%mor:	coord|and n|sort prep|of co|like pro:sub|they v|poke pro:obj|me
+	prep|like adv|constant&dadj-LY .
+*CHI:	and you're like trying to work .
+%mor:	coord|and pro|you~cop|be&PRES prep|like n:gerund|try-PRESP prep|to
+	n|work .
+*CHI:	so it's like really annoying .
+%mor:	adv|so pro|it~cop|be&3S conj|like adv|real&dadj-LY part|annoy-PRESP
+	.
+*INV:	is it a boy ?
+%mor:	aux|be&3S pro|it art|a n|boy ?
+*CHI:	yeah .
+%mor:	co|yeah .
+*INV:	what else does he do ?
+%mor:	pro:wh|what post|else v|do&3S pro:sub|he v|do ?
+*CHI:	they sort of like nudge me like when I'm working and mess up my
+	hair so +...
+%mor:	pro:sub|they v|sort prep|of co|like v|nudge pro:obj|me prep|like
+	conj|when pro:sub|I~aux|be&1S part|work-PRESP coord|and n|mess
+	prep|up pro:poss:det|my n|hair adv|so +...
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

@@ -1,0 +1,117 @@
+@UTF8
+@PID:	11312/c-00004850-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;02.03||||Target_Child|||
+@Date:	03-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	one day Billy bought a frog from a shop .
+%mor:	det:num|one n|day n:prop|Billy v|buy&PAST art|a n|frog prep|from
+	art|a n|shop .
+*CHI:	he bought it quite late at night .
+%mor:	pro:sub|he v|buy&PAST pro|it adv|quite adj|late prep|at n|night .
+*CHI:	so he had to go to sleep .
+%mor:	co|so pro:sub|he v|have&PAST inf|to v|go inf|to v|sleep .
+*CHI:	he put it in a jar and went to sleep .
+%mor:	pro:sub|he v|put&ZERO pro|it prep|in art|a n|jar coord|and
+	v|go&PAST inf|to v|sleep .
+*CHI:	at night the frog climbed out_of the jar whilst Billy was asleep .
+%mor:	prep|at n|night art|the n|frog v|climb-PAST prep|out_of art|the
+	n|jar conj|whilst n:prop|Billy cop|be&PAST&13S adv|asleep .
+*CHI:	in the morning Billy looked into the jar .
+%mor:	prep|in art|the n|morning n:prop|Billy v|look-PAST prep|into
+	art|the n|jar .
+*CHI:	and the frog was gone .
+%mor:	coord|and art|the n|frog aux|be&PAST&13S part|go&PASTP .
+*CHI:	Billy looked everywhere for his frog , in boots , in jars , under
+	tables and chairs .
+%mor:	n:prop|Billy v|look-PAST n|everywhere prep|for pro:poss:det|his
+	n|frog cm|cm prep|in n|boot-PL cm|cm prep|in n|jar-PL cm|cm
+	prep|under n|table-PL coord|and n|chair-PL .
+*CHI:	he even called out the window and couldn't find his frog .
+%mor:	pro:sub|he adv|even v|call-PAST prep|out art|the n|window coord|and
+	mod|could~neg|not v|find pro:poss:det|his n|frog .
+*CHI:	and suddenly his dog fell out the window +"/.
+%mor:	coord|and adv|sudden&dadj-LY pro:poss:det|his n|dog v|fall&PAST
+	prep|out art|the n|window +"/.
+*CHI:	+" silly dog !
+%mor:	co|silly n|dog !
+*CHI:	he said .
+%mor:	pro:sub|he v|say&PAST .
+*CHI:	he picked up his dog and walked around in the wood .
+%mor:	pro:sub|he v|pick-PAST prep|up pro:poss:det|his n|dog coord|and
+	v|walk-PAST adv|around prep|in art|the n|wood .
+*CHI:	he called and called for his frog .
+%mor:	pro:sub|he v|call-PAST coord|and v|call-PAST prep|for
+	pro:poss:det|his n|frog .
+*CHI:	but he couldn't find it .
+%mor:	conj|but pro:sub|he mod|could~neg|not v|find pro|it .
+*CHI:	he looked in holes and in trees .
+%mor:	pro:sub|he v|look-PAST prep|in n|hole-PL coord|and prep|in
+	n|tree-PL .
+*CHI:	he couldn't find it .
+%mor:	pro:sub|he mod|could~neg|not v|find pro|it .
+*CHI:	then suddenly an animal popped out_of the hole .
+%mor:	adv:tem|then adv|sudden&dadj-LY art|a n|animal v|pop-PAST
+	prep|out_of art|the n|hole .
+*CHI:	<he looked in> [/-] the animal looked at him whilst he walked off
+	up a tree .
+%mor:	art|the n|animal v|look-PAST prep|at pro:obj|him conj|whilst
+	pro:sub|he v|walk-PAST adv|off prep|up art|a n|tree .
+*CHI:	he looked in the tree and saw some eyes +"/.
+%mor:	pro:sub|he v|look-PAST prep|in art|the n|tree coord|and v|see&PAST
+	qn|some n|eye-PL +"/.
+*CHI:	+" froggy is that you ?
+%mor:	adj|frog&dn-Y cop|be&3S rel|that pro|you ?
+*CHI:	then an owl flew out and made him fall down .
+%mor:	adv:tem|then art|a n|owl v|fly&PAST adv|out coord|and v|make&PAST
+	pro:obj|him v|fall adv|down .
+*CHI:	he saw his dog run past him , being chased by bees .
+%mor:	pro:sub|he v|see&PAST pro:poss:det|his n|dog v|run adj|past
+	pro:obj|him cm|cm part|be-PRESP part|chase-PASTP prep|by n|bee-PL .
+*CHI:	<an owl> [//] the owl followed him and sat in a tree .
+%mor:	art|the n|owl v|follow-PAST pro:obj|him coord|and v|sit&PAST
+	prep|in art|a n|tree .
+*CHI:	Billy climbed up some rocks onto something he thought was a twig .
+%mor:	n:prop|Billy v|climb-PAST prep|up qn|some n|rock-PL prep|onto
+	pro:indef|something pro:sub|he v|think&PAST cop|be&PAST&13S art|a
+	n|twig .
+*CHI:	then suddenly a deer jumped off [*] .
+%mor:	adv:tem|then adv|sudden&dadj-LY art|a n|deer v|jump-PAST adv|off .
+%err:	off = up
+*CHI:	and he got stuck on the deer .
+%mor:	coord|and pro:sub|he aux|get&PAST part|stick&PASTP prep|on art|the
+	n|deer .
+*CHI:	the deer started running .
+%mor:	art|the n|deer v|start-PAST n:gerund|run-PRESP .
+*CHI:	and his dog followed .
+%mor:	coord|and pro:poss:det|his n|dog v|follow-PAST .
+*CHI:	the deer stopped fast .
+%mor:	art|the n|deer v|stop-PAST adv|fast .
+*CHI:	and he fell into the river .
+%mor:	coord|and pro:sub|he v|fall&PAST prep|into art|the n|river .
+*CHI:	(.) but it wasn't deep so Billy was okay .
+%mor:	conj|but pro|it cop|be&PAST&13S~neg|not n|deep co|so n:prop|Billy
+	cop|be&PAST&13S adj|okay .
+*CHI:	Billy told his dog to be quiet because he heard something behind a
+	large log .
+%mor:	n:prop|Billy v|tell&PAST pro:poss:det|his n|dog inf|to cop|be
+	n|quiet conj|because pro:sub|he v|hear&PAST pro:indef|something
+	adv|behind art|a adj|large n|log .
+*CHI:	they looked over the log .
+%mor:	pro:sub|they v|look-PAST prep|over art|the n|log .
+*CHI:	and there he saw his frog with another frog and lots_of baby frogs
+	.
+%mor:	coord|and adv|there pro:sub|he v|see&PAST pro:poss:det|his n|frog
+	prep|with qn|another n|frog coord|and qn|lots_of n|baby n|frog-PL .
+*CHI:	Billy stayed playing with the frogs for hours .
+%mor:	n:prop|Billy v|stay-PAST n:gerund|play-PRESP prep|with art|the
+	n|frog-PL prep|for n|hour-PL .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

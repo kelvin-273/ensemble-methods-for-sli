@@ -1,0 +1,90 @@
+@UTF8
+@PID:	11312/c-00004906-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;07.24||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	Jack had caught a frog .
+%mor:	n:prop|Jack v|have&PAST v|catch&PAST art|a n|frog .
+*CHI:	and his dog was [/] was really interested in it .
+%mor:	coord|and pro:poss:det|his n|dog cop|be&PAST&13S adv|real&dadj-LY
+	v|interest-PAST prep|in pro|it .
+*CHI:	during the night the frog escaped .
+%mor:	prep|during art|the n|night art|the n|frog v|escape-PAST .
+*CHI:	and Jack missed it .
+%mor:	coord|and n:prop|Jack v|miss-PAST pro|it .
+*CHI:	he looked everywhere around the house and out the house as_well .
+%mor:	pro:sub|he v|look-PAST n|everywhere prep|around art|the n|house
+	coord|and adv|out art|the n|house adv|as_well .
+*CHI:	when the dog got its head caught in the jar , which Jack 0 [*]
+	caught the frog in , he fell out the window .
+%mor:	conj|when art|the n|dog v|get&PAST pro:poss:det|its n|head
+	v|catch&PAST prep|in art|the n|jar cm|cm rel|which n:prop|Jack
+	v|catch&PAST art|the n|frog adv|in cm|cm pro:sub|he v|fall&PAST
+	prep|out art|the n|window .
+%err:	0 = had
+*CHI:	and Jack was cross .
+%mor:	coord|and n:prop|Jack cop|be&PAST&13S adj|cross .
+*CHI:	Jack then went into the park <and found> [//] and looked for the
+	frog .
+%mor:	n:prop|Jack adv:tem|then v|go&PAST prep|into art|the n|park
+	coord|and v|look-PAST prep|for art|the n|frog .
+*CHI:	but there was a swarm of bees .
+%mor:	conj|but pro:exist|there cop|be&PAST&13S art|a n|swarm prep|of
+	n|bee-PL .
+*CHI:	and he got stung a couple of times .
+%mor:	coord|and pro:sub|he aux|get&PAST part|sting&PASTP art|a n|couple
+	prep|of n|time-PL .
+*CHI:	Jack then saw a mole and asked him .
+%mor:	n:prop|Jack adv:tem|then v|see&PAST art|a n|mole coord|and
+	v|ask-PAST pro:obj|him .
+*CHI:	<but the mole> [/] but the mole bit him .
+%mor:	conj|but art|the n|mole v|bite&PAST pro:obj|him .
+*CHI:	and he wasn't pleased with that !
+%mor:	coord|and pro:sub|he aux|be&PAST&13S~neg|not part|please-PASTP
+	prep|with pro:dem|that !
+*CHI:	Jack looked everywhere for the frog but still couldn't find him .
+%mor:	n:prop|Jack v|look-PAST n|everywhere prep|for art|the n|frog
+	conj|but adv|still mod|could~neg|not v|find pro:obj|him .
+*CHI:	Jack climbed a tree to find his frog and got a fright when he saw
+	an owl .
+%mor:	n:prop|Jack v|climb-PAST art|a n|tree inf|to v|find
+	pro:poss:det|his n|frog coord|and v|get&PAST art|a n|fright
+	conj|when pro:sub|he v|see&PAST art|a n|owl .
+*CHI:	Jack was being <chased by the fr(og)> [//] chased by the owl .
+%mor:	n:prop|Jack aux|be&PAST&13S aux|be-PRESP part|chase-PASTP prep|by
+	art|the n|owl .
+*CHI:	and when the owl flew off , Jack was calling for his frog .
+%mor:	coord|and conj|when art|the n|owl v|fly&PAST adv|off cm|cm
+	n:prop|Jack aux|be&PAST&13S part|call-PRESP prep|for
+	pro:poss:det|his n|frog .
+*CHI:	Jack then got attacked by a deer .
+%mor:	n:prop|Jack adv:tem|then v|get&PAST v|attack-PAST prep|by art|a
+	n|deer .
+*CHI:	and <then it chased well> [//] it ran off with him and threw him
+	off a cliff and into a pond .
+%mor:	coord|and pro|it v|run&PAST adv|off prep|with pro:obj|him coord|and
+	v|throw&PAST pro:obj|him prep|off art|a n|cliff coord|and prep|into
+	art|a n|pond .
+*CHI:	but then Jack could hear his frog .
+%mor:	conj|but adv:tem|then n:prop|Jack mod|could v|hear pro:poss:det|his
+	n|frog .
+*CHI:	so he creeped [*] up behind a log and looked over it .
+%mor:	co|so pro:sub|he v|creep-PAST adv|up prep|behind art|a n|log
+	coord|and v|look-PAST prep|over pro|it .
+%err:	creeped = crept
+*CHI:	and there he found his frog and its family .
+%mor:	coord|and adv|there pro:sub|he v|find&PAST pro:poss:det|his n|frog
+	coord|and pro:poss:det|its n|family .
+*CHI:	and they all lived happily ever after .
+%mor:	coord|and pro:sub|they post|all v|live-PAST adv|happy&dadj-LY
+	adv|ever adv:tem|after .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

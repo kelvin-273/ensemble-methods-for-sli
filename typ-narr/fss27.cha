@@ -1,0 +1,141 @@
+@UTF8
+@PID:	11312/c-00004896-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;03.19||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	there was once a boy who captured a frog in a jar .
+%mor:	pro:exist|there cop|be&PAST&13S adv|once art|a n|boy rel|who
+	v|capture-PAST art|a n|frog prep|in art|a n|jar .
+*CHI:	he had a pet who was a dog .
+%mor:	pro:sub|he v|have&PAST art|a n|pet rel|who cop|be&PAST&13S art|a
+	n|dog .
+*CHI:	when the boy went to sleep their [//] the frog escaped from the jar
+	.
+%mor:	conj|when art|the n|boy v|go&PAST inf|to v|sleep art|the n|frog
+	v|escape-PAST prep|from art|the n|jar .
+*CHI:	when the young boy woke up <the f(rog)> [//] he woke up to find
+	that the frog had escaped .
+%mor:	conj|when art|the adj|young n|boy v|wake&PAST adv|up pro:sub|he
+	v|wake&PAST adv|up inf|to v|find rel|that art|the n|frog
+	aux|have&PAST part|escape-PASTP .
+*CHI:	the boy got all of his clothes on quickly and tried to find the
+	frog .
+%mor:	art|the n|boy aux|get&PAST qn|all prep|of pro:poss:det|his
+	n:pt|clothes adv|on adv|quick&dadj-LY coord|and v|try-PAST inf|to
+	v|find art|the n|frog .
+*CHI:	they were calling and shouting trying to find where he'd gone .
+%mor:	pro:sub|they aux|be&PAST part|call-PRESP coord|and part|shout-PRESP
+	part|try-PRESP inf|to v|find adv:wh|where pro:sub|he~mod|genmod
+	part|go&PASTP .
+*CHI:	the dog got his head caught <in a> [//] in the jar where the frog
+	had escaped from and fall [//] fell out a window .
+%mor:	art|the n|dog v|get&PAST pro:poss:det|his n|head v|catch&PAST
+	prep|in art|the n|jar rel|where art|the n|frog aux|have&PAST
+	part|escape-PASTP prep|from coord|and v|fall&PAST prep|out art|a
+	n|window .
+*CHI:	the boy caught the dog .
+%mor:	art|the n|boy v|catch&PAST art|the n|dog .
+*CHI:	and they went out looking for the frog that they had lost .
+%mor:	coord|and pro:sub|they v|go&PAST adv|out part|look-PRESP prep|for
+	art|the n|frog rel|that pro:sub|they aux|have&PAST part|lose&PASTP .
+*CHI:	the boy was calling for the frog .
+%mor:	art|the n|boy aux|be&PAST&13S part|call-PRESP prep|for art|the
+	n|frog .
+*CHI:	and the dog was looking around .
+%mor:	coord|and art|the n|dog aux|be&PAST&13S part|look-PRESP adv|around
+	.
+*CHI:	the boy was calling in holes in the ground trying to find frog to
+	see where it had escaped .
+%mor:	art|the n|boy aux|be&PAST&13S part|call-PRESP prep|in n|hole-PL
+	prep|in art|the n|ground part|try-PRESP inf|to v|find n|frog inf|to
+	co|see adv:wh|where pro|it aux|have&PAST part|escape-PASTP .
+*CHI:	the boy managed to find a different animal which wasn't a frog .
+%mor:	art|the n|boy part|manage-PASTP inf|to v|find art|a adj|different
+	n|animal rel|which cop|be&PAST&13S~neg|not art|a n|frog .
+*CHI:	and the dog was barking up a tree trying to wake all the bees out
+	of the nest .
+%mor:	coord|and art|the n|dog aux|be&PAST&13S part|bark-PRESP prep|up
+	art|a n|tree part|try-PRESP inf|to v|wake qn|all art|the n|bee-PL
+	adv|out prep|of art|the n|nest .
+*CHI:	the bees got angry and started flying around the area that they
+	were in .
+%mor:	art|the n|bee-PL v|get&PAST adj|angry coord|and v|start-PAST
+	n:gerund|fly-PRESP prep|around art|the n|area rel|that pro:sub|they
+	cop|be&PAST adv|in .
+*CHI:	the boy continued to look for the frog in trees .
+%mor:	art|the n|boy part|continue-PASTP inf|to v|look prep|for art|the
+	n|frog prep|in n|tree-PL .
+*CHI:	the dog got chased by the bees that had been annoyed [//] awoke
+	[//] annoyed by the dog from the hive .
+%mor:	art|the n|dog aux|get&PAST part|chase-PASTP prep|by art|the
+	n|bee-PL rel|that aux|have&PAST aux|be&PASTP part|annoy-PASTP
+	prep|by art|the n|dog prep|from art|the n|hive .
+*CHI:	the boy fell to the ground as the owl came out_of the tree .
+%mor:	art|the n|boy v|fall&PAST prep|to art|the n|ground prep|as art|the
+	n|owl v|come&PAST prep|out_of art|the n|tree .
+*CHI:	the boy ran away to try and hide behind the rock as the owl chase
+	[*] after him .
+%mor:	art|the n|boy v|run&PAST adv|away inf|to v|try coord|and n|hide
+	prep|behind art|the n|rock prep|as art|the n|owl n|chase prep|after
+	pro:obj|him .
+%err:	chase = chased
+*CHI:	and the boy climbed up onto a rock to try and call for the frog
+	again <to see where> [//] to see if he could find it .
+%mor:	coord|and art|the n|boy part|climb-PASTP adv|up prep|onto art|a
+	n|rock inf|to v|try coord|and n|call prep|for art|the n|frog
+	adv|again inf|to v|see conj|if pro:sub|he mod|could v|find pro|it .
+%err:	chase = chased
+*CHI:	the boy got caught by another creature in [//] behind the rock <in
+	the gr(ound) [?]> [//] in trees and was carried to the edge of a
+	cliff with the dog .
+%mor:	art|the n|boy aux|get&PAST part|catch&PASTP prep|by qn|another
+	n|creature adv|behind art|the n|rock prep|in n|tree-PL coord|and
+	aux|be&PAST&13S part|carry-PASTP prep|to art|the n|edge prep|of
+	art|a n|cliff prep|with art|the n|dog .
+*CHI:	the boy then fell from the animal with the dog to the ground .
+%mor:	art|the n|boy adv:tem|then v|fall&PAST prep|from art|the n|animal
+	prep|with art|the n|dog prep|to art|the n|ground .
+*CHI:	they both fell into a pond .
+%mor:	pro:sub|they post|both v|fall&PAST prep|into art|a n|pond .
+*CHI:	and the dog landed on the boy's head .
+%mor:	coord|and art|the n|dog v|land-PAST prep|on art|the n|boy~poss|s
+	n|head .
+*CHI:	the boy then told the dog to be quiet as he looked into a log to
+	see if he could find frog behind it or inside it .
+%mor:	art|the n|boy adv:tem|then v|tell&PAST art|the n|dog inf|to cop|be
+	adj|quiet conj|as pro:sub|he v|look-PAST prep|into art|a n|log
+	inf|to v|see conj|if pro:sub|he mod|could v|find n|frog adv|behind
+	pro|it coord|or prep|inside pro|it .
+*CHI:	they [/-] the two of them looked over the log to see if the frog
+	was there .
+%mor:	art|the det:num|two prep|of pro:obj|them v|look-PAST prep|over
+	art|the n|log inf|to v|see conj|if art|the n|frog cop|be&PAST&13S
+	adv|there .
+*CHI:	<they could> [/-] they both found the frog with another frog .
+%mor:	pro:sub|they post|both v|find&PAST art|the n|frog prep|with
+	qn|another n|frog .
+*CHI:	and they were sitting together .
+%mor:	coord|and pro:sub|they aux|be&PAST part|sit-PRESP adv|together .
+*CHI:	the boy and the dog watched the two frogs and the other little
+	frogs that they had together .
+%mor:	art|the n|boy coord|and art|the n|dog v|watch-PAST art|the
+	det:num|two n|frog-PL coord|and art|the qn|other adj|little
+	n|frog-PL rel|that pro:sub|they v|have&PAST adv|together .
+*CHI:	the boy and the dog then left the log with all of the frogs and the
+	frog that they'd captured .
+%mor:	art|the n|boy coord|and art|the n|dog adv:tem|then v|leave&PAST
+	art|the n|log prep|with qn|all prep|of art|the n|frog-PL coord|and
+	art|the n|frog rel|that pro:sub|they~mod|genmod part|capture-PASTP .
+*CHI:	and they lived happily ever after .
+%mor:	coord|and pro:sub|they v|live-PAST adv|happy&dadj-LY adv|ever
+	adv:tem|after .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

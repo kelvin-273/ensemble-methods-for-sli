@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/c-00004947-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;06.01||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	she lies whenever you tell her something .
+%mor:	pro:sub|she v|lie-3S adv:wh|whenever pro|you v|tell pro:obj|her
+	pro:indef|something .
+*CHI:	if there's something you tell her , she always goes and mixes it
+	all up .
+%mor:	conj|if pro:exist|there~cop|be&3S pro:indef|something pro|you
+	v|tell pro:obj|her cm|cm pro:sub|she adv|always v|go-3S coord|and
+	v|mix-3S pro|it adv|all adv|up .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	she tells you to do something .
+%mor:	pro:sub|she v|tell-3S pro|you inf|to v|do pro:indef|something .
+*CHI:	and she expects you to do it .
+%mor:	coord|and pro:sub|she v|expect-3S pro|you inf|to v|do pro|it .
+*INV:	anything else ?
+%mor:	pro:indef|anything post|else ?
+*CHI:	she always shouts at you , when you don't need to be shouted at .
+%mor:	pro:sub|she adv|always v|shout-3S prep|at pro|you cm|cm conj|when
+	pro|you mod|do~neg|not v|need inf|to aux|be part|shout-PASTP prep|at
+	.
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	and if you've always got like a problem , if you're upset , you
+	tell her the reason .
+%mor:	coord|and conj|if pro|you~aux|have adv|always v|get&PAST co|like
+	art|a n|problem cm|cm conj|if pro|you~cop|be&PRES adj|upset cm|cm
+	pro|you v|tell pro:obj|her art|the n|reason .
+*CHI:	and she goes around telling everybody else .
+%mor:	coord|and pro:sub|she v|go-3S adv|around part|tell-PRESP
+	pro:indef|everybody post|else .
+*CHI:	and you might not want to know .
+%mor:	coord|and pro|you mod|might neg|not v|want inf|to v|know .
+*INV:	yeah .
+%mor:	co|yeah .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

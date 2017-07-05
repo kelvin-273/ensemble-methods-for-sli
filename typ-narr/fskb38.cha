@@ -1,0 +1,83 @@
+@UTF8
+@PID:	11312/c-00004855-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;03.17||||Target_Child|||
+@Date:	03-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	a boy and a dog were looking at a frog in a glass jar .
+%mor:	art|a n|boy coord|and art|a n|dog aux|be&PAST part|look-PRESP
+	prep|at art|a n|frog prep|in art|a n|glass n|jar .
+*CHI:	and then they went to sleep .
+%mor:	coord|and adv:tem|then pro:sub|they v|go&PAST inf|to v|sleep .
+*CHI:	and the frog climbed out_of the jar .
+%mor:	coord|and art|the n|frog v|climb-PAST prep|out_of art|the n|jar .
+*CHI:	they woke up in the morning to find that the frog had gone .
+%mor:	pro:sub|they v|wake&PAST adv|up prep|in art|the n|morning inf|to
+	v|find rel|that art|the n|frog aux|have&PAST part|go&PASTP .
+*CHI:	and they quickly got dressed and climbed out_of the window .
+%mor:	coord|and pro:sub|they adv|quick&dadj-LY aux|get&PAST
+	part|dress-PASTP coord|and v|climb-PAST prep|out_of art|the n|window
+	.
+*CHI:	the dog fell out_of the window .
+%mor:	art|the n|dog v|fall&PAST prep|out_of art|the n|window .
+*CHI:	and the boy was angry with him (be)cause he broke the glass jar
+	thing .
+%mor:	coord|and art|the n|boy cop|be&PAST&13S adj|angry prep|with
+	pro:obj|him conj|because pro:sub|he v|break&PAST art|the n|glass
+	n|jar n|thing .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	&um they went out .
+%mor:	pro:sub|they v|go&PAST adv|out .
+*CHI:	and they were looking for him in the woods .
+%mor:	coord|and pro:sub|they aux|be&PAST part|look-PRESP prep|for
+	pro:obj|him prep|in art|the n|wood-PL .
+*CHI:	they were looking down holes and up trees in bee nest things .
+%mor:	pro:sub|they aux|be&PAST part|look-PRESP prep|down n|hole-PL
+	coord|and prep|up n|tree-PL prep|in n|bee n|nest n|thing-PL .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	the boy climbed the tree to look in the hole .
+%mor:	art|the n|boy part|climb-PASTP art|the n|tree inf|to v|look prep|in
+	art|the n|hole .
+*CHI:	and the dog was chased by bees .
+%mor:	coord|and art|the n|dog aux|be&PAST&13S part|chase-PASTP prep|by
+	n|bee-PL .
+*CHI:	the boy fell down from the tree (be)cause an owl came out and 0 [*]
+	got chased by the owl .
+%mor:	art|the n|boy v|fall&PAST adv|down prep|from art|the n|tree
+	conj|because art|a n|owl v|come&PAST adv|out coord|and v|get&PAST
+	v|chase-PAST prep|by art|the n|owl .
+%err:	0 = subject
+*CHI:	he climbed up onto some rocks and got [//] didn't know a deer was
+	there and got on top of it .
+%mor:	pro:sub|he v|climb-PAST adv|up prep|onto qn|some n|rock-PL
+	coord|and mod|do&PAST~neg|not v|know art|a n|deer cop|be&PAST&13S
+	adv|there coord|and v|get&PAST prep|on n|top prep|of pro|it .
+*CHI:	and the deer was running with the boy on it and stopped .
+%mor:	coord|and art|the n|deer aux|be&PAST&13S part|run-PRESP prep|with
+	art|the n|boy prep|on pro|it coord|and v|stop-PAST .
+*CHI:	and the boy and the dog fell into a swamp .
+%mor:	coord|and art|the n|boy coord|and art|the n|dog v|fall&PAST
+	prep|into art|a n|swamp .
+*CHI:	they got up and looked okay .
+%mor:	pro:sub|they v|get&PAST adv|up coord|and v|look-PAST adj|okay .
+*CHI:	and the boy told the dog to be quiet .
+%mor:	coord|and art|the n|boy v|tell&PAST art|the n|dog inf|to cop|be
+	adj|quiet .
+*CHI:	<and climbed over a> [//] they climbed over a log and found two
+	frogs and some babies .
+%mor:	pro:sub|they v|climb-PAST prep|over art|a n|log coord|and
+	v|find&PAST det:num|two n|frog-PL coord|and qn|some n|baby-PL .
+*CHI:	&um they took one and said bye to the frogs and went home .
+%mor:	pro:sub|they v|take&PAST det:num|one coord|and v|say&PAST co|bye
+	prep|to art|the n|frog-PL coord|and v|go&PAST adv|home .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

@@ -1,0 +1,58 @@
+@UTF8
+@PID:	11312/c-00004793-1
+@Begin
+@Languages:	eng
+@Participants:	INV Lisa Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;1.09||||Target_Child|||
+@Date:	02-NOV-2001
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um I've [/-] a boy and his dog had a pet &er frog in a jar .
+%mor:	art|a n|boy coord|and pro:poss:det|his n|dog v|have&PAST art|a
+	n|pet n|frog prep|in art|a n|jar .
+*CHI:	and he went to sleep .
+%mor:	coord|and pro:sub|he v|go&PAST inf|to v|sleep .
+*CHI:	and the frog escaped from the jar .
+%mor:	coord|and art|the n|frog v|escape-PAST prep|from art|the n|jar .
+*CHI:	<and (.) they> [//] and the boy woke up and saw if it was there .
+%mor:	coord|and art|the n|boy v|wake&PAST adv|up coord|and v|see&PAST
+	conj|if pro|it cop|be&PAST&13S adv|there .
+*CHI:	and it had es(caped) [/] escaped .
+%mor:	coord|and pro|it aux|have&PAST part|escape-PASTP .
+*CHI:	so they went &um out looking for the frog to see where it went .
+%mor:	co|so pro:sub|they v|go&PAST adv|out part|look-PRESP prep|for
+	art|the n|frog inf|to co|see adv:wh|where pro|it v|go&PAST .
+*CHI:	&er they shouted out the window .
+%mor:	pro:sub|they v|shout-PAST prep|out art|the n|window .
+*CHI:	and the dog fell out the window .
+%mor:	coord|and art|the n|dog v|fall&PAST prep|out art|the n|window .
+*CHI:	and so they went to &er (.) look in the woods and shou [/] shouting
+	[*] .
+%mor:	coord|and co|so pro:sub|they v|go&PAST inf|to v|look prep|in
+	art|the n|wood-PL coord|and part|shout-PRESP .
+%err:	shouting = shouted
+*CHI:	and then they look [//] shouted into a beehive .
+%mor:	coord|and adv:tem|then pro:sub|they v|shout-PAST prep|into art|a
+	n|beehive .
+*CHI:	but the frog wasn't there .
+%mor:	conj|but art|the n|frog cop|be&PAST&13S~neg|not adv|there .
+*CHI:	they then (.) looked over the other side of the [//] <a log> [//] a
+	tree log &um .
+%mor:	pro:sub|they adv:tem|then v|look-PAST prep|over art|the qn|other
+	n|side prep|of art|a n|tree n|log .
+*INV:	&www .
+%exp:	investigator reminds child she can use the book to help her .
+*CHI:	and &um (.) saw (.) it's family on the other side with &um their
+	little babies .
+%mor:	coord|and v|see&PAST pro|it~aux|be&3S n|family prep|on art|the
+	qn|other n|side prep|with pro:poss:det|their adj|little n|baby-PL .
+*CHI:	and then they [//] the boy and the dog wave [*] goodbye to them .
+%mor:	coord|and adv:tem|then art|the n|boy coord|and art|the n|dog n|wave
+	co|goodbye prep|to pro:obj|them .
+%err:	wave = waved
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

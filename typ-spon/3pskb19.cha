@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/c-00004935-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;06.01||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	sometimes they lie .
+%mor:	adv|sometimes pro:sub|they v|lie .
+*CHI:	and &um they go off with other people and leave me out sometimes .
+%mor:	coord|and pro:sub|they v|go adv|off prep|with qn|other n|person&PL
+	coord|and v|leave pro:obj|me adv|out adv|sometimes .
+*INV:	is it a girl or a boy ?
+%mor:	aux|be&3S pro|it art|a n|girl coord|or art|a n|boy ?
+*CHI:	it's a girl .
+%mor:	pro|it~cop|be&3S art|a n|girl .
+*INV:	it's a girl .
+%mor:	pro|it~cop|be&3S art|a n|girl .
+*INV:	so she goes off with people .
+%mor:	co|so pro:sub|she v|go-3S adv|off prep|with n|person&PL .
+*CHI:	yeah .
+%mor:	co|yeah .
+*CHI:	and sometimes she tells me things .
+%mor:	coord|and adv|sometimes pro:sub|she v|tell-3S pro:obj|me n|thing-PL
+	.
+*CHI:	and they're not the truth .
+%mor:	coord|and pro:sub|they~cop|be&PRES neg|not art|the n|truth .
+*CHI:	so she lies again .
+%mor:	co|so pro:sub|she v|lie-3S adv|again .
+*CHI:	&um .
+*INV:	that's fine .
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+*CHI:	sometimes she's really annoying as well .
+%mor:	adv|sometimes pro:sub|she~aux|be&3S adv|real&dadj-LY
+	part|annoy-PRESP adv|as adv|well .
+*INV:	yeah .
+%mor:	co|yeah .
+*INV:	what does she do that is annoying ?
+%mor:	pro:wh|what v|do&3S pro:sub|she v|do rel|that aux|be&3S
+	part|annoy-PRESP ?
+*CHI:	well basically lie and just like go off with people again .
+%mor:	adv|well adv|basic&dadj-AL-LY n|lie coord|and adv|just prep|like
+	v|go adv|off prep|with n|person&PL adv|again .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

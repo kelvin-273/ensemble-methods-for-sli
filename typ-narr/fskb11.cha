@@ -1,0 +1,101 @@
+@UTF8
+@PID:	11312/c-00004828-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;11.13||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	yesterday I got a new frog .
+%mor:	adv:tem|yesterday pro:sub|I v|get&PAST art|a adj|new n|frog .
+*CHI:	&um (.) after a hard day of looking after my new frog , I went to
+	bed .
+%mor:	prep|after art|a adj|hard n|day prep|of n:gerund|look-PRESP
+	prep|after pro:poss:det|my adj|new n|frog cm|cm pro:sub|I v|go&PAST
+	prep|to n|bed .
+*CHI:	but when I woke up in the morning , <it was gone> [//] he had gone
+	.
+%mor:	conj|but conj|when pro:sub|I v|wake&PAST adv|up prep|in art|the
+	n|morning cm|cm pro:sub|he aux|have&PAST part|go&PASTP .
+*CHI:	I searched everywhere in my bed+room , under the bed , in clothes ,
+	everywhere .
+%mor:	pro:sub|I v|search-PAST n|everywhere prep|in pro:poss:det|my
+	n|+n|bed+n|room cm|cm prep|under art|the n|bed cm|cm adv|in
+	n:pt|clothes cm|cm n|everywhere .
+*CHI:	my dog Skip stuck <in the> [/] in the bowl .
+%mor:	pro:poss:det|my n|dog n:prop|Skip v|stick&PAST prep|in art|the
+	n|bowl .
+*CHI:	I even started shouting out the window .
+%mor:	pro:sub|I adv|even part|start-PASTP part|shout-PRESP prep|out
+	art|the n|window .
+*CHI:	Skip fell out_of the window .
+%mor:	n:prop|Skip v|fall&PAST prep|out_of art|the n|window .
+*CHI:	stupid dog !
+%mor:	adj|stupid n|dog !
+*CHI:	I went calling through the woods and the forests to see if he was
+	there .
+%mor:	pro:sub|I v|go&PAST n:gerund|call-PRESP prep|through art|the
+	n|wood-PL coord|and art|the n|forest-PL inf|to v|see conj|if
+	pro:sub|he cop|be&PAST&13S adv|there .
+*CHI:	I looked in the hole .
+%mor:	pro:sub|I v|look-PAST prep|in art|the n|hole .
+*CHI:	oh but I got my nose bit off .
+%mor:	co|oh conj|but pro:sub|I v|get&PAST pro:poss:det|my n|nose
+	v|bite&PAST adv|off .
+*CHI:	so_that wasn't very nice .
+%mor:	conj|so_that cop|be&PAST&13S~neg|not adv|very adj|nice .
+*CHI:	Skip got chased by a load of bees .
+%mor:	n:prop|Skip aux|get&PAST part|chase-PASTP prep|by art|a n|load
+	prep|of n|bee-PL .
+*CHI:	and so I went climbing up trees to see 0 [*] my frog was in the
+	trees .
+%mor:	coord|and co|so pro:sub|I v|go&PAST n:gerund|climb-PRESP prep|up
+	n|tree-PL inf|to v|see pro:poss:det|my n|frog cop|be&PAST&13S
+	prep|in art|the n|tree-PL .
+%err:	0 = if
+*CHI:	I fell out_of the tree thanks to the stupid owl that kn(ocked) [//]
+	scared me .
+%mor:	pro:sub|I v|fall&PAST prep|out_of art|the n|tree v|thank-3S prep|to
+	art|the adj|stupid n|owl rel|that v|scare-PAST pro:obj|me .
+*CHI:	<and so> [/-] and then the owl decided he would start chasing me
+	all the way up the stupid hill !
+%mor:	coord|and adv:tem|then art|the n|owl v|decide-PAST pro:sub|he
+	mod|will&COND v|start n:gerund|chase-PRESP pro:obj|me adv|all
+	art|the n|way prep|up art|the adj|stupid n|hill !
+*CHI:	by now Skip was scared out_of his head .
+%mor:	prep|by adv|now n:prop|Skip aux|be&PAST&13S part|scare-PASTP
+	prep|out_of pro:poss:det|his n|head .
+*CHI:	I [/-] I fell off the rock and onto a deer's head .
+%mor:	pro:sub|I v|fall&PAST prep|off art|the n|rock coord|and prep|onto
+	art|a n|deer~poss|s n|head .
+*CHI:	he didn't like it too much as he kind of like threw me <off a
+	cliff> [//] down a cliff into some water .
+%mor:	pro:sub|he mod|do&PAST~neg|not v|like pro|it adv|too qn|much
+	prep|as pro:sub|he n|kind prep|of co|like v|throw&PAST pro:obj|me
+	adv|down art|a n|cliff prep|into qn|some n|water .
+*CHI:	so I was <soaking wet (.)> [/] soaking wet .
+%mor:	co|so pro:sub|I aux|be&PAST&13S part|soak-PRESP part|wet&PASTP .
+*CHI:	and Skip was on my head .
+%mor:	coord|and n:prop|Skip cop|be&PAST&13S prep|on pro:poss:det|my
+	n|head .
+*CHI:	I heard my frog chirping and l(ook) [/] looked behind a tree .
+%mor:	pro:sub|I v|hear&PAST pro:poss:det|my n|frog part|chirp-PRESP
+	coord|and v|look-PAST prep|behind art|a n|tree .
+*CHI:	and there he was with his new wife and some baby froggies .
+%mor:	coord|and adv|there pro:sub|he cop|be&PAST&13S prep|with
+	pro:poss:det|his adj|new n|wife coord|and qn|some n|baby
+	n|frog-DIM-PL .
+*CHI:	I said goodbye .
+%mor:	pro:sub|I v|say&PAST co|goodbye .
+*CHI:	and one of the baby frogs decided to join me .
+%mor:	coord|and det:num|one prep|of art|the n|baby n|frog-PL
+	v|decide-PAST inf|to v|join pro:obj|me .
+*CHI:	so now I have a new baby frog .
+%mor:	co|so adv|now pro:sub|I v|have art|a adj|new n|baby n|frog .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

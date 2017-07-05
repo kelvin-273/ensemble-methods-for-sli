@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/c-00004998-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;09.10||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	he is [//] doesn't act his age .
+%mor:	pro:sub|he mod|do&3S~neg|not v|act pro:poss:det|his n|age .
+*CHI:	he's always acting like a little child .
+%mor:	pro:sub|he~aux|be&3S adv|always part|act-PRESP prep|like art|a
+	adj|little n|child .
+*CHI:	he annoys me and my friends , even though he's [/] he's twelve and
+	we're sixteen .
+%mor:	pro:sub|he v|annoy-3S pro:obj|me coord|and pro:poss:det|my
+	n|friend-PL cm|cm adv|even adv|though pro:sub|he~aux|be&3S
+	det:num|twelve coord|and pro:sub|we~aux|be&PRES det:num|sixteen .
+*INV:	&=laughs .
+*CHI:	we're always arguing at home .
+%mor:	pro:sub|we~cop|be&PRES adv|always part|argue-PRESP prep|at n|home .
+*CHI:	(.) he just acts like a little child basically and +...
+%mor:	pro:sub|he adv|just n|act-PL prep|like art|a adj|little n|child
+	adv|basic&dadj-AL-LY coord|and +...
+*INV:	that's fine .
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+*CHI:	and I don't want to put up with it !
+%mor:	coord|and pro:sub|I mod|do~neg|not v|want inf|to v|put&ZERO adv|up
+	prep|with pro|it !
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

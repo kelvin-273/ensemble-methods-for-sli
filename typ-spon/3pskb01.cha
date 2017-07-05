@@ -1,0 +1,38 @@
+@UTF8
+@PID:	11312/c-00004917-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;10.11||||Target_Child|||
+@Date:	12-JUL-2001
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um (.) &um let me think &um let me think of some reasons (.) .
+%mor:	v|let&ZERO pro:obj|me v|think v|let&ZERO pro:obj|me v|think prep|of
+	qn|some n|reason-PL .
+*CHI:	well she can be annoying sometimes because_of [//] she makes you
+	lose your concentration in class .
+%mor:	co|well pro:sub|she mod|can aux|be part|annoy-PRESP adv|sometimes
+	pro:sub|she v|make-3S pro|you v|lose pro:poss:det|your
+	n|concentration prep|in n|class .
+*CHI:	and she copies all your work , when you tell her not to copy all
+	your work .
+%mor:	coord|and pro:sub|she v|copy-3S qn|all pro:poss:det|your n|work
+	cm|cm conj|when pro|you v|tell pro:obj|her neg|not inf|to v|copy
+	qn|all pro:poss:det|your n|work .
+*CHI:	and she starts shouting out in class , when the teacher is talking
+	.
+%mor:	coord|and pro:sub|she v|start-3S n:gerund|shout-PRESP adv|out
+	prep|in n|class cm|cm conj|when art|the n|teach&dv-AGT aux|be&3S
+	part|talk-PRESP .
+*CHI:	and she can just be really horrible and start calling you names and
+	things and that's it .
+%mor:	coord|and pro:sub|she mod|can adv|just cop|be adv|real&dadj-LY
+	adj|horrible coord|and v|start part|call-PRESP pro|you v|name-3S
+	coord|and n|thing-PL coord|and pro:dem|that~cop|be&3S pro|it .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

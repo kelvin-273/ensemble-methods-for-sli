@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/c-00004898-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;11.16||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	there was little boy called Johnny and he &um found a frog .
+%mor:	pro:exist|there cop|be&PAST&13S adj|little n|boy part|call-PASTP
+	n:prop|Johnny coord|and pro:sub|he v|find&PAST art|a n|frog .
+*CHI:	and he brought 0 [*] home and kept in a jar .
+%mor:	coord|and pro:sub|he v|bring&PAST n|home coord|and v|keep&PAST
+	prep|in art|a n|jar .
+%err:	0 = it
+*CHI:	he went to sleep that night with his dog and the frog escaped .
+%mor:	pro:sub|he v|go&PAST inf|to v|sleep det|that n|night prep|with
+	pro:poss:det|his n|dog coord|and art|the n|frog v|escape-PAST .
+*CHI:	he woke up the next morning and searched high and low in his room
+	for it .
+%mor:	pro:sub|he v|wake&PAST prep|up art|the adj|next n|morning coord|and
+	v|search-PAST n|high coord|and n|low prep|in pro:poss:det|his n|room
+	prep|for pro|it .
+*CHI:	he looked out_of his window <to try> [//] to see if he was outside
+	.
+%mor:	pro:sub|he v|look-PAST prep|out_of pro:poss:det|his n|window inf|to
+	v|see conj|if pro:sub|he cop|be&PAST&13S adv|outside .
+*CHI:	and the dog fell out the window .
+%mor:	coord|and art|the n|dog v|fall&PAST prep|out art|the n|window .
+*CHI:	they looked around outside in the woods outside his home .
+%mor:	pro:sub|they v|look-PAST adv|around adv|outside prep|in art|the
+	n|wood-PL prep|outside pro:poss:det|his n|home .
+*CHI:	&um they [/-] he searched under trees and in burrows .
+%mor:	pro:sub|he v|search-PAST prep|under n|tree-PL coord|and prep|in
+	n|burrow-PL .
+*CHI:	and the dog found a beehive which the dog liked playing with .
+%mor:	coord|and art|the n|dog v|find&PAST art|a n|beehive rel|which
+	art|the n|dog v|like-PAST n:gerund|play-PRESP prep|with .
+*CHI:	the dog knocked the beehive over .
+%mor:	art|the n|dog v|knock-PAST art|the n|beehive adv|over .
+*CHI:	and the bees started to chase the dog .
+%mor:	coord|and art|the n|bee-PL v|start-PAST inf|to v|chase art|the
+	n|dog .
+*CHI:	the bees knocked the boy over and followed the dog running .
+%mor:	art|the n|bee-PL v|knock-PAST art|the n|boy adv|over coord|and
+	v|follow-PAST art|the n|dog part|run-PRESP .
+*CHI:	the [/-] the boy looked around over a big stone to try and find his
+	dog .
+%mor:	art|the n|boy part|look-PASTP adv|around prep|over art|a adj|big
+	n|stone inf|to v|try coord|and v|find pro:poss:det|his n|dog .
+*CHI:	and a deer pic(ked) [/] picked him up over the stone and chucked
+	him down a hill into a river .
+%mor:	coord|and art|a n|deer v|pick-PAST pro:obj|him adv|up prep|over
+	art|the n|stone coord|and v|chuck-PAST pro:obj|him adv|down art|a
+	n|hill prep|into art|a n|river .
+*CHI:	he landed with his dog in the river with a splash .
+%mor:	pro:sub|he v|land-PAST prep|with pro:poss:det|his n|dog prep|in
+	art|the n|river prep|with art|a n|splash .
+*CHI:	he sat up and could hear noises of frogs .
+%mor:	pro:sub|he v|sit&PAST adv|up coord|and mod|could v|hear n|noise-PL
+	prep|of n|frog-PL .
+*CHI:	he told his dog to be quiet and peek [//] peeked over the side of a
+	log .
+%mor:	pro:sub|he v|tell&PAST pro:poss:det|his n|dog inf|to cop|be n|quiet
+	coord|and v|peek-PAST prep|over art|the n|side prep|of art|a n|log .
+*CHI:	he looked over .
+%mor:	pro:sub|he v|look-PAST adv|over .
+*CHI:	and he saw his frog and other frog .
+%mor:	coord|and pro:sub|he v|see&PAST pro:poss:det|his n|frog coord|and
+	qn|other n|frog .
+*CHI:	there were loads of little frogs as_well .
+%mor:	pro:exist|there cop|be&PAST n|load-PL prep|of adj|little n|frog-PL
+	adv|as_well .
+*CHI:	he said goodbye to his frogs and took his frog home after an
+	adventure !
+%mor:	pro:sub|he v|say&PAST co|goodbye prep|to pro:poss:det|his n|frog-PL
+	coord|and v|take&PAST pro:poss:det|his n|frog adv|home prep|after
+	art|a n|adventure !
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

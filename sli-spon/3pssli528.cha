@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/c-00004808-1
+@Begin
+@Languages:	eng
+@Participants:	INV Zoe Investigator , CHI Target_Child , HEL Helen Investigator
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;7.17||||Target_Child|||
+@ID:	eng|Conti4|HEL|||||Investigator|||
+@Date:	02-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at Child's home. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	she smokes in the cloth [?] .
+%mor:	pro:sub|she v|smoke-3S prep|in art|the n|cloth .
+*CHI:	0 [*] gets loads of xxx .
+%mor:	v|get-3S n|load-PL prep|of .
+%err:	0 = she
+%exp:	says cddt as initials of something , perhaps detentions ?
+*CHI:	&er 0 [*] doesn't listen to the teacher .
+%mor:	mod|do&3S~neg|not v|listen prep|to art|the n|teach&dv-AGT .
+%err:	0 = she
+*HEL:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	0 [*] eats in class .
+%mor:	v|eat-3S prep|in n|class .
+%err:	0 = she
+*CHI:	0 [*] never has any equipment .
+%mor:	adv|never v|have&3S qn|any n|equipment .
+%err:	0 = she
+*CHI:	&um 0 [*] always wags lessons .
+%mor:	adv|always v|wag-3S n|lesson-PL .
+%err:	0 = she
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

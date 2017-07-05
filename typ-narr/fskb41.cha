@@ -1,0 +1,140 @@
+@UTF8
+@PID:	11312/c-00004858-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;05.16||||Target_Child|||
+@Date:	03-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	it was late at night yesterday and Jimmy was tired .
+%mor:	pro|it cop|be&PAST&13S adj|late prep|at n|night adv:tem|yesterday
+	coord|and n:prop|Jimmy aux|be&PAST&13S part|tire-PASTP .
+*CHI:	so he went to bed &um after saying good_night@q to his frog .
+%mor:	co|so pro:sub|he v|go&PAST prep|to n|bed prep|after
+	n:gerund|say-PRESP meta|good_night prep|to pro:poss:det|his n|frog .
+*CHI:	&=snoring Jimmy was asleep .
+%mor:	n:prop|Jimmy cop|be&PAST&13S adv|asleep .
+*CHI:	the frog jumped out the pot and creeped [*] away .
+%mor:	art|the n|frog v|jump-PAST prep|out art|the n|pot coord|and
+	v|creep-PAST adv|away .
+%err:	creeped = crept
+*CHI:	Jimmy woke up and said good morning to the [//] his frog +"/.
+%mor:	n:prop|Jimmy v|wake&PAST adv|up coord|and v|say&PAST adj|good
+	n|morning prep|to pro:poss:det|his n|frog +"/.
+*CHI:	+" oh no where's my frog ?
+%mor:	co|oh co|no rel|where~aux|be&3S pro:poss:det|my n|frog ?
+*CHI:	+" he's gone ?
+%mor:	pro:sub|he~aux|be&3S part|go&PASTP ?
+*CHI:	Spot looked in the pot .
+%mor:	n:prop|Spot v|look-PAST prep|in art|the n|pot .
+*CHI:	but he couldn't find the frog .
+%mor:	conj|but pro:sub|he mod|could~neg|not v|find art|the n|frog .
+*CHI:	Jimmy went to look for the frog +"/.
+%mor:	n:prop|Jimmy v|go&PAST inf|to v|look prep|for art|the n|frog +"/.
+*CHI:	+" Frog , where are you ?
+%mor:	n:prop|Frog cm|cm rel|where aux|be&PRES pro|you ?
+*CHI:	+" come on Spot let's go look over there !
+%mor:	v|come prep|on n:prop|Spot v|let~pro:obj|us v|go v|look adv|over
+	adv|there !
+*CHI:	Spot found something , he [//] it was a beehive .
+%mor:	n:prop|Spot v|find&PAST pro:indef|something cm|cm pro|it
+	cop|be&PAST&13S art|a n|beehive .
+*CHI:	he kept jumping up at it +"/.
+%mor:	pro:sub|he v|keep&PAST n:gerund|jump-PRESP adv|up prep|at pro|it
+	+"/.
+*CHI:	+" where are you frog ?
+%mor:	adv:wh|where aux|be&PRES pro|you n|frog ?
+*CHI:	+" come out !
+%mor:	v|come adv|out !
+*CHI:	+" there's no frog in here little boy !
+%mor:	pro:exist|there~cop|be&3S qn|no n|frog adv|in adv|here adj|little
+	n|boy !
+*CHI:	said a mole +"/.
+%mor:	v|say&PAST art|a n|mole +"/.
+*CHI:	+" come on Spot let's go somewhere else .
+%mor:	v|come prep|on n:prop|Spot v|let~pro:obj|us v|go n|somewhere
+	post|else .
+*CHI:	Jimmy looked in a tree .
+%mor:	n:prop|Jimmy v|look-PAST prep|in art|a n|tree .
+*CHI:	but he couldn't find the frog .
+%mor:	conj|but pro:sub|he mod|could~neg|not v|find art|the n|frog .
+*CHI:	then Spot disturbed the beehive +"/.
+%mor:	adv:tem|then n:prop|Spot v|disturb-PAST art|the n|beehive +"/.
+*CHI:	+" oh no Spot !
+%mor:	co|oh co|no n:prop|Spot !
+*CHI:	+" what have you done ?
+%mor:	pro:wh|what aux|have pro|you part|do&PASTP ?
+*CHI:	+" they're going to chase you now !
+%mor:	pro:sub|they~aux|be&PRES part|go-PRESP inf|to v|chase pro|you
+	adv|now !
+*CHI:	the bees chased Spot .
+%mor:	art|the n|bee-PL v|chase-PAST n:prop|Spot .
+*CHI:	but finally they stopped .
+%mor:	conj|but adv|final&dadj-LY pro:sub|they v|stop-PAST .
+*CHI:	Jimmy was still looking everywhere for his frog +"/.
+%mor:	n:prop|Jimmy cop|be&PAST&13S adv|still part|look-PRESP
+	adv|everywhere prep|for pro:poss:det|his n|frog +"/.
+*CHI:	+" what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+*CHI:	+" I can hear something !
+%mor:	pro:sub|I mod|can v|hear pro:indef|something !
+*CHI:	+" oh no that's not my frog it's an eagle owl .
+%mor:	co|oh co|no pro:dem|that~cop|be&3S neg|not pro:poss:det|my n|frog
+	pro|it~cop|be&3S art|a n|eagle n|owl .
+*CHI:	+" Frog , where are you ?
+%mor:	n:prop|Frog cm|cm rel|where aux|be&PRES pro|you ?
+*CHI:	+" let's look up here .
+%mor:	v|let~pro:obj|us v|look prep|up pro:dem|here .
+*CHI:	+" okay I can't see anything around here , where is he ?
+%mor:	co|okay pro:sub|I mod|can~neg|not v|see pro:indef|anything
+	prep|around pro:dem|here cm|cm rel|where cop|be&3S pro:sub|he ?
+*CHI:	+" oh no what's this ?
+%mor:	co|oh co|no pro:wh|what~cop|be&3S pro:dem|this ?
+*CHI:	+" it's a deer !
+%mor:	pro|it~cop|be&3S art|a n|deer !
+*CHI:	+" help get me off !
+%mor:	n|help v|get pro:obj|me adv|off !
+*CHI:	+" oh no he's dropped me !
+%mor:	co|oh co|no pro:sub|he~aux|be&3S part|drop-PASTP pro:obj|me !
+*CHI:	+" I'm falling !
+%mor:	pro:sub|I~aux|be&1S part|fall-PRESP !
+*CHI:	+" help me !
+%mor:	v|help pro:obj|me !
+*CHI:	splash !
+%mor:	n|splash !
+*CHI:	Jimmy and Spot fell into a river +"/.
+%mor:	n:prop|Jimmy coord|and n:prop|Spot v|fall&PAST prep|into art|a
+	n|river +"/.
+*CHI:	+" oh it's so cold in here !
+%mor:	co|oh pro|it~cop|be&3S adv|so adv|cold prep|in pro:dem|here !
+*CHI:	+" oh I've got_to keep looking for my frog !
+%mor:	co|oh pro:sub|I~aux|have mod:aux|got_to v|keep part|look-PRESP
+	prep|for pro:poss:det|my n|frog !
+*CHI:	+" Spot , shall we look behind that log ?
+%mor:	n:prop|Spot cm|cm mod|shall pro:sub|we v|look adv|behind
+	pro:dem|that v|log ?
+*CHI:	+" right ssh !
+%mor:	co|right co|ssh !
+*CHI:	+" what's behind here then ?
+%mor:	pro:wh|what~aux|be&3S adv|behind adv|here adv:tem|then ?
+*CHI:	+" oh look there's two frogs !
+%mor:	co|oh co|look pro:exist|there~cop|be&3S det:num|two n|frog-PL !
+*CHI:	+" oh but they're too big to be my frog !
+%mor:	co|oh conj|but pro:sub|they~aux|be&PRES adv|too adj|big inf|to
+	cop|be pro:poss:det|my n|frog !
+*CHI:	+" wow they've got a family !
+%mor:	co|wow pro:sub|they~aux|have part|get&PASTP art|a n|family !
+*CHI:	+" I've found my little frog !
+%mor:	pro:sub|I~aux|have part|find&PASTP pro:poss:det|my adj|little
+	n|frog !
+*CHI:	+" bye !
+%mor:	co|bye !
+*CHI:	+" thank_you !
+%mor:	co|thank_you !
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

@@ -1,0 +1,34 @@
+@UTF8
+@PID:	11312/c-00004932-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;06.03||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um well [//] we have_to watch him play football every Sunday and
+	every Wednesday which I don't really like .
+%mor:	pro:sub|we mod:aux|have_to v|watch pro:obj|him n|play
+	n|+n|foot+n|ball qn|every n:prop|Sunday coord|and qn|every
+	n:prop|Wednesday rel|which pro:sub|I mod|do~neg|not adv|real&dadj-LY
+	co|like .
+*CHI:	and he &um always complains .
+%mor:	coord|and pro:sub|he adv|always v|complain-3S .
+*CHI:	and he's &um just really annoying (be)cause he turns the tellie
+	over when you're watching something that you want to watch .
+%mor:	coord|and pro:sub|he~cop|be&3S adv|just adv|real&dadj-LY
+	part|annoy-PRESP conj|because pro:sub|he v|turn-3S art|the n|tellie
+	adv|over conj|when pro|you~aux|be&PRES part|watch-PRESP
+	pro:indef|something rel|that pro|you v|want inf|to v|watch .
+*INV:	yeah .
+%mor:	co|yeah .
+*CHI:	and that's about it really .
+%mor:	coord|and pro:dem|that~cop|be&3S adv|about pro|it adv|real&dadj-LY
+	.
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

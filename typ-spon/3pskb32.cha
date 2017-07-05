@@ -1,0 +1,32 @@
+@UTF8
+@PID:	11312/c-00004948-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;04.28||||Target_Child|||
+@Date:	03-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	my dad , because he's always shouting at me , always telling me to
+	&um get off the tellie and &um sending me to my room when I haven't
+	done anything .
+%mor:	pro:poss:det|my n|dad cm|cm conj|because pro:sub|he~aux|be&3S
+	adv|always part|shout-PRESP prep|at pro:obj|me cm|cm adv|always
+	part|tell-PRESP pro:obj|me inf|to v|get prep|off art|the n|tellie
+	coord|and part|send-PRESP pro:obj|me prep|to pro:poss:det|my n|room
+	conj|when pro:sub|I aux|have~neg|not part|do&PASTP
+	pro:indef|anything .
+*CHI:	to do my homework really , when I get home from school .
+%mor:	inf|to v|do pro:poss:det|my n|+n|home+n|work adv|real&dadj-LY cm|cm
+	adv:wh|when pro:sub|I v|get n|home prep|from n|school .
+*CHI:	and all he does is &um drink beer and watch tellie .
+%mor:	coord|and pro:indef|all pro:sub|he v|do&3S aux|be&3S n|drink n|beer
+	coord|and n|watch n|tellie .
+*CHI:	twenty four hour news .
+%mor:	det:num|twenty det:num|four n|hour n|news .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

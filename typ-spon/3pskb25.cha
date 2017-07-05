@@ -1,0 +1,30 @@
+@UTF8
+@PID:	11312/c-00004941-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;10.01||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um <she doesn't> [/-] she lies a lot .
+%mor:	pro:sub|she v|lie-3S art|a n|lot .
+*CHI:	she says one thing .
+%mor:	pro:sub|she v|say-3S det:num|one n|thing .
+*CHI:	and then to someone else she says another thing .
+%mor:	coord|and adv:tem|then prep|to pro:indef|someone post|else
+	pro:sub|she v|say-3S qn|another n|thing .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	&um (.) I can't think of any more .
+%mor:	pro:sub|I mod|can~neg|not v|think prep|of qn|any pro:indef|more .
+*INV:	that's fine .
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+*CHI:	&um no that's it .
+%mor:	co|no pro:dem|that~cop|be&3S pro|it .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

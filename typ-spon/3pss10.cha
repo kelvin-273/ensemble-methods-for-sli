@@ -1,0 +1,41 @@
+@UTF8
+@PID:	11312/c-00004981-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;05.09||||Target_Child|||
+@Date:	20-MAY-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um he takes the mick out_of you sometimes and like (.) &um calls
+	you names .
+%mor:	pro:sub|he v|take-3S art|the n|mick prep|out_of pro|you
+	adv|sometimes coord|and co|like v|call-3S pro|you v|name-3S .
+*CHI:	and 0 [*] chases after you and pushes you over .
+%mor:	coord|and v|chase-3S prep|after pro|you coord|and v|push-3S pro|you
+	adv|over .
+%err:	0 = subject
+*CHI:	and he's [//] near [/] near enough everyday he's nasty to someone .
+%mor:	coord|and v|near adv|enough adj|everyday pro:sub|he~cop|be&3S
+	adj|nasty prep|to pro:indef|someone .
+*INV:	yeah .
+%mor:	co|yeah .
+*CHI:	and <if he> [//] if like you're on your own with him he's alright
+	to you .
+%mor:	coord|and conj|if co|like pro|you~aux|be&PRES adv|on
+	pro:poss:det|your adj|own prep|with pro:obj|him pro:sub|he~aux|be&3S
+	adj|alright prep|to pro|you .
+*CHI:	but then if you're with other people like your friends with him ,
+	and then he's nasty .
+%mor:	conj|but adv:tem|then conj|if pro|you~cop|be&PRES prep|with
+	qn|other n|person&PL co|like pro:poss:det|your n|friend-PL prep|with
+	pro:obj|him cm|cm coord|and adv:tem|then pro:sub|he~aux|be&3S
+	adj|nasty .
+*CHI:	and he shows off and stuff .
+%mor:	coord|and pro:sub|he v|show-3S adv|off coord|and n|stuff .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

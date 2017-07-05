@@ -1,0 +1,56 @@
+@UTF8
+@PID:	11312/c-00004810-1
+@Begin
+@Languages:	eng
+@Participants:	INV Zoe Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;10.25||||Target_Child|||
+@Date:	07-MAY-2003
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at Child's home. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	the naughtiest person in school +/.
+%mor:	art|the adj|naughty-SP n|person prep|in n|school +/.
+*INV:	is it you ?
+%mor:	aux|be&3S pro|it pro|you ?
+*CHI:	no it's not me !
+%mor:	co|no pro|it~cop|be&3S neg|not pro:obj|me !
+*CHI:	+, &um (.) well what he gets up to +...
+%mor:	co|well pro:wh|what pro:sub|he v|get-3S adv|up prep|to +...
+*INV:	what does he do ?
+%mor:	pro:wh|what v|do&3S pro:sub|he v|do ?
+*CHI:	&um 0 [*] smart around the teachers .
+%mor:	v|smart prep|around art|the n|teach&dv-AGT-PL .
+%err:	0 = subject , 0 = be
+*CHI:	I don't know (.) 0 [*] not do the work .
+%mor:	pro:sub|I mod|do~neg|not v|know neg|not v|do art|the n|work .
+%err:	0 = subject
+*CHI:	0 [*] throw abuse at the teacher .
+%mor:	v|throw n|abuse prep|at art|the n|teach&dv-AGT .
+%err:	0 = subject
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	teacher 0 [*] throw abuse back .
+%mor:	n|teach&dv-AGT v|throw n|abuse adv|back .
+%err:	0 = will; or teacher = teachers
+*CHI:	&um so the teacher sends this guy out , have a word with him <get
+	him> [/] get him to come back in and do the work .
+%mor:	co|so art|the n|teach&dv-AGT v|send-3S det|this n|guy adv|out cm|cm
+	v|have art|a n|word prep|with pro:obj|him v|get pro:obj|him inf|to
+	v|come adv|back adv|in coord|and v|do art|the n|work .
+*CHI:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro|it .
+*INV:	<and what does this person> [//] what does this boy do at break
+	times ?
+%mor:	pro:wh|what mod|do&3S det|this n|boy v|do prep|at v|break n|time-PL
+	?
+*INV:	what does he gets up to ?
+%mor:	pro:wh|what v|do&3S pro:sub|he v|get-3S adv|up prep|to ?
+*CHI:	&er smoke and sometimes he get [*] caught by the teacher .
+%mor:	n|smoke coord|and adv|sometimes pro:sub|he aux|get part|catch&PASTP
+	prep|by art|the n|teach&dv-AGT .
+%err:	get = gets
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

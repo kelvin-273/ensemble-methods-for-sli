@@ -1,0 +1,82 @@
+@UTF8
+@PID:	11312/c-00004838-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;07.16||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um Charlie had a pet frog called Fred .
+%mor:	n:prop|Charlie v|have&PAST art|a n|pet n|frog v|call-PAST
+	n:prop|Fred .
+*CHI:	&um and he kept him in a jar .
+%mor:	coord|and pro:sub|he v|keep&PAST pro:obj|him prep|in art|a n|jar .
+*CHI:	that night as he was asleep the frog crept out_of the jar .
+%mor:	det|that n|night conj|as pro:sub|he cop|be&PAST&13S adv|asleep
+	art|the n|frog v|creep&PAST prep|out_of art|the n|jar .
+*CHI:	as he woke up in the morning he found the frog was gone .
+%mor:	conj|as pro:sub|he v|wake&PAST adv|up prep|in art|the n|morning
+	pro:sub|he v|find&PAST art|the n|frog aux|be&PAST&13S part|go&PASTP
+	.
+*CHI:	so he got dressed to go and find the frog .
+%mor:	co|so pro:sub|he aux|get&PAST part|dress-PASTP inf|to v|go
+	coord|and v|find art|the n|frog .
+*CHI:	he looked out_of the window .
+%mor:	pro:sub|he v|look-PAST prep|out_of art|the n|window .
+*CHI:	<but the frog> [//] but the dog fell out_of the window .
+%mor:	conj|but art|the n|dog v|fall&PAST prep|out_of art|the n|window .
+*CHI:	so he jumped out and tried to rescue the dog .
+%mor:	co|so pro:sub|he v|jump-PAST adv|out coord|and v|try-PAST inf|to
+	v|rescue art|the n|dog .
+*CHI:	he went over to the local forest and was calling out for the frog .
+%mor:	pro:sub|he v|go&PAST adv|over prep|to art|the adj|local n|forest
+	coord|and aux|be&PAST&13S part|call-PRESP adv|out prep|for art|the
+	n|frog .
+*CHI:	he looked down a hole until a mole popped up .
+%mor:	pro:sub|he v|look-PAST prep|down art|a n|hole prep|until art|a
+	n|mole v|pop-PAST adv|up .
+*CHI:	and then the beehive got &um destroyed by the dog .
+%mor:	coord|and adv:tem|then art|the n|beehive aux|get&PAST
+	part|destroy-PASTP prep|by art|the n|dog .
+*CHI:	so all the wasps started chasing him .
+%mor:	adv|so qn|all art|the n|wasp-PL v|start-PAST n:gerund|chase-PRESP
+	pro:obj|him .
+*CHI:	he looked in the tree .
+%mor:	pro:sub|he v|look-PAST prep|in art|the n|tree .
+*CHI:	but then an owl flew out and scared him so much he fell over .
+%mor:	conj|but adv:tem|then art|a n|owl v|fly&PAST adv|out coord|and
+	v|scare-PAST pro:obj|him adv|so qn|much pro:sub|he v|fall&PAST
+	adv|over .
+*CHI:	he looked over a big rock and started calling for him .
+%mor:	pro:sub|he v|look-PAST prep|over art|a adj|big n|rock coord|and
+	v|start-PAST n:gerund|call-PRESP prep|for pro:obj|him .
+*CHI:	until a big deer come up and got [//] took him on the head and
+	dropped him over the side of a hill into some water .
+%mor:	conj|until art|a adj|big n|deer v|come adv|up coord|and v|take&PAST
+	pro:obj|him prep|on art|the n|head coord|and v|drop-PAST pro:obj|him
+	prep|over art|the n|side prep|of art|a n|hill prep|into qn|some
+	n|water .
+*CHI:	&um <he looked over> [//] he got out_of the water and looked over a
+	log .
+%mor:	pro:sub|he v|get&PAST prep|out_of art|the n|water coord|and
+	v|look-PAST prep|over art|a n|log .
+*CHI:	there he saw his pet frog with another frog that looked like his
+	girlfriend .
+%mor:	adv|there pro:sub|he v|see&PAST pro:poss:det|his n|pet n|frog
+	prep|with qn|another n|frog rel|that part|look-PASTP co|like
+	pro:poss:det|his n|+n|girl+n|friend .
+*CHI:	and he saw lots_of baby frogs .
+%mor:	coord|and pro:sub|he v|see&PAST qn|lots_of n|baby n|frog-PL .
+*CHI:	so &um he took one of the baby frogs for his new pet and left his
+	other [//] old pet frog with the rest of his family .
+%mor:	co|so pro:sub|he v|take&PAST pro:indef|one prep|of art|the n|baby
+	n|frog-PL prep|for pro:poss:det|his adj|new n|pet coord|and
+	v|leave&PAST pro:poss:det|his adj|old n|pet n|frog prep|with art|the
+	n|rest prep|of pro:poss:det|his n|family .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

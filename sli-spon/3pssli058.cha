@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/c-00004800-1
+@Begin
+@Languages:	eng
+@Participants:	INV Lisa Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|14;3.17||||Target_Child|||
+@Date:	07-FEB-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at Child's home. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	there's a boy in our school , who is annoying .
+%mor:	pro:exist|there~cop|be&3S art|a n|boy prep|in pro:poss:det|our
+	n|school cm|cm rel|who aux|be&3S part|annoy-PRESP .
+*CHI:	he does stupid things .
+%mor:	pro:sub|he v|do&3S adj|stupid n|thing-PL .
+*CHI:	he's thick .
+%mor:	pro:sub|he~cop|be&3S adj|thick .
+*CHI:	not thick thick , he knows how to read and that .
+%mor:	neg|not adj|thick n|thick cm|cm pro:sub|he v|know-3S adv:wh|how
+	inf|to v|read&ZERO coord|and pro:dem|that .
+*CHI:	he bullies people , takes the mick out 0 [*] <their trousers ,
+	clothes> [//] what you're wearing .
+%mor:	pro:sub|he v|bully-3S n|person&PL cm|cm v|take-3S art|the n|mick
+	adv|out pro:wh|what pro|you~aux|be&PRES part|wear-PRESP .
+%err:	0 = of
+*CHI:	&um (.) he swears sometimes and calls you funny names like ratchet
+	, rag+doll an(d) swear words .
+%mor:	pro:sub|he v|swear-3S adv|sometimes coord|and v|call-3S pro|you
+	adj|fun&dn-Y v|name-3S co|like n|ratchet cm|cm n|+n|rag+n|doll
+	coord|and v|swear n|word-PL .
+*CHI:	&um he does it to my friends , thinks he's hard but he's not .
+%mor:	pro:sub|he mod|do&3S pro|it prep|to pro:poss:det|my n|friend-PL
+	cm|cm v|think-3S pro:sub|he~aux|be&3S adv|hard conj|but
+	pro:sub|he~aux|be&3S neg|not .
+*CHI:	&um (.) he does all sorts of stupid +...
+%mor:	pro:sub|he v|do&3S qn|all n|sort-PL prep|of adj|stupid +...
+*CHI:	he is stupid when he has his dinner sometimes .
+%mor:	pro:sub|he cop|be&3S adj|stupid conj|when pro:sub|he v|have&3S
+	pro:poss:det|his n|dinner adv|sometimes .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/c-00004949-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;02.03||||Target_Child|||
+@Date:	03-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	there's this girl called Helen .
+%mor:	pro:dem|there~aux|be&3S det|this n|girl v|call-PAST n:prop|Helen .
+*CHI:	and I really hate her because she's so annoying .
+%mor:	coord|and pro:sub|I adv|real&dadj-LY v|hate pro:obj|her
+	conj|because pro:sub|she~cop|be&3S adv|so part|annoy-PRESP .
+*CHI:	she always tells tales of me and <tells everyone> [//] turns
+	everyone against me .
+%mor:	pro:sub|she adv|always v|tell-3S n|tale-PL prep|of pro:obj|me
+	coord|and v|turn-3S pro:indef|everyone prep|against pro:obj|me .
+*CHI:	<she (.)> [/-] my best friend she took away from me .
+%mor:	pro:poss:det|my adj|good&SP n|friend pro:sub|she v|take&PAST
+	adv|away prep|from pro:obj|me .
+*CHI:	and we fell out for over a month .
+%mor:	coord|and pro:sub|we v|fall&PAST adv|out prep|for adv|over art|a
+	n|month .
+*CHI:	then me and my best friend turned against her .
+%mor:	adv:tem|then pro:obj|me coord|and pro:poss:det|my adj|good&SP
+	n|friend v|turn-PAST prep|against pro:obj|her .
+*CHI:	so we're not friends with her no [*] more .
+%mor:	conj|so pro:sub|we~aux|be&PRES neg|not n|friend-PL prep|with
+	pro:poss:det|her co|no pro:indef|more .
+%err:	no = any
+*CHI:	she used to always come up to me and pretend that she was my friend
+	when I hated her .
+%mor:	pro:sub|she v|use-PAST inf|to adv|always v|come adv|up prep|to
+	pro:obj|me coord|and adj|pretend rel|that pro:sub|she
+	cop|be&PAST&13S pro:poss:det|my n|friend conj|when pro:sub|I
+	v|hate-PAST pro:obj|her .
+*CHI:	she used to come up to me and pull my hair .
+%mor:	pro:sub|she v|use-PAST inf|to v|come adv|up prep|to pro:obj|me
+	coord|and v|pull pro:poss:det|my n|hair .
+*CHI:	but then well we just walked away me and my friend .
+%mor:	conj|but adv:tem|then adv|well pro:sub|we adv|just v|walk-PAST
+	adv|away pro:obj|me coord|and pro:poss:det|my n|friend .
+*CHI:	she always used to spread rumors about me and that .
+%mor:	pro:sub|she adv|always v|use-PAST inf|to v|spread&ZERO n|rumor-PL
+	prep|about pro:obj|me coord|and pro:dem|that .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

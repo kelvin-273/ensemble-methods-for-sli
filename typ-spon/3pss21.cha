@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/c-00004990-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;0.28||||Target_Child|||
+@Date:	27-MAY-2001
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	Martin's girlfriend Charlotte (be)cause she just follows him around
+	everywhere .
+%mor:	n:prop|Martin~poss|s n|+n|girl+n|friend n:prop|Charlotte
+	conj|because pro:sub|she adv|just v|follow-3S pro:obj|him adv|around
+	adv|everywhere .
+*CHI:	<and she can't like> [//] at lunchtime she just stands next_to him
+	and doesn't say anything .
+%mor:	prep|at n|+n|lunch+n|time pro:sub|she adv|just v|stand-3S
+	prep|next_to pro:obj|him coord|and mod|do&3S~neg|not v|say
+	pro:indef|anything .
+*CHI:	and it really annoys me .
+%mor:	coord|and pro|it adv|real&dadj-LY v|annoy-3S pro:obj|me .
+*CHI:	and that's basically it .
+%mor:	coord|and pro:dem|that~cop|be&3S adv|basic&dadj-AL-LY pro|it .
+*INV:	that's it ?
+%mor:	pro:dem|that~cop|be&3S pro|it ?
+*CHI:	she just stands there all the time .
+%mor:	pro:sub|she adv|just v|stand-3S adv|there qn|all art|the n|time .
+*CHI:	she don't [*] say anything .
+%mor:	pro:sub|she mod|do~neg|not v|say pro:indef|anything .
+%err:	don't = doesn't
+*CHI:	and then she just follows him around .
+%mor:	coord|and adv:tem|then pro:sub|she adv|just v|follow-3S pro:obj|him
+	adv|around .
+*CHI:	and she comes out and there's no point because she just sits there
+	.
+%mor:	coord|and pro:sub|she v|come-3S adv|out coord|and
+	pro:exist|there~cop|be&3S qn|no n|point conj|because pro:sub|she
+	adv|just v|sit-3S adv|there .
+*CHI:	and nobody +...
+%mor:	coord|and pro:indef|nobody +...
+*CHI:	she don't [*] speak to anybody .
+%mor:	pro:sub|she mod|do~neg|not v|speak prep|to pro:indef|anybody .
+%err:	don't = doesn't
+*CHI:	she just sits there and it just +...
+%mor:	pro:sub|she adv|just v|sit-3S adv|there coord|and pro|it adv|just
+	+...
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

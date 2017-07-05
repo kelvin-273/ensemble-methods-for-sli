@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/c-00004933-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;05.19||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&um they're nasty to people .
+%mor:	pro:sub|they~cop|be&PRES adj|nasty prep|to n|person&PL .
+*INV:	is it a he or a she ?
+%mor:	aux|be&3S pro|it art|a pro:sub|he coord|or art|a pro:sub|she ?
+*CHI:	a she .
+%mor:	art|a pro:sub|she .
+*INV:	she .
+%mor:	pro:sub|she .
+*INV:	so she's nasty .
+%mor:	conj|so pro:sub|she~cop|be&3S adj|nasty .
+*CHI:	she's nasty .
+%mor:	pro:sub|she~cop|be&3S adj|nasty .
+*CHI:	people they sort of be friendly .
+%mor:	n|person&PL pro:sub|they v|sort prep|of cop|be adj|friend&dn-LY .
+*CHI:	and then they're not friendly anymore .
+%mor:	coord|and adv:tem|then pro:sub|they~cop|be&PRES neg|not
+	adj|friend&dn-LY adv|anymore .
+*INV:	yeah .
+%mor:	co|yeah .
+*CHI:	&um .
+*INV:	any more ?
+%mor:	qn|any pro:indef|more ?
+*INV:	does she laugh at you or <take things> [>] .
+%mor:	mod|do&3S pro:sub|she v|laugh prep|at pro|you coord|or v|take
+	n|thing-PL .
+*CHI:	<yeah she laughs> [<] not to me .
+%mor:	co|yeah pro:sub|she v|laugh-3S neg|not prep|to pro:obj|me .
+*CHI:	but she does to other people .
+%mor:	conj|but pro:sub|she v|do&3S prep|to qn|other n|person&PL .
+*CHI:	she sort of says things behind their backs .
+%mor:	pro:sub|she v|sort prep|of co|say-PL n|thing-PL adv|behind
+	pro:poss:det|their n|back-PL .
+*CHI:	and then does things like loud whispers <so you can hear> [//] so
+	you can just hear it .
+%mor:	coord|and adv:tem|then mod|do&3S n|thing-PL prep|like adj|loud
+	n|whisper-PL conj|so pro|you mod|can adv|just v|hear pro|it .
+*CHI:	but it's sort of like you're not supposed to hear it .
+%mor:	conj|but pro|it~cop|be&3S n|sort prep|of co|like
+	pro|you~aux|be&PRES neg|not part|suppose-PASTP inf|to v|hear pro|it
+	.
+*CHI:	things like that .
+%mor:	n|thing-PL prep|like pro:dem|that .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

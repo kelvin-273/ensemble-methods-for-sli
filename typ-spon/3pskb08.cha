@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/c-00004924-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;11.07||||Target_Child|||
+@Date:	16-JUL-2001
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	he mucks around .
+%mor:	pro:sub|he v|muck-3S adv|around .
+*CHI:	he [/] he shouts all time .
+%mor:	pro:sub|he v|shout-3S adv|all n|time .
+*CHI:	he does stupid things .
+%mor:	pro:sub|he v|do&3S adj|stupid n|thing-PL .
+*CHI:	he dazes [*] .
+%mor:	pro:sub|he v|daze-3S .
+%err:	dazes = ?
+*CHI:	and everyone laughs at him .
+%mor:	coord|and pro:indef|everyone v|laugh-3S prep|at pro:obj|him .
+*CHI:	everyone thinks he's the class joker .
+%mor:	pro:indef|everyone v|think-3S pro:sub|he~aux|be&3S art|the n|class
+	n|joke&dv-AGT .
+*CHI:	he [/] (.) he shouts a lot .
+%mor:	pro:sub|he v|shout-3S art|a n|lot .
+*CHI:	he says +"/.
+%mor:	pro:sub|he v|say-3S +"/.
+*CHI:	+" what have I done ?
+%mor:	pro:wh|what v|have pro:sub|I part|do&PASTP ?
+*CHI:	when our form tutor says things like +"/.
+%mor:	conj|when pro:poss:det|our n|form n|tutor v|say-3S n|thing-PL
+	prep|like +"/.
+*CHI:	+" oh that was poor behavior .
+%mor:	co|oh rel|that cop|be&PAST&13S adj|poor n|behavior .
+*CHI:	so he's always like +"/.
+%mor:	adv|so pro:sub|he~cop|be&3S adv|always co|like +"/.
+*CHI:	+" what've I done ?
+%mor:	pro:wh|what~aux|have pro:sub|I part|do&PASTP ?
+*CHI:	when he knows that he's done it .
+%mor:	conj|when pro:sub|he v|know-3S rel|that pro:sub|he~aux|be&3S
+	part|do&PASTP pro|it .
+*CHI:	an(d) then our form tutor just gets angry [/] angry an(d) shouts at
+	us all and then moans at us all and like +"/.
+%mor:	coord|and adv:tem|then pro:poss:det|our n|form n|tutor adv|just
+	v|get-3S adj|angry coord|and v|shout-3S prep|at pro:obj|us post|all
+	coord|and adv:tem|then v|moan-3S prep|at pro:obj|us post|all
+	coord|and co|like +"/.
+*CHI:	+" oh come back at break time !
+%mor:	co|oh v|come adv|back prep|at v|break n|time !
+*CHI:	and stuff like that .
+%mor:	coord|and n|stuff prep|like pro:dem|that .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End

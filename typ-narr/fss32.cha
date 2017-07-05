@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/c-00004901-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|15;08.26||||Target_Child|||
+@Date:	18-DEC-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	<alright then> [//] I had <a jog> [//] a frog in my jar .
+%mor:	pro:sub|I v|have&PAST art|a n|frog prep|in pro:poss:det|my n|jar .
+*CHI:	when I was asleep it climbed out and ran away .
+%mor:	conj|when pro:sub|I cop|be&PAST&13S adv|asleep pro|it v|climb-PAST
+	adv|out coord|and v|run&PAST adv|away .
+*CHI:	I'd searched everywhere in my bed+room .
+%mor:	pro:sub|I~mod|genmod v|search-PAST n|everywhere prep|in
+	pro:poss:det|my n|+n|bed+n|room .
+*CHI:	and my dog got stuck in the jar and fell out_of the window .
+%mor:	coord|and pro:poss:det|my n|dog aux|get&PAST part|stick&PASTP
+	prep|in art|the n|jar coord|and v|fall&PAST prep|out_of art|the
+	n|window .
+*CHI:	and &er the jar smashed .
+%mor:	coord|and art|the n|jar v|smash-PAST .
+*CHI:	but my dog was alright .
+%mor:	conj|but pro:poss:det|my n|dog cop|be&PAST&13S adj|alright .
+*CHI:	<I se(arched)> [//] I went into the woods and searched everywhere .
+%mor:	pro:sub|I v|go&PAST prep|into art|the n|wood-PL coord|and
+	v|search-PAST n|everywhere .
+*CHI:	I searched down molehills and frog holes .
+%mor:	pro:sub|I v|search-PAST prep|down n|+n|mole+n|hill-PL coord|and
+	n|frog n|hole-PL .
+*CHI:	&=laughs and then my dog 0 [*] chased by a swarm of bees .
+%mor:	coord|and adv:tem|then pro:poss:det|my n|dog v|chase-PAST prep|by
+	art|a n|swarm prep|of n|bee-PL .
+%err:	0 = was
+*CHI:	I searched behind rocks and talked to owls and got chased by an
+	antelope .
+%mor:	pro:sub|I v|search-PAST adv|behind n|rock-PL coord|and v|talk-PAST
+	inf|to n|owl-PL coord|and v|get&PAST v|chase-PAST prep|by art|a
+	n|antelope .
+*CHI:	he pushed me off the rock with my dog .
+%mor:	pro:sub|he v|push-PAST pro:obj|me prep|off art|the n|rock prep|with
+	pro:poss:det|my n|dog .
+*CHI:	I fell into a river with some lily pads in and saw a log .
+%mor:	pro:sub|I v|fall&PAST prep|into art|a n|river prep|with qn|some
+	n|lily v|pad-3S adv|in coord|and v|see&PAST art|a n|log .
+*CHI:	I looked over the log .
+%mor:	pro:sub|I v|look-PAST prep|over art|the n|log .
+*CHI:	and I found my frogs and [//] with a family of frogs and a wife .
+%mor:	coord|and pro:sub|I v|find&PAST pro:poss:det|my n|frog-PL prep|with
+	art|a n|family prep|of n|frog-PL coord|and art|a n|wife .
+*CHI:	so I left them to it and went home .
+%mor:	co|so pro:sub|I v|leave&PAST pro:obj|them prep|to pro|it coord|and
+	v|go&PAST adv|home .
+*INV:	&www .
+%exp:	investigator talks as disc is turned off .
+@End
