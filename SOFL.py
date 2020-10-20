@@ -1,7 +1,7 @@
 """
 Self Ordering Frequency List module
 
-This class is a list that stores pairs of items ans there frequency
+This class is a list that stores pairs of items and their frequency
     and sorts itself with each insert
 when used in applications like natural language where
     the distribution of frequencies with respect to
